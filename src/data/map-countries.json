@@ -1,0 +1,887 @@
+[
+  {
+    "mapId": "004",
+    "isoNumeric": "004",
+    "mapName": "Afghanistan"
+  },
+  {
+    "mapId": "008",
+    "isoNumeric": "008",
+    "mapName": "Albania"
+  },
+  {
+    "mapId": "012",
+    "isoNumeric": "012",
+    "mapName": "Algeria"
+  },
+  {
+    "mapId": "024",
+    "isoNumeric": "024",
+    "mapName": "Angola"
+  },
+  {
+    "mapId": "010",
+    "isoNumeric": "010",
+    "mapName": "Antarctica"
+  },
+  {
+    "mapId": "032",
+    "isoNumeric": "032",
+    "mapName": "Argentina"
+  },
+  {
+    "mapId": "051",
+    "isoNumeric": "051",
+    "mapName": "Armenia"
+  },
+  {
+    "mapId": "036",
+    "isoNumeric": "036",
+    "mapName": "Australia"
+  },
+  {
+    "mapId": "040",
+    "isoNumeric": "040",
+    "mapName": "Austria"
+  },
+  {
+    "mapId": "031",
+    "isoNumeric": "031",
+    "mapName": "Azerbaijan"
+  },
+  {
+    "mapId": "044",
+    "isoNumeric": "044",
+    "mapName": "Bahamas"
+  },
+  {
+    "mapId": "050",
+    "isoNumeric": "050",
+    "mapName": "Bangladesh"
+  },
+  {
+    "mapId": "112",
+    "isoNumeric": "112",
+    "mapName": "Belarus"
+  },
+  {
+    "mapId": "056",
+    "isoNumeric": "056",
+    "mapName": "Belgium"
+  },
+  {
+    "mapId": "084",
+    "isoNumeric": "084",
+    "mapName": "Belize"
+  },
+  {
+    "mapId": "204",
+    "isoNumeric": "204",
+    "mapName": "Benin"
+  },
+  {
+    "mapId": "064",
+    "isoNumeric": "064",
+    "mapName": "Bhutan"
+  },
+  {
+    "mapId": "068",
+    "isoNumeric": "068",
+    "mapName": "Bolivia"
+  },
+  {
+    "mapId": "070",
+    "isoNumeric": "070",
+    "mapName": "Bosnia and Herz."
+  },
+  {
+    "mapId": "072",
+    "isoNumeric": "072",
+    "mapName": "Botswana"
+  },
+  {
+    "mapId": "076",
+    "isoNumeric": "076",
+    "mapName": "Brazil"
+  },
+  {
+    "mapId": "096",
+    "isoNumeric": "096",
+    "mapName": "Brunei"
+  },
+  {
+    "mapId": "100",
+    "isoNumeric": "100",
+    "mapName": "Bulgaria"
+  },
+  {
+    "mapId": "854",
+    "isoNumeric": "854",
+    "mapName": "Burkina Faso"
+  },
+  {
+    "mapId": "108",
+    "isoNumeric": "108",
+    "mapName": "Burundi"
+  },
+  {
+    "mapId": "116",
+    "isoNumeric": "116",
+    "mapName": "Cambodia"
+  },
+  {
+    "mapId": "120",
+    "isoNumeric": "120",
+    "mapName": "Cameroon"
+  },
+  {
+    "mapId": "124",
+    "isoNumeric": "124",
+    "mapName": "Canada"
+  },
+  {
+    "mapId": "140",
+    "isoNumeric": "140",
+    "mapName": "Central African Rep."
+  },
+  {
+    "mapId": "148",
+    "isoNumeric": "148",
+    "mapName": "Chad"
+  },
+  {
+    "mapId": "152",
+    "isoNumeric": "152",
+    "mapName": "Chile"
+  },
+  {
+    "mapId": "156",
+    "isoNumeric": "156",
+    "mapName": "China"
+  },
+  {
+    "mapId": "170",
+    "isoNumeric": "170",
+    "mapName": "Colombia"
+  },
+  {
+    "mapId": "178",
+    "isoNumeric": "178",
+    "mapName": "Congo"
+  },
+  {
+    "mapId": "188",
+    "isoNumeric": "188",
+    "mapName": "Costa Rica"
+  },
+  {
+    "mapId": "384",
+    "isoNumeric": "384",
+    "mapName": "Côte d'Ivoire"
+  },
+  {
+    "mapId": "191",
+    "isoNumeric": "191",
+    "mapName": "Croatia"
+  },
+  {
+    "mapId": "192",
+    "isoNumeric": "192",
+    "mapName": "Cuba"
+  },
+  {
+    "mapId": "196",
+    "isoNumeric": "196",
+    "mapName": "Cyprus"
+  },
+  {
+    "mapId": "203",
+    "isoNumeric": "203",
+    "mapName": "Czechia"
+  },
+  {
+    "mapId": "180",
+    "isoNumeric": "180",
+    "mapName": "Dem. Rep. Congo"
+  },
+  {
+    "mapId": "208",
+    "isoNumeric": "208",
+    "mapName": "Denmark"
+  },
+  {
+    "mapId": "262",
+    "isoNumeric": "262",
+    "mapName": "Djibouti"
+  },
+  {
+    "mapId": "214",
+    "isoNumeric": "214",
+    "mapName": "Dominican Rep."
+  },
+  {
+    "mapId": "218",
+    "isoNumeric": "218",
+    "mapName": "Ecuador"
+  },
+  {
+    "mapId": "818",
+    "isoNumeric": "818",
+    "mapName": "Egypt"
+  },
+  {
+    "mapId": "222",
+    "isoNumeric": "222",
+    "mapName": "El Salvador"
+  },
+  {
+    "mapId": "226",
+    "isoNumeric": "226",
+    "mapName": "Eq. Guinea"
+  },
+  {
+    "mapId": "232",
+    "isoNumeric": "232",
+    "mapName": "Eritrea"
+  },
+  {
+    "mapId": "233",
+    "isoNumeric": "233",
+    "mapName": "Estonia"
+  },
+  {
+    "mapId": "748",
+    "isoNumeric": "748",
+    "mapName": "eSwatini"
+  },
+  {
+    "mapId": "231",
+    "isoNumeric": "231",
+    "mapName": "Ethiopia"
+  },
+  {
+    "mapId": "238",
+    "isoNumeric": "238",
+    "mapName": "Falkland Is."
+  },
+  {
+    "mapId": "242",
+    "isoNumeric": "242",
+    "mapName": "Fiji"
+  },
+  {
+    "mapId": "246",
+    "isoNumeric": "246",
+    "mapName": "Finland"
+  },
+  {
+    "mapId": "260",
+    "isoNumeric": "260",
+    "mapName": "Fr. S. Antarctic Lands"
+  },
+  {
+    "mapId": "250",
+    "isoNumeric": "250",
+    "mapName": "France"
+  },
+  {
+    "mapId": "266",
+    "isoNumeric": "266",
+    "mapName": "Gabon"
+  },
+  {
+    "mapId": "270",
+    "isoNumeric": "270",
+    "mapName": "Gambia"
+  },
+  {
+    "mapId": "268",
+    "isoNumeric": "268",
+    "mapName": "Georgia"
+  },
+  {
+    "mapId": "276",
+    "isoNumeric": "276",
+    "mapName": "Germany"
+  },
+  {
+    "mapId": "288",
+    "isoNumeric": "288",
+    "mapName": "Ghana"
+  },
+  {
+    "mapId": "300",
+    "isoNumeric": "300",
+    "mapName": "Greece"
+  },
+  {
+    "mapId": "304",
+    "isoNumeric": "304",
+    "mapName": "Greenland"
+  },
+  {
+    "mapId": "320",
+    "isoNumeric": "320",
+    "mapName": "Guatemala"
+  },
+  {
+    "mapId": "324",
+    "isoNumeric": "324",
+    "mapName": "Guinea"
+  },
+  {
+    "mapId": "624",
+    "isoNumeric": "624",
+    "mapName": "Guinea-Bissau"
+  },
+  {
+    "mapId": "328",
+    "isoNumeric": "328",
+    "mapName": "Guyana"
+  },
+  {
+    "mapId": "332",
+    "isoNumeric": "332",
+    "mapName": "Haiti"
+  },
+  {
+    "mapId": "340",
+    "isoNumeric": "340",
+    "mapName": "Honduras"
+  },
+  {
+    "mapId": "348",
+    "isoNumeric": "348",
+    "mapName": "Hungary"
+  },
+  {
+    "mapId": "352",
+    "isoNumeric": "352",
+    "mapName": "Iceland"
+  },
+  {
+    "mapId": "356",
+    "isoNumeric": "356",
+    "mapName": "India"
+  },
+  {
+    "mapId": "360",
+    "isoNumeric": "360",
+    "mapName": "Indonesia"
+  },
+  {
+    "mapId": "364",
+    "isoNumeric": "364",
+    "mapName": "Iran"
+  },
+  {
+    "mapId": "368",
+    "isoNumeric": "368",
+    "mapName": "Iraq"
+  },
+  {
+    "mapId": "372",
+    "isoNumeric": "372",
+    "mapName": "Ireland"
+  },
+  {
+    "mapId": "376",
+    "isoNumeric": "376",
+    "mapName": "Israel"
+  },
+  {
+    "mapId": "380",
+    "isoNumeric": "380",
+    "mapName": "Italy"
+  },
+  {
+    "mapId": "388",
+    "isoNumeric": "388",
+    "mapName": "Jamaica"
+  },
+  {
+    "mapId": "392",
+    "isoNumeric": "392",
+    "mapName": "Japan"
+  },
+  {
+    "mapId": "400",
+    "isoNumeric": "400",
+    "mapName": "Jordan"
+  },
+  {
+    "mapId": "398",
+    "isoNumeric": "398",
+    "mapName": "Kazakhstan"
+  },
+  {
+    "mapId": "404",
+    "isoNumeric": "404",
+    "mapName": "Kenya"
+  },
+  {
+    "mapId": "name:kosovo",
+    "isoNumeric": "000",
+    "mapName": "Kosovo"
+  },
+  {
+    "mapId": "414",
+    "isoNumeric": "414",
+    "mapName": "Kuwait"
+  },
+  {
+    "mapId": "417",
+    "isoNumeric": "417",
+    "mapName": "Kyrgyzstan"
+  },
+  {
+    "mapId": "418",
+    "isoNumeric": "418",
+    "mapName": "Laos"
+  },
+  {
+    "mapId": "428",
+    "isoNumeric": "428",
+    "mapName": "Latvia"
+  },
+  {
+    "mapId": "422",
+    "isoNumeric": "422",
+    "mapName": "Lebanon"
+  },
+  {
+    "mapId": "426",
+    "isoNumeric": "426",
+    "mapName": "Lesotho"
+  },
+  {
+    "mapId": "430",
+    "isoNumeric": "430",
+    "mapName": "Liberia"
+  },
+  {
+    "mapId": "434",
+    "isoNumeric": "434",
+    "mapName": "Libya"
+  },
+  {
+    "mapId": "440",
+    "isoNumeric": "440",
+    "mapName": "Lithuania"
+  },
+  {
+    "mapId": "442",
+    "isoNumeric": "442",
+    "mapName": "Luxembourg"
+  },
+  {
+    "mapId": "807",
+    "isoNumeric": "807",
+    "mapName": "Macedonia"
+  },
+  {
+    "mapId": "450",
+    "isoNumeric": "450",
+    "mapName": "Madagascar"
+  },
+  {
+    "mapId": "454",
+    "isoNumeric": "454",
+    "mapName": "Malawi"
+  },
+  {
+    "mapId": "458",
+    "isoNumeric": "458",
+    "mapName": "Malaysia"
+  },
+  {
+    "mapId": "466",
+    "isoNumeric": "466",
+    "mapName": "Mali"
+  },
+  {
+    "mapId": "478",
+    "isoNumeric": "478",
+    "mapName": "Mauritania"
+  },
+  {
+    "mapId": "484",
+    "isoNumeric": "484",
+    "mapName": "Mexico"
+  },
+  {
+    "mapId": "498",
+    "isoNumeric": "498",
+    "mapName": "Moldova"
+  },
+  {
+    "mapId": "496",
+    "isoNumeric": "496",
+    "mapName": "Mongolia"
+  },
+  {
+    "mapId": "499",
+    "isoNumeric": "499",
+    "mapName": "Montenegro"
+  },
+  {
+    "mapId": "504",
+    "isoNumeric": "504",
+    "mapName": "Morocco"
+  },
+  {
+    "mapId": "508",
+    "isoNumeric": "508",
+    "mapName": "Mozambique"
+  },
+  {
+    "mapId": "104",
+    "isoNumeric": "104",
+    "mapName": "Myanmar"
+  },
+  {
+    "mapId": "name:n-cyprus",
+    "isoNumeric": "000",
+    "mapName": "N. Cyprus"
+  },
+  {
+    "mapId": "516",
+    "isoNumeric": "516",
+    "mapName": "Namibia"
+  },
+  {
+    "mapId": "524",
+    "isoNumeric": "524",
+    "mapName": "Nepal"
+  },
+  {
+    "mapId": "528",
+    "isoNumeric": "528",
+    "mapName": "Netherlands"
+  },
+  {
+    "mapId": "540",
+    "isoNumeric": "540",
+    "mapName": "New Caledonia"
+  },
+  {
+    "mapId": "554",
+    "isoNumeric": "554",
+    "mapName": "New Zealand"
+  },
+  {
+    "mapId": "558",
+    "isoNumeric": "558",
+    "mapName": "Nicaragua"
+  },
+  {
+    "mapId": "562",
+    "isoNumeric": "562",
+    "mapName": "Niger"
+  },
+  {
+    "mapId": "566",
+    "isoNumeric": "566",
+    "mapName": "Nigeria"
+  },
+  {
+    "mapId": "408",
+    "isoNumeric": "408",
+    "mapName": "North Korea"
+  },
+  {
+    "mapId": "578",
+    "isoNumeric": "578",
+    "mapName": "Norway"
+  },
+  {
+    "mapId": "512",
+    "isoNumeric": "512",
+    "mapName": "Oman"
+  },
+  {
+    "mapId": "586",
+    "isoNumeric": "586",
+    "mapName": "Pakistan"
+  },
+  {
+    "mapId": "275",
+    "isoNumeric": "275",
+    "mapName": "Palestine"
+  },
+  {
+    "mapId": "591",
+    "isoNumeric": "591",
+    "mapName": "Panama"
+  },
+  {
+    "mapId": "598",
+    "isoNumeric": "598",
+    "mapName": "Papua New Guinea"
+  },
+  {
+    "mapId": "600",
+    "isoNumeric": "600",
+    "mapName": "Paraguay"
+  },
+  {
+    "mapId": "604",
+    "isoNumeric": "604",
+    "mapName": "Peru"
+  },
+  {
+    "mapId": "608",
+    "isoNumeric": "608",
+    "mapName": "Philippines"
+  },
+  {
+    "mapId": "616",
+    "isoNumeric": "616",
+    "mapName": "Poland"
+  },
+  {
+    "mapId": "620",
+    "isoNumeric": "620",
+    "mapName": "Portugal"
+  },
+  {
+    "mapId": "630",
+    "isoNumeric": "630",
+    "mapName": "Puerto Rico"
+  },
+  {
+    "mapId": "634",
+    "isoNumeric": "634",
+    "mapName": "Qatar"
+  },
+  {
+    "mapId": "642",
+    "isoNumeric": "642",
+    "mapName": "Romania"
+  },
+  {
+    "mapId": "643",
+    "isoNumeric": "643",
+    "mapName": "Russia"
+  },
+  {
+    "mapId": "646",
+    "isoNumeric": "646",
+    "mapName": "Rwanda"
+  },
+  {
+    "mapId": "728",
+    "isoNumeric": "728",
+    "mapName": "S. Sudan"
+  },
+  {
+    "mapId": "682",
+    "isoNumeric": "682",
+    "mapName": "Saudi Arabia"
+  },
+  {
+    "mapId": "686",
+    "isoNumeric": "686",
+    "mapName": "Senegal"
+  },
+  {
+    "mapId": "688",
+    "isoNumeric": "688",
+    "mapName": "Serbia"
+  },
+  {
+    "mapId": "694",
+    "isoNumeric": "694",
+    "mapName": "Sierra Leone"
+  },
+  {
+    "mapId": "703",
+    "isoNumeric": "703",
+    "mapName": "Slovakia"
+  },
+  {
+    "mapId": "705",
+    "isoNumeric": "705",
+    "mapName": "Slovenia"
+  },
+  {
+    "mapId": "090",
+    "isoNumeric": "090",
+    "mapName": "Solomon Is."
+  },
+  {
+    "mapId": "706",
+    "isoNumeric": "706",
+    "mapName": "Somalia"
+  },
+  {
+    "mapId": "name:somaliland",
+    "isoNumeric": "000",
+    "mapName": "Somaliland"
+  },
+  {
+    "mapId": "710",
+    "isoNumeric": "710",
+    "mapName": "South Africa"
+  },
+  {
+    "mapId": "410",
+    "isoNumeric": "410",
+    "mapName": "South Korea"
+  },
+  {
+    "mapId": "724",
+    "isoNumeric": "724",
+    "mapName": "Spain"
+  },
+  {
+    "mapId": "144",
+    "isoNumeric": "144",
+    "mapName": "Sri Lanka"
+  },
+  {
+    "mapId": "729",
+    "isoNumeric": "729",
+    "mapName": "Sudan"
+  },
+  {
+    "mapId": "740",
+    "isoNumeric": "740",
+    "mapName": "Suriname"
+  },
+  {
+    "mapId": "752",
+    "isoNumeric": "752",
+    "mapName": "Sweden"
+  },
+  {
+    "mapId": "756",
+    "isoNumeric": "756",
+    "mapName": "Switzerland"
+  },
+  {
+    "mapId": "760",
+    "isoNumeric": "760",
+    "mapName": "Syria"
+  },
+  {
+    "mapId": "158",
+    "isoNumeric": "158",
+    "mapName": "Taiwan"
+  },
+  {
+    "mapId": "762",
+    "isoNumeric": "762",
+    "mapName": "Tajikistan"
+  },
+  {
+    "mapId": "834",
+    "isoNumeric": "834",
+    "mapName": "Tanzania"
+  },
+  {
+    "mapId": "764",
+    "isoNumeric": "764",
+    "mapName": "Thailand"
+  },
+  {
+    "mapId": "626",
+    "isoNumeric": "626",
+    "mapName": "Timor-Leste"
+  },
+  {
+    "mapId": "768",
+    "isoNumeric": "768",
+    "mapName": "Togo"
+  },
+  {
+    "mapId": "780",
+    "isoNumeric": "780",
+    "mapName": "Trinidad and Tobago"
+  },
+  {
+    "mapId": "788",
+    "isoNumeric": "788",
+    "mapName": "Tunisia"
+  },
+  {
+    "mapId": "792",
+    "isoNumeric": "792",
+    "mapName": "Turkey"
+  },
+  {
+    "mapId": "795",
+    "isoNumeric": "795",
+    "mapName": "Turkmenistan"
+  },
+  {
+    "mapId": "800",
+    "isoNumeric": "800",
+    "mapName": "Uganda"
+  },
+  {
+    "mapId": "804",
+    "isoNumeric": "804",
+    "mapName": "Ukraine"
+  },
+  {
+    "mapId": "784",
+    "isoNumeric": "784",
+    "mapName": "United Arab Emirates"
+  },
+  {
+    "mapId": "826",
+    "isoNumeric": "826",
+    "mapName": "United Kingdom"
+  },
+  {
+    "mapId": "840",
+    "isoNumeric": "840",
+    "mapName": "United States of America"
+  },
+  {
+    "mapId": "858",
+    "isoNumeric": "858",
+    "mapName": "Uruguay"
+  },
+  {
+    "mapId": "860",
+    "isoNumeric": "860",
+    "mapName": "Uzbekistan"
+  },
+  {
+    "mapId": "548",
+    "isoNumeric": "548",
+    "mapName": "Vanuatu"
+  },
+  {
+    "mapId": "862",
+    "isoNumeric": "862",
+    "mapName": "Venezuela"
+  },
+  {
+    "mapId": "704",
+    "isoNumeric": "704",
+    "mapName": "Vietnam"
+  },
+  {
+    "mapId": "732",
+    "isoNumeric": "732",
+    "mapName": "W. Sahara"
+  },
+  {
+    "mapId": "887",
+    "isoNumeric": "887",
+    "mapName": "Yemen"
+  },
+  {
+    "mapId": "894",
+    "isoNumeric": "894",
+    "mapName": "Zambia"
+  },
+  {
+    "mapId": "716",
+    "isoNumeric": "716",
+    "mapName": "Zimbabwe"
+  }
+]

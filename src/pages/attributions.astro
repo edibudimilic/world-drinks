@@ -1,0 +1,22 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { drinkCountries } from '../data/drinks';
+---
+
+<BaseLayout title="Image Credits | World Drinks" description="Image credit details for drink photos and illustrations used by World Drinks.">
+  <main class="attribution-page">
+    <a class="back-link" href="/">Back to map</a>
+    <p class="eyebrow">Image credits</p>
+    <h1>Credits</h1>
+    <p class="lede">
+      Drink photos and illustrations are credited here with their source links where available.
+    </p>
+    <ol class="attribution-list">
+      {drinkCountries.map((country) => (
+        <li>
+          <strong>{country.name}: {country.drink}</strong> — {country.image.attribution}. <a href={country.image.sourceUrl}>Source</a>.
+        </li>
+      ))}
+    </ol>
+  </main>
+</BaseLayout>

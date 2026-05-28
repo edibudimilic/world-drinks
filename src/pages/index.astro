@@ -1,17 +1,39 @@
 ---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import DrinkWorldMap, { type MapDrinkCountry } from '../components/DrinkWorldMap';
+import { drinkCountries } from '../data/drinks';
 
+const mapCountries = drinkCountries.map((country): MapDrinkCountry => ({
+	mapId: country.mapId,
+	name: country.name,
+	region: country.region,
+	flag: country.flag,
+	drink: country.drink,
+	slug: country.slug,
+	description: country.description,
+	drinkType: country.drinkType,
+	image: {
+		localPath: country.image.localPath
+	}
+}));
 ---
 
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<link rel="icon" href="/favicon.ico" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
-	</head>
-	<body>
-		<h1>Astro</h1>
-	</body>
-</html>
+<BaseLayout
+	title="World Drinks | Interactive Global Drinks Map"
+	description="Explore popular and culturally significant drinks around the world through a responsive interactive map."
+>
+	<main class="shell">
+		<section class="intro" aria-labelledby="page-title">
+			<div>
+				<p class="eyebrow">Interactive atlas</p>
+				<h1 id="page-title">World Drinks</h1>
+				<p class="lede">
+					Hover, tap, or search the map to discover a featured drink by country, with images,
+					image credits, and a mobile-ready PWA experience.
+				</p>
+			</div>
+		</section>
+
+		<DrinkWorldMap client:load countries={mapCountries} />
+	</main>
+</BaseLayout>

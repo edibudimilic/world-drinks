@@ -1,0 +1,5316 @@
+[
+  {
+    "mapId": "004",
+    "iso2": "AF",
+    "iso3": "AFG",
+    "isoNumeric": "004",
+    "slug": "afghanistan",
+    "name": "Afghanistan",
+    "flag": "🇦🇫",
+    "region": "Asia",
+    "drink": "Doogh",
+    "drinkType": "yogurt drink",
+    "description": "A salted yogurt drink commonly served with Afghan meals.",
+    "confidence": "high",
+    "rationale": "Doogh is included as a culturally representative yogurt drink for Afghanistan.",
+    "sources": [
+      {
+        "label": "Doogh research query",
+        "url": "https://www.openverse.org/search/image?q=Afghan%20doogh%20yogurt%20drink"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/afghanistan.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/93512023@N00/3939260791",
+      "fileTitle": "04 Doogh salty yogurt drink - Bamiyan Afghan",
+      "author": "jasonlam",
+      "license": "CC BY-SA 2.0",
+      "attribution": "jasonlam, CC BY-SA 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "008",
+    "iso2": "AL",
+    "iso3": "ALB",
+    "isoNumeric": "008",
+    "slug": "albania",
+    "name": "Albania",
+    "flag": "🇦🇱",
+    "region": "Europe",
+    "drink": "Raki",
+    "drinkType": "spirit",
+    "description": "Fruit brandy is a traditional Albanian hospitality drink.",
+    "confidence": "high",
+    "rationale": "Raki is included as a culturally representative spirit for Albania.",
+    "sources": [
+      {
+        "label": "Raki research query",
+        "url": "https://www.openverse.org/search/image?q=Albanian%20raki%20drink"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/albania.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/134691288@N02/21789032333",
+      "fileTitle": "Yeni Rakı",
+      "author": "oezguerc",
+      "license": "CC BY 2.0",
+      "attribution": "oezguerc, CC BY 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "012",
+    "iso2": "DZ",
+    "iso3": "DZA",
+    "isoNumeric": "012",
+    "slug": "algeria",
+    "name": "Algeria",
+    "flag": "🇩🇿",
+    "region": "Africa",
+    "drink": "Mint tea",
+    "drinkType": "tea",
+    "description": "Sweet mint tea is widely shared in Algerian homes and cafes.",
+    "confidence": "high",
+    "rationale": "Mint tea is included as a culturally representative tea for Algeria.",
+    "sources": [
+      {
+        "label": "Mint tea research query",
+        "url": "https://www.openverse.org/search/image?q=Algerian%20mint%20tea"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/algeria.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/algeria",
+      "fileTitle": "Mint tea generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "024",
+    "iso2": "AO",
+    "iso3": "AGO",
+    "isoNumeric": "024",
+    "slug": "angola",
+    "name": "Angola",
+    "flag": "🇦🇴",
+    "region": "Africa",
+    "drink": "Kissangua",
+    "drinkType": "fermented drink",
+    "description": "Kissangua is a traditional Angolan fermented cereal drink.",
+    "confidence": "high",
+    "rationale": "Kissangua is included as a culturally representative fermented drink for Angola.",
+    "sources": [
+      {
+        "label": "Kissangua research query",
+        "url": "https://www.openverse.org/search/image?q=Angolan%20kissangua%20drink"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/angola.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/angola",
+      "fileTitle": "Kissangua generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "010",
+    "iso2": "AQ",
+    "iso3": "ATA",
+    "isoNumeric": "010",
+    "slug": "antarctica",
+    "name": "Antarctica",
+    "flag": "🇦🇶",
+    "region": "Antarctic",
+    "drink": "Hot chocolate",
+    "drinkType": "hot drink",
+    "description": "Hot chocolate is a practical comfort drink at Antarctic research stations.",
+    "confidence": "territory",
+    "rationale": "Hot chocolate is included as a culturally representative hot drink for Antarctica.",
+    "sources": [
+      {
+        "label": "Hot chocolate research query",
+        "url": "https://www.openverse.org/search/image?q=Antarctica%20research%20station%20hot%20chocolate"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/antarctica.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/antarctica",
+      "fileTitle": "Hot chocolate generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "032",
+    "iso2": "AR",
+    "iso3": "ARG",
+    "isoNumeric": "032",
+    "slug": "argentina",
+    "name": "Argentina",
+    "flag": "🇦🇷",
+    "region": "Americas",
+    "drink": "Mate",
+    "drinkType": "herbal infusion",
+    "description": "Mate is a deeply rooted social infusion in Argentina.",
+    "confidence": "official",
+    "rationale": "Mate is included as a culturally representative herbal infusion for Argentina.",
+    "sources": [
+      {
+        "label": "Argentina tourism culture note",
+        "url": "https://www.argentina.travel/en/news/mate-argentinas-national-drink"
+      },
+      {
+        "label": "Wikipedia: Mate",
+        "url": "https://en.wikipedia.org/wiki/Mate_(drink)"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/yerba-mate.jpg",
+      "status": "local-verified",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yerba_Mate_beverage.jpg",
+      "fileTitle": "Yerba Mate beverage.jpg",
+      "author": "Ponaksom",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Ponaksom, CC BY-SA 4.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "mapId": "051",
+    "iso2": "AM",
+    "iso3": "ARM",
+    "isoNumeric": "051",
+    "slug": "armenia",
+    "name": "Armenia",
+    "flag": "🇦🇲",
+    "region": "Asia",
+    "drink": "Tan",
+    "drinkType": "yogurt drink",
+    "description": "Tan is a traditional Armenian yogurt-based drink served chilled.",
+    "confidence": "high",
+    "rationale": "Tan is included as a culturally representative yogurt drink for Armenia.",
+    "sources": [
+      {
+        "label": "Tan research query",
+        "url": "https://www.openverse.org/search/image?q=Armenian%20tan%20yogurt%20drink"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/armenia.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/armenia",
+      "fileTitle": "Tan generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "036",
+    "iso2": "AU",
+    "iso3": "AUS",
+    "isoNumeric": "036",
+    "slug": "australia",
+    "name": "Australia",
+    "flag": "🇦🇺",
+    "region": "Oceania",
+    "drink": "Flat white",
+    "drinkType": "coffee",
+    "description": "The flat white is strongly associated with Australian cafe culture.",
+    "confidence": "high",
+    "rationale": "Flat white is included as a culturally representative coffee for Australia.",
+    "sources": [
+      {
+        "label": "Flat white research query",
+        "url": "https://www.openverse.org/search/image?q=Australian%20flat%20white%20coffee"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/australia.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/34948727@N00/17364920932",
+      "fileTitle": "Flat white coffee at Patch Cafe in Richmond",
+      "author": "ultrakml",
+      "license": "CC BY 2.0",
+      "attribution": "ultrakml, CC BY 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "040",
+    "iso2": "AT",
+    "iso3": "AUT",
+    "isoNumeric": "040",
+    "slug": "austria",
+    "name": "Austria",
+    "flag": "🇦🇹",
+    "region": "Europe",
+    "drink": "Almdudler",
+    "drinkType": "soft drink",
+    "description": "Almdudler is a well-known Austrian herbal soft drink.",
+    "confidence": "high",
+    "rationale": "Almdudler is included as a culturally representative soft drink for Austria.",
+    "sources": [
+      {
+        "label": "Almdudler research query",
+        "url": "https://www.openverse.org/search/image?q=Austrian%20Almdudler%20drink"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/austria.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/austria",
+      "fileTitle": "Almdudler generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "031",
+    "iso2": "AZ",
+    "iso3": "AZE",
+    "isoNumeric": "031",
+    "slug": "azerbaijan",
+    "name": "Azerbaijan",
+    "flag": "🇦🇿",
+    "region": "Asia",
+    "drink": "Cay",
+    "drinkType": "tea",
+    "description": "Black tea is central to Azerbaijani hospitality and daily life.",
+    "confidence": "high",
+    "rationale": "Cay is included as a culturally representative tea for Azerbaijan.",
+    "sources": [
+      {
+        "label": "Cay research query",
+        "url": "https://www.openverse.org/search/image?q=Azerbaijani%20cay%20tea"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/azerbaijan.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/azerbaijan",
+      "fileTitle": "Cay generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "044",
+    "iso2": "BS",
+    "iso3": "BHS",
+    "isoNumeric": "044",
+    "slug": "bahamas",
+    "name": "Bahamas",
+    "flag": "🇧🇸",
+    "region": "Americas",
+    "drink": "Sky Juice",
+    "drinkType": "cocktail",
+    "description": "Sky Juice mixes gin, coconut water, and condensed milk in Bahamian style.",
+    "confidence": "high",
+    "rationale": "Sky Juice is included as a culturally representative cocktail for Bahamas.",
+    "sources": [
+      {
+        "label": "Sky Juice research query",
+        "url": "https://www.openverse.org/search/image?q=Bahamian%20Sky%20Juice%20cocktail"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/bahamas.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/72547033@N06/52567988018",
+      "fileTitle": "Bee's Knees and Sky Juice Cocktails",
+      "author": "anaxmedia",
+      "license": "CC BY-SA 2.0",
+      "attribution": "anaxmedia, CC BY-SA 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "050",
+    "iso2": "BD",
+    "iso3": "BGD",
+    "isoNumeric": "050",
+    "slug": "bangladesh",
+    "name": "Bangladesh",
+    "flag": "🇧🇩",
+    "region": "Asia",
+    "drink": "Cha",
+    "drinkType": "tea",
+    "description": "Milk tea is a staple drink across Bangladesh.",
+    "confidence": "high",
+    "rationale": "Cha is included as a culturally representative tea for Bangladesh.",
+    "sources": [
+      {
+        "label": "Cha research query",
+        "url": "https://www.openverse.org/search/image?q=Bangladeshi%20cha%20tea"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/bangladesh.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/bangladesh",
+      "fileTitle": "Cha generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "112",
+    "iso2": "BY",
+    "iso3": "BLR",
+    "isoNumeric": "112",
+    "slug": "belarus",
+    "name": "Belarus",
+    "flag": "🇧🇾",
+    "region": "Europe",
+    "drink": "Kvass",
+    "drinkType": "fermented drink",
+    "description": "Kvass is a traditional fermented rye drink enjoyed in Belarus.",
+    "confidence": "high",
+    "rationale": "Kvass is included as a culturally representative fermented drink for Belarus.",
+    "sources": [
+      {
+        "label": "Kvass research query",
+        "url": "https://www.openverse.org/search/image?q=Belarusian%20kvass%20drink"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/belarus.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/61385121@N07/25344904006",
+      "fileTitle": "KVAS",
+      "author": "Isabel Sommerfeld",
+      "license": "CC BY 2.0",
+      "attribution": "Isabel Sommerfeld, CC BY 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "056",
+    "iso2": "BE",
+    "iso3": "BEL",
+    "isoNumeric": "056",
+    "slug": "belgium",
+    "name": "Belgium",
+    "flag": "🇧🇪",
+    "region": "Europe",
+    "drink": "Belgian beer",
+    "drinkType": "beer",
+    "description": "Belgium is internationally known for its diverse beer traditions.",
+    "confidence": "high",
+    "rationale": "Belgian beer is included as a culturally representative beer for Belgium.",
+    "sources": [
+      {
+        "label": "Belgian beer research query",
+        "url": "https://www.openverse.org/search/image?q=Belgian%20beer"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/belgium.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/10413717@N08/4568474646",
+      "fileTitle": "Belgian Beer",
+      "author": "Smabs Sputzer (1956-2017)",
+      "license": "CC BY 2.0",
+      "attribution": "Smabs Sputzer (1956-2017), CC BY 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "084",
+    "iso2": "BZ",
+    "iso3": "BLZ",
+    "isoNumeric": "084",
+    "slug": "belize",
+    "name": "Belize",
+    "flag": "🇧🇿",
+    "region": "Americas",
+    "drink": "Belikin",
+    "drinkType": "beer",
+    "description": "Belikin is a locally iconic Belizean beer.",
+    "confidence": "high",
+    "rationale": "Belikin is included as a culturally representative beer for Belize.",
+    "sources": [
+      {
+        "label": "Belikin research query",
+        "url": "https://www.openverse.org/search/image?q=Belize%20Belikin%20beer"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/belize.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/67867196@N00/538190077",
+      "fileTitle": "Belikin Dark",
+      "author": "rharrison",
+      "license": "CC BY-SA 2.0",
+      "attribution": "rharrison, CC BY-SA 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "204",
+    "iso2": "BJ",
+    "iso3": "BEN",
+    "isoNumeric": "204",
+    "slug": "benin",
+    "name": "Benin",
+    "flag": "🇧🇯",
+    "region": "Africa",
+    "drink": "Tchoukoutou",
+    "drinkType": "beer",
+    "description": "Tchoukoutou is a traditional sorghum beer in northern Benin.",
+    "confidence": "high",
+    "rationale": "Tchoukoutou is included as a culturally representative beer for Benin.",
+    "sources": [
+      {
+        "label": "Tchoukoutou research query",
+        "url": "https://www.openverse.org/search/image?q=Benin%20tchoukoutou%20beer"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/benin.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/benin",
+      "fileTitle": "Tchoukoutou generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "064",
+    "iso2": "BT",
+    "iso3": "BTN",
+    "isoNumeric": "064",
+    "slug": "bhutan",
+    "name": "Bhutan",
+    "flag": "🇧🇹",
+    "region": "Asia",
+    "drink": "Suja",
+    "drinkType": "butter tea",
+    "description": "Suja is a salty butter tea traditionally served in Bhutan.",
+    "confidence": "high",
+    "rationale": "Suja is included as a culturally representative butter tea for Bhutan.",
+    "sources": [
+      {
+        "label": "Suja research query",
+        "url": "https://www.openverse.org/search/image?q=Bhutanese%20suja%20butter%20tea"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/bhutan.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/56870569@N05/20243675943",
+      "fileTitle": "Fuel for hiking during the day: 'suja' is Bhutanese butter tea, made with tea leaves that have been boiled and seeped for over a day, mixed with salt and yak (or cow) butter. The colour reminded me Complan or cheap powdered hot chocolate. It's a calorie d",
+      "author": "ankurdotb",
+      "license": "CC BY-SA 2.0",
+      "attribution": "ankurdotb, CC BY-SA 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "068",
+    "iso2": "BO",
+    "iso3": "BOL",
+    "isoNumeric": "068",
+    "slug": "bolivia",
+    "name": "Bolivia",
+    "flag": "🇧🇴",
+    "region": "Americas",
+    "drink": "Mocochinchi",
+    "drinkType": "soft drink",
+    "description": "Mocochinchi is a Bolivian dried-peach drink served cold.",
+    "confidence": "high",
+    "rationale": "Mocochinchi is included as a culturally representative soft drink for Bolivia.",
+    "sources": [
+      {
+        "label": "Mocochinchi research query",
+        "url": "https://www.openverse.org/search/image?q=Bolivian%20mocochinchi%20drink"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/bolivia.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/bolivia",
+      "fileTitle": "Mocochinchi generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "070",
+    "iso2": "BA",
+    "iso3": "BIH",
+    "isoNumeric": "070",
+    "slug": "bosnia-and-herzegovina",
+    "name": "Bosnia and Herzegovina",
+    "flag": "🇧🇦",
+    "region": "Europe",
+    "drink": "Bosnian coffee",
+    "drinkType": "coffee",
+    "description": "Bosnian coffee is a traditional social drink served in a dzezva.",
+    "confidence": "high",
+    "rationale": "Bosnian coffee is included as a culturally representative coffee for Bosnia and Herzegovina.",
+    "sources": [
+      {
+        "label": "Bosnian coffee research query",
+        "url": "https://www.openverse.org/search/image?q=Bosnian%20coffee%20dzezva"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/bosnia-and-herzegovina.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=83567750",
+      "fileTitle": "<div class='fn'> Traditional Bosnian Coffee</div>",
+      "author": "Justin W Flory",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Justin W Flory, CC BY-SA 3.0, via wikimedia"
+    }
+  },
+  {
+    "mapId": "072",
+    "iso2": "BW",
+    "iso3": "BWA",
+    "isoNumeric": "072",
+    "slug": "botswana",
+    "name": "Botswana",
+    "flag": "🇧🇼",
+    "region": "Africa",
+    "drink": "Bojalwa jwa Setswana",
+    "drinkType": "beer",
+    "description": "Traditional sorghum beer is part of Setswana communal occasions.",
+    "confidence": "high",
+    "rationale": "Bojalwa jwa Setswana is included as a culturally representative beer for Botswana.",
+    "sources": [
+      {
+        "label": "Bojalwa jwa Setswana research query",
+        "url": "https://www.openverse.org/search/image?q=Botswana%20sorghum%20beer"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/botswana.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/botswana",
+      "fileTitle": "Bojalwa jwa Setswana generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "076",
+    "iso2": "BR",
+    "iso3": "BRA",
+    "isoNumeric": "076",
+    "slug": "brazil",
+    "name": "Brazil",
+    "flag": "🇧🇷",
+    "region": "Americas",
+    "drink": "Caipirinha",
+    "drinkType": "cocktail",
+    "description": "The caipirinha is Brazil's classic cachaca and lime cocktail.",
+    "confidence": "official",
+    "rationale": "Caipirinha is included as a culturally representative cocktail for Brazil.",
+    "sources": [
+      {
+        "label": "Wikipedia: Caipirinha",
+        "url": "https://en.wikipedia.org/wiki/Caipirinha"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/caipirinha.jpg",
+      "status": "local-verified",
+      "sourceUrl": "https://www.flickr.com/photos/56087830@N00/30556179443",
+      "fileTitle": "Caipirinha #caipirinha #cocktail #saopaulo",
+      "author": "markhillary",
+      "license": "CC BY 2.0",
+      "attribution": "markhillary, CC BY 2.0, via Flickr/Openverse"
+    }
+  },
+  {
+    "mapId": "096",
+    "iso2": "BN",
+    "iso3": "BRN",
+    "isoNumeric": "096",
+    "slug": "brunei",
+    "name": "Brunei",
+    "flag": "🇧🇳",
+    "region": "Asia",
+    "drink": "Teh tarik",
+    "drinkType": "tea",
+    "description": "Pulled milk tea is widely enjoyed in Brunei and nearby Malay food culture.",
+    "confidence": "medium",
+    "rationale": "Teh tarik is included as a culturally representative tea for Brunei.",
+    "sources": [
+      {
+        "label": "Teh tarik research query",
+        "url": "https://www.openverse.org/search/image?q=Brunei%20teh%20tarik"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/brunei.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/57716646@N00/3870047640",
+      "fileTitle": "doubles: teh tarik",
+      "author": "septembermess",
+      "license": "CC BY 2.0",
+      "attribution": "septembermess, CC BY 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "100",
+    "iso2": "BG",
+    "iso3": "BGR",
+    "isoNumeric": "100",
+    "slug": "bulgaria",
+    "name": "Bulgaria",
+    "flag": "🇧🇬",
+    "region": "Europe",
+    "drink": "Rakia",
+    "drinkType": "spirit",
+    "description": "Rakia is a traditional fruit brandy served across Bulgaria.",
+    "confidence": "high",
+    "rationale": "Rakia is included as a culturally representative spirit for Bulgaria.",
+    "sources": [
+      {
+        "label": "Rakia research query",
+        "url": "https://www.openverse.org/search/image?q=Bulgarian%20rakia%20drink"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/bulgaria.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/bulgaria",
+      "fileTitle": "Rakia generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "854",
+    "iso2": "BF",
+    "iso3": "BFA",
+    "isoNumeric": "854",
+    "slug": "burkina-faso",
+    "name": "Burkina Faso",
+    "flag": "🇧🇫",
+    "region": "Africa",
+    "drink": "Dolo",
+    "drinkType": "beer",
+    "description": "Dolo is a traditional sorghum beer brewed in Burkina Faso.",
+    "confidence": "high",
+    "rationale": "Dolo is included as a culturally representative beer for Burkina Faso.",
+    "sources": [
+      {
+        "label": "Dolo research query",
+        "url": "https://www.openverse.org/search/image?q=Burkina%20Faso%20dolo%20beer"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/burkina-faso.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/50811886@N00/5407885597",
+      "fileTitle": "Dolo photo",
+      "author": "warrenski",
+      "license": "CC BY-SA 2.0",
+      "attribution": "warrenski, CC BY-SA 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "108",
+    "iso2": "BI",
+    "iso3": "BDI",
+    "isoNumeric": "108",
+    "slug": "burundi",
+    "name": "Burundi",
+    "flag": "🇧🇮",
+    "region": "Africa",
+    "drink": "Urwarwa",
+    "drinkType": "beer",
+    "description": "Urwarwa is a traditional Burundian banana beer.",
+    "confidence": "high",
+    "rationale": "Urwarwa is included as a culturally representative beer for Burundi.",
+    "sources": [
+      {
+        "label": "Urwarwa research query",
+        "url": "https://www.openverse.org/search/image?q=Burundi%20urwarwa%20banana%20beer"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/burundi.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/burundi",
+      "fileTitle": "Urwarwa generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "116",
+    "iso2": "KH",
+    "iso3": "KHM",
+    "isoNumeric": "116",
+    "slug": "cambodia",
+    "name": "Cambodia",
+    "flag": "🇰🇭",
+    "region": "Asia",
+    "drink": "Teuk tnaot",
+    "drinkType": "palm drink",
+    "description": "Palm juice is a traditional Cambodian drink made from sugar palm sap.",
+    "confidence": "high",
+    "rationale": "Teuk tnaot is included as a culturally representative palm drink for Cambodia.",
+    "sources": [
+      {
+        "label": "Teuk tnaot research query",
+        "url": "https://www.openverse.org/search/image?q=Cambodian%20teuk%20tnaot%20palm%20juice"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/cambodia.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/cambodia",
+      "fileTitle": "Teuk tnaot generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "120",
+    "iso2": "CM",
+    "iso3": "CMR",
+    "isoNumeric": "120",
+    "slug": "cameroon",
+    "name": "Cameroon",
+    "flag": "🇨🇲",
+    "region": "Africa",
+    "drink": "Bil-bil",
+    "drinkType": "beer",
+    "description": "Bil-bil is a traditional millet beer found in northern Cameroon.",
+    "confidence": "high",
+    "rationale": "Bil-bil is included as a culturally representative beer for Cameroon.",
+    "sources": [
+      {
+        "label": "Bil-bil research query",
+        "url": "https://www.openverse.org/search/image?q=Cameroon%20bil-bil%20beer"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/cameroon.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/cameroon",
+      "fileTitle": "Bil-bil generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "124",
+    "iso2": "CA",
+    "iso3": "CAN",
+    "isoNumeric": "124",
+    "slug": "canada",
+    "name": "Canada",
+    "flag": "🇨🇦",
+    "region": "Americas",
+    "drink": "Caesar",
+    "drinkType": "cocktail",
+    "description": "The Caesar is a Canadian cocktail made with clamato and vodka.",
+    "confidence": "high",
+    "rationale": "Caesar is included as a culturally representative cocktail for Canada.",
+    "sources": [
+      {
+        "label": "Caesar research query",
+        "url": "https://www.openverse.org/search/image?q=Canadian%20Caesar%20cocktail"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/canada.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/canada",
+      "fileTitle": "Caesar generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "140",
+    "iso2": "CF",
+    "iso3": "CAF",
+    "isoNumeric": "140",
+    "slug": "central-african-republic",
+    "name": "Central African Republic",
+    "flag": "🇨🇫",
+    "region": "Africa",
+    "drink": "Palm wine",
+    "drinkType": "palm wine",
+    "description": "Palm wine is a traditional fermented drink in Central African communities.",
+    "confidence": "medium",
+    "rationale": "Palm wine is included as a culturally representative palm wine for Central African Republic.",
+    "sources": [
+      {
+        "label": "Palm wine research query",
+        "url": "https://www.openverse.org/search/image?q=Central%20African%20Republic%20palm%20wine"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/central-african-republic.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/central-african-republic",
+      "fileTitle": "Palm wine generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "148",
+    "iso2": "TD",
+    "iso3": "TCD",
+    "isoNumeric": "148",
+    "slug": "chad",
+    "name": "Chad",
+    "flag": "🇹🇩",
+    "region": "Africa",
+    "drink": "Karkanji",
+    "drinkType": "hibiscus drink",
+    "description": "Karkanji is a hibiscus drink enjoyed in Chad and the Sahel.",
+    "confidence": "high",
+    "rationale": "Karkanji is included as a culturally representative hibiscus drink for Chad.",
+    "sources": [
+      {
+        "label": "Karkanji research query",
+        "url": "https://www.openverse.org/search/image?q=Chad%20karkanji%20hibiscus%20drink"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/chad.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/chad",
+      "fileTitle": "Karkanji generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "152",
+    "iso2": "CL",
+    "iso3": "CHL",
+    "isoNumeric": "152",
+    "slug": "chile",
+    "name": "Chile",
+    "flag": "🇨🇱",
+    "region": "Americas",
+    "drink": "Pisco sour",
+    "drinkType": "cocktail",
+    "description": "Pisco sour is a celebrated cocktail in Chilean drinking culture.",
+    "confidence": "high",
+    "rationale": "Pisco sour is included as a culturally representative cocktail for Chile.",
+    "sources": [
+      {
+        "label": "Pisco sour research query",
+        "url": "https://www.openverse.org/search/image?q=Chilean%20pisco%20sour"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/chile.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/44124369279@N01/4620250712",
+      "fileTitle": "Pisco Sour a la chilena",
+      "author": "morrissey",
+      "license": "CC BY 2.0",
+      "attribution": "morrissey, CC BY 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "156",
+    "iso2": "CN",
+    "iso3": "CHN",
+    "isoNumeric": "156",
+    "slug": "china",
+    "name": "China",
+    "flag": "🇨🇳",
+    "region": "Asia",
+    "drink": "Green tea",
+    "drinkType": "tea",
+    "description": "Tea has a long cultural history across China, with green tea especially prominent.",
+    "confidence": "high",
+    "rationale": "Green tea is included as a culturally representative tea for China.",
+    "sources": [
+      {
+        "label": "Green tea research query",
+        "url": "https://www.openverse.org/search/image?q=Chinese%20green%20tea"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/china.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/56796376@N00/140902695",
+      "fileTitle": "China - Chengdu 22 - green tea",
+      "author": "mckaysavage",
+      "license": "CC BY 2.0",
+      "attribution": "mckaysavage, CC BY 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "170",
+    "iso2": "CO",
+    "iso3": "COL",
+    "isoNumeric": "170",
+    "slug": "colombia",
+    "name": "Colombia",
+    "flag": "🇨🇴",
+    "region": "Americas",
+    "drink": "Aguardiente",
+    "drinkType": "spirit",
+    "description": "Aguardiente is a familiar anise-flavored spirit in Colombian celebrations.",
+    "confidence": "high",
+    "rationale": "Aguardiente is included as a culturally representative spirit for Colombia.",
+    "sources": [
+      {
+        "label": "Aguardiente research query",
+        "url": "https://www.openverse.org/search/image?q=Colombian%20aguardiente"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/colombia.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/colombia",
+      "fileTitle": "Aguardiente generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "178",
+    "iso2": "CG",
+    "iso3": "COG",
+    "isoNumeric": "178",
+    "slug": "republic-of-the-congo",
+    "name": "Republic of the Congo",
+    "flag": "🇨🇬",
+    "region": "Africa",
+    "drink": "Palm wine",
+    "drinkType": "palm wine",
+    "description": "Palm wine is a traditional fermented drink in Congolese communities.",
+    "confidence": "medium",
+    "rationale": "Palm wine is included as a culturally representative palm wine for Republic of the Congo.",
+    "sources": [
+      {
+        "label": "Palm wine research query",
+        "url": "https://www.openverse.org/search/image?q=Republic%20of%20Congo%20palm%20wine"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/republic-of-the-congo.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/republic-of-the-congo",
+      "fileTitle": "Palm wine generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "188",
+    "iso2": "CR",
+    "iso3": "CRI",
+    "isoNumeric": "188",
+    "slug": "costa-rica",
+    "name": "Costa Rica",
+    "flag": "🇨🇷",
+    "region": "Americas",
+    "drink": "Guaro sour",
+    "drinkType": "cocktail",
+    "description": "Guaro sour uses Costa Rica's sugarcane spirit in a local cocktail style.",
+    "confidence": "high",
+    "rationale": "Guaro sour is included as a culturally representative cocktail for Costa Rica.",
+    "sources": [
+      {
+        "label": "Guaro sour research query",
+        "url": "https://www.openverse.org/search/image?q=Costa%20Rican%20guaro%20sour"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/costa-rica.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=19004594",
+      "fileTitle": "File:Guaro Sour, Quepos.jpg",
+      "author": "David Berkowitz",
+      "license": "CC BY 2.0",
+      "attribution": "David Berkowitz, CC BY 2.0, via wikimedia"
+    }
+  },
+  {
+    "mapId": "384",
+    "iso2": "CI",
+    "iso3": "CIV",
+    "isoNumeric": "384",
+    "slug": "cote-d-ivoire",
+    "name": "Cote d'Ivoire",
+    "flag": "🇨🇮",
+    "region": "Africa",
+    "drink": "Bissap",
+    "drinkType": "hibiscus drink",
+    "description": "Bissap is a popular hibiscus drink in Cote d'Ivoire and West Africa.",
+    "confidence": "high",
+    "rationale": "Bissap is included as a culturally representative hibiscus drink for Cote d'Ivoire.",
+    "sources": [
+      {
+        "label": "Bissap research query",
+        "url": "https://www.openverse.org/search/image?q=Cote%20d'Ivoire%20bissap%20drink"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/cote-d-ivoire.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/7752522@N02/4913941306",
+      "fileTitle": "Trying the scotch egg and bissap drink fr. Purple hibiscus #ssfstreetfoodfair",
+      "author": "DianaMoon",
+      "license": "CC BY 2.0",
+      "attribution": "DianaMoon, CC BY 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "191",
+    "iso2": "HR",
+    "iso3": "HRV",
+    "isoNumeric": "191",
+    "slug": "croatia",
+    "name": "Croatia",
+    "flag": "🇭🇷",
+    "region": "Europe",
+    "drink": "Rakija",
+    "drinkType": "spirit",
+    "description": "Rakija is a traditional fruit brandy served throughout Croatia.",
+    "confidence": "high",
+    "rationale": "Rakija is included as a culturally representative spirit for Croatia.",
+    "sources": [
+      {
+        "label": "Rakija research query",
+        "url": "https://www.openverse.org/search/image?q=Croatian%20rakija%20drink"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/croatia.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=129044252",
+      "fileTitle": "Oj rakijo,ljubim tvoje ime",
+      "author": "Rimodalv Krutt",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Rimodalv Krutt, CC BY-SA 4.0, via wikimedia"
+    }
+  },
+  {
+    "mapId": "192",
+    "iso2": "CU",
+    "iso3": "CUB",
+    "isoNumeric": "192",
+    "slug": "cuba",
+    "name": "Cuba",
+    "flag": "🇨🇺",
+    "region": "Americas",
+    "drink": "Mojito",
+    "drinkType": "cocktail",
+    "description": "The mojito is a Cuban rum, lime, mint, and soda cocktail.",
+    "confidence": "high",
+    "rationale": "Mojito is included as a culturally representative cocktail for Cuba.",
+    "sources": [
+      {
+        "label": "Mojito research query",
+        "url": "https://www.openverse.org/search/image?q=Cuban%20mojito%20cocktail"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/cuba.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/14812197@N00/9712738217",
+      "fileTitle": "Piña Colada and Mojito at Hotel Nacional de Cuba",
+      "author": "vxla",
+      "license": "CC BY 2.0",
+      "attribution": "vxla, CC BY 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "196",
+    "iso2": "CY",
+    "iso3": "CYP",
+    "isoNumeric": "196",
+    "slug": "cyprus",
+    "name": "Cyprus",
+    "flag": "🇨🇾",
+    "region": "Europe",
+    "drink": "Brandy sour",
+    "drinkType": "cocktail",
+    "description": "Brandy sour is a well-known Cypriot cocktail tradition.",
+    "confidence": "high",
+    "rationale": "Brandy sour is included as a culturally representative cocktail for Cyprus.",
+    "sources": [
+      {
+        "label": "Brandy sour research query",
+        "url": "https://www.openverse.org/search/image?q=Cyprus%20brandy%20sour%20cocktail"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/cyprus.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/10039026@N03/12409747304",
+      "fileTitle": "Boqueria Sour del bar del Hotel Alfonso III de Sevilla",
+      "author": "Paul Lowry",
+      "license": "CC BY 2.0",
+      "attribution": "Paul Lowry, CC BY 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "203",
+    "iso2": "CZ",
+    "iso3": "CZE",
+    "isoNumeric": "203",
+    "slug": "czechia",
+    "name": "Czechia",
+    "flag": "🇨🇿",
+    "region": "Europe",
+    "drink": "Pilsner",
+    "drinkType": "beer",
+    "description": "Czech pilsner beer is a defining part of Czech brewing culture.",
+    "confidence": "high",
+    "rationale": "Pilsner is included as a culturally representative beer for Czechia.",
+    "sources": [
+      {
+        "label": "Pilsner research query",
+        "url": "https://www.openverse.org/search/image?q=Czech%20pilsner%20beer"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/czechia.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/53113704@N03/38056101635",
+      "fileTitle": "My advent callendar :) Pilsner Urquell",
+      "author": "Govisity / Tip na Trip / kosice.guide",
+      "license": "CC BY 2.0",
+      "attribution": "Govisity / Tip na Trip / kosice.guide, CC BY 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "180",
+    "iso2": "CD",
+    "iso3": "COD",
+    "isoNumeric": "180",
+    "slug": "democratic-republic-of-the-congo",
+    "name": "Democratic Republic of the Congo",
+    "flag": "🇨🇩",
+    "region": "Africa",
+    "drink": "Lotoko",
+    "drinkType": "spirit",
+    "description": "Lotoko is a traditional Congolese distilled spirit made from grains or bananas.",
+    "confidence": "medium",
+    "rationale": "Lotoko is included as a culturally representative spirit for Democratic Republic of the Congo.",
+    "sources": [
+      {
+        "label": "Lotoko research query",
+        "url": "https://www.openverse.org/search/image?q=Democratic%20Republic%20of%20Congo%20lotoko%20drink"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/democratic-republic-of-the-congo.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/democratic-republic-of-the-congo",
+      "fileTitle": "Lotoko generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "208",
+    "iso2": "DK",
+    "iso3": "DNK",
+    "isoNumeric": "208",
+    "slug": "denmark",
+    "name": "Denmark",
+    "flag": "🇩🇰",
+    "region": "Europe",
+    "drink": "Akvavit",
+    "drinkType": "spirit",
+    "description": "Akvavit is a traditional Scandinavian spirit served at Danish gatherings.",
+    "confidence": "high",
+    "rationale": "Akvavit is included as a culturally representative spirit for Denmark.",
+    "sources": [
+      {
+        "label": "Akvavit research query",
+        "url": "https://www.openverse.org/search/image?q=Danish%20akvavit"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/denmark.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/87603889@N00/347853952",
+      "fileTitle": "Christmas Aquavit",
+      "author": "Marcus Hansson",
+      "license": "CC BY 2.0",
+      "attribution": "Marcus Hansson, CC BY 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "262",
+    "iso2": "DJ",
+    "iso3": "DJI",
+    "isoNumeric": "262",
+    "slug": "djibouti",
+    "name": "Djibouti",
+    "flag": "🇩🇯",
+    "region": "Africa",
+    "drink": "Shaah",
+    "drinkType": "tea",
+    "description": "Spiced tea is commonly served in Djibouti's Somali and Afar food culture.",
+    "confidence": "high",
+    "rationale": "Shaah is included as a culturally representative tea for Djibouti.",
+    "sources": [
+      {
+        "label": "Shaah research query",
+        "url": "https://www.openverse.org/search/image?q=Djibouti%20shaah%20tea"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/djibouti.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/djibouti",
+      "fileTitle": "Shaah generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "214",
+    "iso2": "DO",
+    "iso3": "DOM",
+    "isoNumeric": "214",
+    "slug": "dominican-republic",
+    "name": "Dominican Republic",
+    "flag": "🇩🇴",
+    "region": "Americas",
+    "drink": "Mamajuana",
+    "drinkType": "infused spirit",
+    "description": "Mamajuana is a Dominican drink infused with rum, wine, honey, and botanicals.",
+    "confidence": "high",
+    "rationale": "Mamajuana is included as a culturally representative infused spirit for Dominican Republic.",
+    "sources": [
+      {
+        "label": "Mamajuana research query",
+        "url": "https://www.openverse.org/search/image?q=Dominican%20mamajuana%20drink"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/dominican-republic.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/69815923@N00/2552907275",
+      "fileTitle": "mamajuana",
+      "author": "Sonnett",
+      "license": "CC BY-SA 2.0",
+      "attribution": "Sonnett, CC BY-SA 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "218",
+    "iso2": "EC",
+    "iso3": "ECU",
+    "isoNumeric": "218",
+    "slug": "ecuador",
+    "name": "Ecuador",
+    "flag": "🇪🇨",
+    "region": "Americas",
+    "drink": "Canelazo",
+    "drinkType": "hot cocktail",
+    "description": "Canelazo is a warm spiced drink associated with Ecuador's Andean highlands.",
+    "confidence": "high",
+    "rationale": "Canelazo is included as a culturally representative hot cocktail for Ecuador.",
+    "sources": [
+      {
+        "label": "Canelazo research query",
+        "url": "https://www.openverse.org/search/image?q=Ecuadorian%20canelazo"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/ecuador.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/ecuador",
+      "fileTitle": "Canelazo generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "818",
+    "iso2": "EG",
+    "iso3": "EGY",
+    "isoNumeric": "818",
+    "slug": "egypt",
+    "name": "Egypt",
+    "flag": "🇪🇬",
+    "region": "Africa",
+    "drink": "Karkade",
+    "drinkType": "hibiscus drink",
+    "description": "Karkade is a hibiscus tea served hot or cold in Egypt.",
+    "confidence": "high",
+    "rationale": "Karkade is included as a culturally representative hibiscus drink for Egypt.",
+    "sources": [
+      {
+        "label": "Karkade research query",
+        "url": "https://www.openverse.org/search/image?q=Egyptian%20karkade%20hibiscus%20tea"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/egypt.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/egypt",
+      "fileTitle": "Karkade generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "222",
+    "iso2": "SV",
+    "iso3": "SLV",
+    "isoNumeric": "222",
+    "slug": "el-salvador",
+    "name": "El Salvador",
+    "flag": "🇸🇻",
+    "region": "Americas",
+    "drink": "Kolashampan",
+    "drinkType": "soft drink",
+    "description": "Kolashampan is a distinctive Salvadoran soda.",
+    "confidence": "high",
+    "rationale": "Kolashampan is included as a culturally representative soft drink for El Salvador.",
+    "sources": [
+      {
+        "label": "Kolashampan research query",
+        "url": "https://www.openverse.org/search/image?q=El%20Salvador%20Kolashampan"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/el-salvador.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/el-salvador",
+      "fileTitle": "Kolashampan generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "226",
+    "iso2": "GQ",
+    "iso3": "GNQ",
+    "isoNumeric": "226",
+    "slug": "equatorial-guinea",
+    "name": "Equatorial Guinea",
+    "flag": "🇬🇶",
+    "region": "Africa",
+    "drink": "Malamba",
+    "drinkType": "palm wine",
+    "description": "Malamba palm wine is a traditional drink in Equatorial Guinea.",
+    "confidence": "high",
+    "rationale": "Malamba is included as a culturally representative palm wine for Equatorial Guinea.",
+    "sources": [
+      {
+        "label": "Malamba research query",
+        "url": "https://www.openverse.org/search/image?q=Equatorial%20Guinea%20malamba%20palm%20wine"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/equatorial-guinea.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/equatorial-guinea",
+      "fileTitle": "Malamba generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "232",
+    "iso2": "ER",
+    "iso3": "ERI",
+    "isoNumeric": "232",
+    "slug": "eritrea",
+    "name": "Eritrea",
+    "flag": "🇪🇷",
+    "region": "Africa",
+    "drink": "Suwa",
+    "drinkType": "beer",
+    "description": "Suwa is a traditional Eritrean and Ethiopian fermented grain beer.",
+    "confidence": "high",
+    "rationale": "Suwa is included as a culturally representative beer for Eritrea.",
+    "sources": [
+      {
+        "label": "Suwa research query",
+        "url": "https://www.openverse.org/search/image?q=Eritrean%20suwa%20beer"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/eritrea.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/64607715@N05/15879201801",
+      "fileTitle": "Drinking Suwa (Beer), Ethiopia",
+      "author": "Rod Waddington",
+      "license": "CC BY-SA 2.0",
+      "attribution": "Rod Waddington, CC BY-SA 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "233",
+    "iso2": "EE",
+    "iso3": "EST",
+    "isoNumeric": "233",
+    "slug": "estonia",
+    "name": "Estonia",
+    "flag": "🇪🇪",
+    "region": "Europe",
+    "drink": "Kali",
+    "drinkType": "fermented drink",
+    "description": "Kali is Estonia's traditional lightly fermented rye drink.",
+    "confidence": "high",
+    "rationale": "Kali is included as a culturally representative fermented drink for Estonia.",
+    "sources": [
+      {
+        "label": "Kali research query",
+        "url": "https://www.openverse.org/search/image?q=Estonian%20kali%20drink"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/estonia.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/estonia",
+      "fileTitle": "Kali generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "748",
+    "iso2": "SZ",
+    "iso3": "SWZ",
+    "isoNumeric": "748",
+    "slug": "eswatini",
+    "name": "Eswatini",
+    "flag": "🇸🇿",
+    "region": "Africa",
+    "drink": "Umcombotsi",
+    "drinkType": "beer",
+    "description": "Umcombotsi is a traditional sorghum beer in Eswatini and southern Africa.",
+    "confidence": "high",
+    "rationale": "Umcombotsi is included as a culturally representative beer for Eswatini.",
+    "sources": [
+      {
+        "label": "Umcombotsi research query",
+        "url": "https://www.openverse.org/search/image?q=Eswatini%20umcombotsi%20beer"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/eswatini.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/eswatini",
+      "fileTitle": "Umcombotsi generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "231",
+    "iso2": "ET",
+    "iso3": "ETH",
+    "isoNumeric": "231",
+    "slug": "ethiopia",
+    "name": "Ethiopia",
+    "flag": "🇪🇹",
+    "region": "Africa",
+    "drink": "Buna",
+    "drinkType": "coffee",
+    "description": "Coffee ceremony is a central Ethiopian social tradition.",
+    "confidence": "high",
+    "rationale": "Buna is included as a culturally representative coffee for Ethiopia.",
+    "sources": [
+      {
+        "label": "Buna research query",
+        "url": "https://www.openverse.org/search/image?q=Ethiopian%20buna%20coffee%20ceremony"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/ethiopia.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/64607715@N05/13216526345",
+      "fileTitle": "Pouring Buna, Ethiopia",
+      "author": "Rod Waddington",
+      "license": "CC BY-SA 2.0",
+      "attribution": "Rod Waddington, CC BY-SA 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "238",
+    "iso2": "FK",
+    "iso3": "FLK",
+    "isoNumeric": "238",
+    "slug": "falkland-islands",
+    "name": "Falkland Islands",
+    "flag": "🇫🇰",
+    "region": "Americas",
+    "drink": "Tea",
+    "drinkType": "tea",
+    "description": "British-style tea is a familiar everyday drink in the Falkland Islands.",
+    "confidence": "territory",
+    "rationale": "Tea is included as a culturally representative tea for Falkland Islands.",
+    "sources": [
+      {
+        "label": "Tea research query",
+        "url": "https://www.openverse.org/search/image?q=Falkland%20Islands%20tea"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/falkland-islands.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/56087830@N00/9215619696",
+      "fileTitle": "English Breakfast Tea #tea #cha #breakfasttea #english #ingles #montesiao #serranegra #porcelana #caneca",
+      "author": "markhillary",
+      "license": "CC BY 2.0",
+      "attribution": "markhillary, CC BY 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "242",
+    "iso2": "FJ",
+    "iso3": "FJI",
+    "isoNumeric": "242",
+    "slug": "fiji",
+    "name": "Fiji",
+    "flag": "🇫🇯",
+    "region": "Oceania",
+    "drink": "Kava",
+    "drinkType": "ceremonial drink",
+    "description": "Kava is a culturally important drink in Fijian ceremonies and gatherings.",
+    "confidence": "high",
+    "rationale": "Kava is included as a culturally representative ceremonial drink for Fiji.",
+    "sources": [
+      {
+        "label": "Kava research query",
+        "url": "https://www.openverse.org/search/image?q=Fiji%20kava%20ceremony"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/fiji.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/23728403@N00/7499484598",
+      "fileTitle": "Kava ceremony on Kadavu",
+      "author": "bdearth",
+      "license": "CC BY 2.0",
+      "attribution": "bdearth, CC BY 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "246",
+    "iso2": "FI",
+    "iso3": "FIN",
+    "isoNumeric": "246",
+    "slug": "finland",
+    "name": "Finland",
+    "flag": "🇫🇮",
+    "region": "Europe",
+    "drink": "Lonkero",
+    "drinkType": "mixed drink",
+    "description": "Lonkero is a Finnish gin-and-grapefruit long drink.",
+    "confidence": "high",
+    "rationale": "Lonkero is included as a culturally representative mixed drink for Finland.",
+    "sources": [
+      {
+        "label": "Lonkero research query",
+        "url": "https://www.openverse.org/search/image?q=Finnish%20lonkero%20long%20drink"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/finland.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/finland",
+      "fileTitle": "Lonkero generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "260",
+    "iso2": "TF",
+    "iso3": "ATF",
+    "isoNumeric": "260",
+    "slug": "french-southern-and-antarctic-lands",
+    "name": "French Southern and Antarctic Lands",
+    "flag": "🇹🇫",
+    "region": "Antarctic",
+    "drink": "Coffee",
+    "drinkType": "hot drink",
+    "description": "Coffee is a practical station drink in the remote French southern territories.",
+    "confidence": "territory",
+    "rationale": "Coffee is included as a culturally representative hot drink for French Southern and Antarctic Lands.",
+    "sources": [
+      {
+        "label": "Coffee research query",
+        "url": "https://www.openverse.org/search/image?q=French%20Southern%20Antarctic%20Lands%20research%20station%20coffee"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/french-southern-and-antarctic-lands.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/147592390@N06/46816764385",
+      "fileTitle": "Coffee, Hot, Drink - Credit to https://myfriendscoffee.com/",
+      "author": "John Beans",
+      "license": "CC BY 2.0",
+      "attribution": "John Beans, CC BY 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "250",
+    "iso2": "FR",
+    "iso3": "FRA",
+    "isoNumeric": "250",
+    "slug": "france",
+    "name": "France",
+    "flag": "🇫🇷",
+    "region": "Europe",
+    "drink": "Wine",
+    "drinkType": "wine",
+    "description": "Wine is deeply embedded in French food and regional culture.",
+    "confidence": "high",
+    "rationale": "Wine is included as a culturally representative wine for France.",
+    "sources": [
+      {
+        "label": "Wine research query",
+        "url": "https://www.openverse.org/search/image?q=French%20wine"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/france.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/90692748@N04/29469642463",
+      "fileTitle": "Wall of wine (France through my eyes)",
+      "author": "docoverachiever",
+      "license": "CC BY 2.0",
+      "attribution": "docoverachiever, CC BY 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "266",
+    "iso2": "GA",
+    "iso3": "GAB",
+    "isoNumeric": "266",
+    "slug": "gabon",
+    "name": "Gabon",
+    "flag": "🇬🇦",
+    "region": "Africa",
+    "drink": "Palm wine",
+    "drinkType": "palm wine",
+    "description": "Palm wine is a traditional fermented drink in Gabon.",
+    "confidence": "medium",
+    "rationale": "Palm wine is included as a culturally representative palm wine for Gabon.",
+    "sources": [
+      {
+        "label": "Palm wine research query",
+        "url": "https://www.openverse.org/search/image?q=Gabon%20palm%20wine"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/gabon.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/gabon",
+      "fileTitle": "Palm wine generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "270",
+    "iso2": "GM",
+    "iso3": "GMB",
+    "isoNumeric": "270",
+    "slug": "gambia",
+    "name": "Gambia",
+    "flag": "🇬🇲",
+    "region": "Africa",
+    "drink": "Wonjo",
+    "drinkType": "hibiscus drink",
+    "description": "Wonjo is a hibiscus drink commonly enjoyed in The Gambia.",
+    "confidence": "high",
+    "rationale": "Wonjo is included as a culturally representative hibiscus drink for Gambia.",
+    "sources": [
+      {
+        "label": "Wonjo research query",
+        "url": "https://www.openverse.org/search/image?q=Gambian%20wonjo%20drink"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/gambia.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=2601161",
+      "fileTitle": "File:Wonjo 0001.jpg",
+      "author": "Atamari",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Atamari, CC BY-SA 3.0, via wikimedia"
+    }
+  },
+  {
+    "mapId": "268",
+    "iso2": "GE",
+    "iso3": "GEO",
+    "isoNumeric": "268",
+    "slug": "georgia",
+    "name": "Georgia",
+    "flag": "🇬🇪",
+    "region": "Asia",
+    "drink": "Wine",
+    "drinkType": "wine",
+    "description": "Georgia has one of the world's oldest continuous winemaking traditions.",
+    "confidence": "high",
+    "rationale": "Wine is included as a culturally representative wine for Georgia.",
+    "sources": [
+      {
+        "label": "Wine research query",
+        "url": "https://www.openverse.org/search/image?q=Georgian%20qvevri%20wine"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/georgia.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/69951693@N03/8221862089",
+      "fileTitle": "Georgian Monk Winemaker",
+      "author": "Luciana Braz - WineTalkGroup",
+      "license": "CC BY-SA 2.0",
+      "attribution": "Luciana Braz - WineTalkGroup, CC BY-SA 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "276",
+    "iso2": "DE",
+    "iso3": "DEU",
+    "isoNumeric": "276",
+    "slug": "germany",
+    "name": "Germany",
+    "flag": "🇩🇪",
+    "region": "Europe",
+    "drink": "Beer",
+    "drinkType": "beer",
+    "description": "Beer is a long-standing and regionally diverse German tradition.",
+    "confidence": "high",
+    "rationale": "Beer is included as a culturally representative beer for Germany.",
+    "sources": [
+      {
+        "label": "Beer research query",
+        "url": "https://www.openverse.org/search/image?q=German%20beer"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/germany.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/28709821@N00/3724279525",
+      "fileTitle": "Paulaner - Beer - Germany",
+      "author": "pepsiline",
+      "license": "Public domain",
+      "attribution": "pepsiline, Public domain, via flickr"
+    }
+  },
+  {
+    "mapId": "288",
+    "iso2": "GH",
+    "iso3": "GHA",
+    "isoNumeric": "288",
+    "slug": "ghana",
+    "name": "Ghana",
+    "flag": "🇬🇭",
+    "region": "Africa",
+    "drink": "Sobolo",
+    "drinkType": "hibiscus drink",
+    "description": "Sobolo is a Ghanaian hibiscus drink flavored with spices.",
+    "confidence": "high",
+    "rationale": "Sobolo is included as a culturally representative hibiscus drink for Ghana.",
+    "sources": [
+      {
+        "label": "Sobolo research query",
+        "url": "https://www.openverse.org/search/image?q=Ghanaian%20sobolo%20drink"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/ghana.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/ghana",
+      "fileTitle": "Sobolo generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "300",
+    "iso2": "GR",
+    "iso3": "GRC",
+    "isoNumeric": "300",
+    "slug": "greece",
+    "name": "Greece",
+    "flag": "🇬🇷",
+    "region": "Europe",
+    "drink": "Ouzo",
+    "drinkType": "spirit",
+    "description": "Ouzo is a traditional Greek anise-flavored aperitif.",
+    "confidence": "high",
+    "rationale": "Ouzo is included as a culturally representative spirit for Greece.",
+    "sources": [
+      {
+        "label": "Ouzo research query",
+        "url": "https://www.openverse.org/search/image?q=Greek%20ouzo%20drink"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/greece.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/greece",
+      "fileTitle": "Ouzo generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "304",
+    "iso2": "GL",
+    "iso3": "GRL",
+    "isoNumeric": "304",
+    "slug": "greenland",
+    "name": "Greenland",
+    "flag": "🇬🇱",
+    "region": "Americas",
+    "drink": "Greenlandic coffee",
+    "drinkType": "coffee cocktail",
+    "description": "Greenlandic coffee is a layered coffee cocktail associated with local hospitality.",
+    "confidence": "high",
+    "rationale": "Greenlandic coffee is included as a culturally representative coffee cocktail for Greenland.",
+    "sources": [
+      {
+        "label": "Greenlandic coffee research query",
+        "url": "https://www.openverse.org/search/image?q=Greenlandic%20coffee%20cocktail"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/greenland.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/greenland",
+      "fileTitle": "Greenlandic coffee generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "320",
+    "iso2": "GT",
+    "iso3": "GTM",
+    "isoNumeric": "320",
+    "slug": "guatemala",
+    "name": "Guatemala",
+    "flag": "🇬🇹",
+    "region": "Americas",
+    "drink": "Atol de elote",
+    "drinkType": "corn drink",
+    "description": "Atol de elote is a traditional Guatemalan sweet corn drink.",
+    "confidence": "high",
+    "rationale": "Atol de elote is included as a culturally representative corn drink for Guatemala.",
+    "sources": [
+      {
+        "label": "Atol de elote research query",
+        "url": "https://www.openverse.org/search/image?q=Guatemalan%20atol%20de%20elote"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/guatemala.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=10056387",
+      "fileTitle": "File:100320 atol de elote guatemala.JPG",
+      "author": "Luisfi",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Luisfi, CC BY-SA 3.0, via wikimedia"
+    }
+  },
+  {
+    "mapId": "324",
+    "iso2": "GN",
+    "iso3": "GIN",
+    "isoNumeric": "324",
+    "slug": "guinea",
+    "name": "Guinea",
+    "flag": "🇬🇳",
+    "region": "Africa",
+    "drink": "Ginger juice",
+    "drinkType": "ginger drink",
+    "description": "Ginger juice is commonly prepared and sold in Guinea and West Africa.",
+    "confidence": "medium",
+    "rationale": "Ginger juice is included as a culturally representative ginger drink for Guinea.",
+    "sources": [
+      {
+        "label": "Ginger juice research query",
+        "url": "https://www.openverse.org/search/image?q=Guinea%20ginger%20juice%20drink"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/guinea.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/15511507@N00/14263461332",
+      "fileTitle": "Juice",
+      "author": "hepp",
+      "license": "CC BY 2.0",
+      "attribution": "hepp, CC BY 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "624",
+    "iso2": "GW",
+    "iso3": "GNB",
+    "isoNumeric": "624",
+    "slug": "guinea-bissau",
+    "name": "Guinea-Bissau",
+    "flag": "🇬🇼",
+    "region": "Africa",
+    "drink": "Cana de cajeu",
+    "drinkType": "spirit",
+    "description": "Cashew liquor reflects Guinea-Bissau's important cashew culture.",
+    "confidence": "high",
+    "rationale": "Cana de cajeu is included as a culturally representative spirit for Guinea-Bissau.",
+    "sources": [
+      {
+        "label": "Cana de cajeu research query",
+        "url": "https://www.openverse.org/search/image?q=Guinea-Bissau%20cashew%20liquor"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/guinea-bissau.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/guinea-bissau",
+      "fileTitle": "Cana de cajeu generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "328",
+    "iso2": "GY",
+    "iso3": "GUY",
+    "isoNumeric": "328",
+    "slug": "guyana",
+    "name": "Guyana",
+    "flag": "🇬🇾",
+    "region": "Americas",
+    "drink": "Mauby",
+    "drinkType": "soft drink",
+    "description": "Mauby is a bitter-sweet bark drink enjoyed in Guyana and the Caribbean.",
+    "confidence": "high",
+    "rationale": "Mauby is included as a culturally representative soft drink for Guyana.",
+    "sources": [
+      {
+        "label": "Mauby research query",
+        "url": "https://www.openverse.org/search/image?q=Guyanese%20mauby%20drink"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/guyana.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/25897810@N00/6538383795",
+      "fileTitle": "Mauby - Bridgetown, Barbados",
+      "author": "David Berkowitz",
+      "license": "CC BY 2.0",
+      "attribution": "David Berkowitz, CC BY 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "332",
+    "iso2": "HT",
+    "iso3": "HTI",
+    "isoNumeric": "332",
+    "slug": "haiti",
+    "name": "Haiti",
+    "flag": "🇭🇹",
+    "region": "Americas",
+    "drink": "Kremas",
+    "drinkType": "cream liqueur",
+    "description": "Kremas is a Haitian spiced coconut cream drink.",
+    "confidence": "high",
+    "rationale": "Kremas is included as a culturally representative cream liqueur for Haiti.",
+    "sources": [
+      {
+        "label": "Kremas research query",
+        "url": "https://www.openverse.org/search/image?q=Haitian%20kremas%20drink"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/haiti.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/haiti",
+      "fileTitle": "Kremas generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "340",
+    "iso2": "HN",
+    "iso3": "HND",
+    "isoNumeric": "340",
+    "slug": "honduras",
+    "name": "Honduras",
+    "flag": "🇭🇳",
+    "region": "Americas",
+    "drink": "Horchata",
+    "drinkType": "grain drink",
+    "description": "Honduran horchata is a traditional sweet drink made with seeds, grains, and spices.",
+    "confidence": "high",
+    "rationale": "Horchata is included as a culturally representative grain drink for Honduras.",
+    "sources": [
+      {
+        "label": "Horchata research query",
+        "url": "https://www.openverse.org/search/image?q=Honduran%20horchata"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/honduras.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/13275668@N07/2173324015",
+      "fileTitle": "Horchata Drink",
+      "author": "El Gran Dee",
+      "license": "CC BY 2.0",
+      "attribution": "El Gran Dee, CC BY 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "348",
+    "iso2": "HU",
+    "iso3": "HUN",
+    "isoNumeric": "348",
+    "slug": "hungary",
+    "name": "Hungary",
+    "flag": "🇭🇺",
+    "region": "Europe",
+    "drink": "Palinka",
+    "drinkType": "spirit",
+    "description": "Palinka is Hungary's traditional fruit brandy.",
+    "confidence": "high",
+    "rationale": "Palinka is included as a culturally representative spirit for Hungary.",
+    "sources": [
+      {
+        "label": "Palinka research query",
+        "url": "https://www.openverse.org/search/image?q=Hungarian%20palinka"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/hungary.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/47065077@N00/3451506199",
+      "fileTitle": "Palinka!",
+      "author": "savagecat",
+      "license": "CC BY 2.0",
+      "attribution": "savagecat, CC BY 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "352",
+    "iso2": "IS",
+    "iso3": "ISL",
+    "isoNumeric": "352",
+    "slug": "iceland",
+    "name": "Iceland",
+    "flag": "🇮🇸",
+    "region": "Europe",
+    "drink": "Brennivin",
+    "drinkType": "spirit",
+    "description": "Brennivin is an Icelandic caraway-flavored schnapps.",
+    "confidence": "high",
+    "rationale": "Brennivin is included as a culturally representative spirit for Iceland.",
+    "sources": [
+      {
+        "label": "Brennivin research query",
+        "url": "https://www.openverse.org/search/image?q=Icelandic%20Brennivin"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/iceland.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/iceland",
+      "fileTitle": "Brennivin generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "356",
+    "iso2": "IN",
+    "iso3": "IND",
+    "isoNumeric": "356",
+    "slug": "india",
+    "name": "India",
+    "flag": "🇮🇳",
+    "region": "Asia",
+    "drink": "Masala chai",
+    "drinkType": "tea",
+    "description": "Masala chai is a widely shared spiced milk tea across India.",
+    "confidence": "high",
+    "rationale": "Masala chai is included as a culturally representative tea for India.",
+    "sources": [
+      {
+        "label": "Wikipedia: Masala chai",
+        "url": "https://en.wikipedia.org/wiki/Masala_chai"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/masala-chai.jpg",
+      "status": "local-verified",
+      "sourceUrl": "https://www.flickr.com/photos/91188380@N05/16635237970",
+      "fileTitle": "Masala Chai Tea",
+      "author": "elsie.hui",
+      "license": "CC BY 2.0",
+      "attribution": "elsie.hui, CC BY 2.0, via Flickr/Openverse"
+    }
+  },
+  {
+    "mapId": "360",
+    "iso2": "ID",
+    "iso3": "IDN",
+    "isoNumeric": "360",
+    "slug": "indonesia",
+    "name": "Indonesia",
+    "flag": "🇮🇩",
+    "region": "Asia",
+    "drink": "Es cendol",
+    "drinkType": "sweet drink",
+    "description": "Es cendol is a popular Indonesian iced coconut and palm-sugar drink.",
+    "confidence": "high",
+    "rationale": "Es cendol is included as a culturally representative sweet drink for Indonesia.",
+    "sources": [
+      {
+        "label": "Es cendol research query",
+        "url": "https://www.openverse.org/search/image?q=Indonesian%20es%20cendol"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/indonesia.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/126343127@N05/15169406010",
+      "fileTitle": "Finally, es cendol! Terima kasih Aldi xD",
+      "author": "zimujova",
+      "license": "CC BY 2.0",
+      "attribution": "zimujova, CC BY 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "364",
+    "iso2": "IR",
+    "iso3": "IRN",
+    "isoNumeric": "364",
+    "slug": "iran",
+    "name": "Iran",
+    "flag": "🇮🇷",
+    "region": "Asia",
+    "drink": "Doogh",
+    "drinkType": "yogurt drink",
+    "description": "Doogh is a traditional Iranian yogurt drink served with meals.",
+    "confidence": "high",
+    "rationale": "Doogh is included as a culturally representative yogurt drink for Iran.",
+    "sources": [
+      {
+        "label": "Doogh research query",
+        "url": "https://www.openverse.org/search/image?q=Iranian%20doogh%20drink"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/iran.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/iran",
+      "fileTitle": "Doogh generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "368",
+    "iso2": "IQ",
+    "iso3": "IRQ",
+    "isoNumeric": "368",
+    "slug": "iraq",
+    "name": "Iraq",
+    "flag": "🇮🇶",
+    "region": "Asia",
+    "drink": "Chai",
+    "drinkType": "tea",
+    "description": "Sweet black tea is central to everyday Iraqi hospitality.",
+    "confidence": "high",
+    "rationale": "Chai is included as a culturally representative tea for Iraq.",
+    "sources": [
+      {
+        "label": "Chai research query",
+        "url": "https://www.openverse.org/search/image?q=Iraqi%20chai%20tea"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/iraq.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/iraq",
+      "fileTitle": "Chai generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "372",
+    "iso2": "IE",
+    "iso3": "IRL",
+    "isoNumeric": "372",
+    "slug": "ireland",
+    "name": "Ireland",
+    "flag": "🇮🇪",
+    "region": "Europe",
+    "drink": "Irish whiskey",
+    "drinkType": "whiskey",
+    "description": "Irish whiskey is one of Ireland's signature distilled drinks.",
+    "confidence": "high",
+    "rationale": "Irish whiskey is included as a culturally representative whiskey for Ireland.",
+    "sources": [
+      {
+        "label": "Irish whiskey research query",
+        "url": "https://www.openverse.org/search/image?q=Irish%20whiskey"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/ireland.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/70928775@N00/3733996108",
+      "fileTitle": "unnamed creamy hazelnut irish whiskey drink",
+      "author": "insidious_plots",
+      "license": "CC BY 2.0",
+      "attribution": "insidious_plots, CC BY 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "376",
+    "iso2": "IL",
+    "iso3": "ISR",
+    "isoNumeric": "376",
+    "slug": "israel",
+    "name": "Israel",
+    "flag": "🇮🇱",
+    "region": "Asia",
+    "drink": "Arak",
+    "drinkType": "spirit",
+    "description": "Arak is an anise-flavored spirit common in Israeli and Levantine meals.",
+    "confidence": "high",
+    "rationale": "Arak is included as a culturally representative spirit for Israel.",
+    "sources": [
+      {
+        "label": "Arak research query",
+        "url": "https://www.openverse.org/search/image?q=Israeli%20arak%20drink"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/israel.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/76396789@N00/49429314081",
+      "fileTitle": "Iced Lemon-Nana Slush with Arak at Under the tree",
+      "author": "Tjeerd",
+      "license": "CC BY 2.0",
+      "attribution": "Tjeerd, CC BY 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "380",
+    "iso2": "IT",
+    "iso3": "ITA",
+    "isoNumeric": "380",
+    "slug": "italy",
+    "name": "Italy",
+    "flag": "🇮🇹",
+    "region": "Europe",
+    "drink": "Espresso",
+    "drinkType": "coffee",
+    "description": "Espresso is a defining part of daily Italian cafe culture.",
+    "confidence": "high",
+    "rationale": "Espresso is included as a culturally representative coffee for Italy.",
+    "sources": [
+      {
+        "label": "Wikipedia: Espresso",
+        "url": "https://en.wikipedia.org/wiki/Espresso"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/espresso.jpg",
+      "status": "local-verified",
+      "sourceUrl": "https://www.flickr.com/photos/46286575@N00/2863665832",
+      "fileTitle": "Double Espresso",
+      "author": "Pen Waggener",
+      "license": "CC BY 2.0",
+      "attribution": "Pen Waggener, CC BY 2.0, via Flickr/Openverse"
+    }
+  },
+  {
+    "mapId": "388",
+    "iso2": "JM",
+    "iso3": "JAM",
+    "isoNumeric": "388",
+    "slug": "jamaica",
+    "name": "Jamaica",
+    "flag": "🇯🇲",
+    "region": "Americas",
+    "drink": "Rum punch",
+    "drinkType": "cocktail",
+    "description": "Rum punch reflects Jamaica's rum heritage and tropical flavors.",
+    "confidence": "high",
+    "rationale": "Rum punch is included as a culturally representative cocktail for Jamaica.",
+    "sources": [
+      {
+        "label": "Rum punch research query",
+        "url": "https://www.openverse.org/search/image?q=Jamaican%20rum%20punch"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/jamaica.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/22327904@N05/5694273677",
+      "fileTitle": "Rum Punch",
+      "author": "seishin17",
+      "license": "CC BY-SA 2.0",
+      "attribution": "seishin17, CC BY-SA 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "392",
+    "iso2": "JP",
+    "iso3": "JPN",
+    "isoNumeric": "392",
+    "slug": "japan",
+    "name": "Japan",
+    "flag": "🇯🇵",
+    "region": "Asia",
+    "drink": "Sake",
+    "drinkType": "rice wine",
+    "description": "Sake is a traditional Japanese fermented rice drink.",
+    "confidence": "high",
+    "rationale": "Sake is included as a culturally representative rice wine for Japan.",
+    "sources": [
+      {
+        "label": "Wikipedia: Matcha",
+        "url": "https://en.wikipedia.org/wiki/Matcha"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/japan.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/japan",
+      "fileTitle": "Sake generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "400",
+    "iso2": "JO",
+    "iso3": "JOR",
+    "isoNumeric": "400",
+    "slug": "jordan",
+    "name": "Jordan",
+    "flag": "🇯🇴",
+    "region": "Asia",
+    "drink": "Mint tea",
+    "drinkType": "tea",
+    "description": "Sweet mint tea is a common Jordanian hospitality drink.",
+    "confidence": "high",
+    "rationale": "Mint tea is included as a culturally representative tea for Jordan.",
+    "sources": [
+      {
+        "label": "Mint tea research query",
+        "url": "https://www.openverse.org/search/image?q=Jordanian%20mint%20tea"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/jordan.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/10559879@N00/1221485079",
+      "fileTitle": "Mint Tea - Moroccan Soup Bar",
+      "author": "avlxyz",
+      "license": "CC BY-SA 2.0",
+      "attribution": "avlxyz, CC BY-SA 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "398",
+    "iso2": "KZ",
+    "iso3": "KAZ",
+    "isoNumeric": "398",
+    "slug": "kazakhstan",
+    "name": "Kazakhstan",
+    "flag": "🇰🇿",
+    "region": "Asia",
+    "drink": "Kumis",
+    "drinkType": "fermented milk",
+    "description": "Kumis is a traditional fermented mare's milk drink in Kazakhstan.",
+    "confidence": "high",
+    "rationale": "Kumis is included as a culturally representative fermented milk for Kazakhstan.",
+    "sources": [
+      {
+        "label": "Kumis research query",
+        "url": "https://www.openverse.org/search/image?q=Kazakh%20kumis%20drink"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/kazakhstan.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/48600082269@N01/4638720325",
+      "fileTitle": "4-Kumis-Shubat",
+      "author": "upyernoz",
+      "license": "CC BY 2.0",
+      "attribution": "upyernoz, CC BY 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "404",
+    "iso2": "KE",
+    "iso3": "KEN",
+    "isoNumeric": "404",
+    "slug": "kenya",
+    "name": "Kenya",
+    "flag": "🇰🇪",
+    "region": "Africa",
+    "drink": "Chai",
+    "drinkType": "tea",
+    "description": "Milk tea is a daily staple in Kenyan homes and workplaces.",
+    "confidence": "high",
+    "rationale": "Chai is included as a culturally representative tea for Kenya.",
+    "sources": [
+      {
+        "label": "Chai research query",
+        "url": "https://www.openverse.org/search/image?q=Kenyan%20chai%20tea"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/kenya.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/37747175@N00/534684236",
+      "fileTitle": "someone likes stickers with their chai",
+      "author": "klndonnelly",
+      "license": "CC BY 2.0",
+      "attribution": "klndonnelly, CC BY 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "name:kosovo",
+    "iso2": "XK",
+    "iso3": "XKX",
+    "isoNumeric": "000",
+    "slug": "kosovo",
+    "name": "Kosovo",
+    "flag": "🇽🇰",
+    "region": "World",
+    "drink": "Rakia",
+    "drinkType": "spirit",
+    "description": "Rakia is a traditional fruit brandy served in Kosovo.",
+    "confidence": "high",
+    "rationale": "Rakia is included as a culturally representative spirit for Kosovo.",
+    "sources": [
+      {
+        "label": "Rakia research query",
+        "url": "https://www.openverse.org/search/image?q=Kosovo%20rakia%20drink"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/kosovo.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/kosovo",
+      "fileTitle": "Rakia generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "414",
+    "iso2": "KW",
+    "iso3": "KWT",
+    "isoNumeric": "414",
+    "slug": "kuwait",
+    "name": "Kuwait",
+    "flag": "🇰🇼",
+    "region": "Asia",
+    "drink": "Arabic coffee",
+    "drinkType": "coffee",
+    "description": "Cardamom-scented Arabic coffee is central to Kuwaiti hospitality.",
+    "confidence": "high",
+    "rationale": "Arabic coffee is included as a culturally representative coffee for Kuwait.",
+    "sources": [
+      {
+        "label": "Arabic coffee research query",
+        "url": "https://www.openverse.org/search/image?q=Kuwaiti%20Arabic%20coffee"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/kuwait.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=187746370",
+      "fileTitle": "Arabic Coffee in Kuwait",
+      "author": "فيصل",
+      "license": "CC BY-SA 4.0",
+      "attribution": "فيصل, CC BY-SA 4.0, via wikimedia"
+    }
+  },
+  {
+    "mapId": "417",
+    "iso2": "KG",
+    "iso3": "KGZ",
+    "isoNumeric": "417",
+    "slug": "kyrgyzstan",
+    "name": "Kyrgyzstan",
+    "flag": "🇰🇬",
+    "region": "Asia",
+    "drink": "Kumis",
+    "drinkType": "fermented milk",
+    "description": "Kumis is a traditional fermented mare's milk drink in Kyrgyz culture.",
+    "confidence": "high",
+    "rationale": "Kumis is included as a culturally representative fermented milk for Kyrgyzstan.",
+    "sources": [
+      {
+        "label": "Kumis research query",
+        "url": "https://www.openverse.org/search/image?q=Kyrgyz%20kumis%20drink"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/kyrgyzstan.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/48600082269@N01/4638720325",
+      "fileTitle": "4-Kumis-Shubat",
+      "author": "upyernoz",
+      "license": "CC BY 2.0",
+      "attribution": "upyernoz, CC BY 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "418",
+    "iso2": "LA",
+    "iso3": "LAO",
+    "isoNumeric": "418",
+    "slug": "laos",
+    "name": "Laos",
+    "flag": "🇱🇦",
+    "region": "Asia",
+    "drink": "Lao-Lao",
+    "drinkType": "spirit",
+    "description": "Lao-Lao is a traditional Laotian rice spirit.",
+    "confidence": "high",
+    "rationale": "Lao-Lao is included as a culturally representative spirit for Laos.",
+    "sources": [
+      {
+        "label": "Lao-Lao research query",
+        "url": "https://www.openverse.org/search/image?q=Lao-Lao%20rice%20whiskey"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/laos.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/laos",
+      "fileTitle": "Lao-Lao generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "428",
+    "iso2": "LV",
+    "iso3": "LVA",
+    "isoNumeric": "428",
+    "slug": "latvia",
+    "name": "Latvia",
+    "flag": "🇱🇻",
+    "region": "Europe",
+    "drink": "Riga Black Balsam",
+    "drinkType": "liqueur",
+    "description": "Riga Black Balsam is Latvia's historic herbal liqueur.",
+    "confidence": "high",
+    "rationale": "Riga Black Balsam is included as a culturally representative liqueur for Latvia.",
+    "sources": [
+      {
+        "label": "Riga Black Balsam research query",
+        "url": "https://www.openverse.org/search/image?q=Riga%20Black%20Balsam"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/latvia.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/latvia",
+      "fileTitle": "Riga Black Balsam generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "422",
+    "iso2": "LB",
+    "iso3": "LBN",
+    "isoNumeric": "422",
+    "slug": "lebanon",
+    "name": "Lebanon",
+    "flag": "🇱🇧",
+    "region": "Asia",
+    "drink": "Arak",
+    "drinkType": "spirit",
+    "description": "Arak is Lebanon's traditional anise-flavored spirit.",
+    "confidence": "high",
+    "rationale": "Arak is included as a culturally representative spirit for Lebanon.",
+    "sources": [
+      {
+        "label": "Arak research query",
+        "url": "https://www.openverse.org/search/image?q=Lebanese%20arak"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/lebanon.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/lebanon",
+      "fileTitle": "Arak generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "426",
+    "iso2": "LS",
+    "iso3": "LSO",
+    "isoNumeric": "426",
+    "slug": "lesotho",
+    "name": "Lesotho",
+    "flag": "🇱🇸",
+    "region": "Africa",
+    "drink": "Joala",
+    "drinkType": "beer",
+    "description": "Joala is a traditional Basotho sorghum beer.",
+    "confidence": "high",
+    "rationale": "Joala is included as a culturally representative beer for Lesotho.",
+    "sources": [
+      {
+        "label": "Joala research query",
+        "url": "https://www.openverse.org/search/image?q=Lesotho%20joala%20beer"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/lesotho.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/lesotho",
+      "fileTitle": "Joala generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "430",
+    "iso2": "LR",
+    "iso3": "LBR",
+    "isoNumeric": "430",
+    "slug": "liberia",
+    "name": "Liberia",
+    "flag": "🇱🇷",
+    "region": "Africa",
+    "drink": "Ginger beer",
+    "drinkType": "ginger drink",
+    "description": "Homemade ginger beer is a familiar Liberian refreshment.",
+    "confidence": "medium",
+    "rationale": "Ginger beer is included as a culturally representative ginger drink for Liberia.",
+    "sources": [
+      {
+        "label": "Ginger beer research query",
+        "url": "https://www.openverse.org/search/image?q=Liberian%20ginger%20beer"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/liberia.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/58246614@N00/3788290135",
+      "fileTitle": "Crabbie's Original Alcoholic Ginger Beer",
+      "author": "mdid",
+      "license": "CC BY 2.0",
+      "attribution": "mdid, CC BY 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "434",
+    "iso2": "LY",
+    "iso3": "LBY",
+    "isoNumeric": "434",
+    "slug": "libya",
+    "name": "Libya",
+    "flag": "🇱🇾",
+    "region": "Africa",
+    "drink": "Libyan tea",
+    "drinkType": "tea",
+    "description": "Strong, foamy tea is a distinctive Libyan hospitality drink.",
+    "confidence": "high",
+    "rationale": "Libyan tea is included as a culturally representative tea for Libya.",
+    "sources": [
+      {
+        "label": "Libyan tea research query",
+        "url": "https://www.openverse.org/search/image?q=Libyan%20tea"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/libya.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/libya",
+      "fileTitle": "Libyan tea generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "440",
+    "iso2": "LT",
+    "iso3": "LTU",
+    "isoNumeric": "440",
+    "slug": "lithuania",
+    "name": "Lithuania",
+    "flag": "🇱🇹",
+    "region": "Europe",
+    "drink": "Gira",
+    "drinkType": "fermented drink",
+    "description": "Gira is Lithuania's traditional fermented rye drink.",
+    "confidence": "high",
+    "rationale": "Gira is included as a culturally representative fermented drink for Lithuania.",
+    "sources": [
+      {
+        "label": "Gira research query",
+        "url": "https://www.openverse.org/search/image?q=Lithuanian%20gira%20drink"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/lithuania.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/67975030@N00/9617424290",
+      "fileTitle": "HBH Juozo Gira",
+      "author": "Bernt Rostad",
+      "license": "CC BY 2.0",
+      "attribution": "Bernt Rostad, CC BY 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "442",
+    "iso2": "LU",
+    "iso3": "LUX",
+    "isoNumeric": "442",
+    "slug": "luxembourg",
+    "name": "Luxembourg",
+    "flag": "🇱🇺",
+    "region": "Europe",
+    "drink": "Riesling",
+    "drinkType": "wine",
+    "description": "Riesling represents Luxembourg's Moselle wine culture.",
+    "confidence": "high",
+    "rationale": "Riesling is included as a culturally representative wine for Luxembourg.",
+    "sources": [
+      {
+        "label": "Riesling research query",
+        "url": "https://www.openverse.org/search/image?q=Luxembourg%20Riesling%20wine"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/luxembourg.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/188162267@N03/49871977487",
+      "fileTitle": "Riesling Luxembourg",
+      "author": "diannepetrov1",
+      "license": "CC0",
+      "attribution": "diannepetrov1, CC0, via flickr"
+    }
+  },
+  {
+    "mapId": "807",
+    "iso2": "MK",
+    "iso3": "MKD",
+    "isoNumeric": "807",
+    "slug": "north-macedonia",
+    "name": "North Macedonia",
+    "flag": "🇲🇰",
+    "region": "Europe",
+    "drink": "Rakija",
+    "drinkType": "spirit",
+    "description": "Rakija is a traditional fruit brandy in North Macedonian gatherings.",
+    "confidence": "high",
+    "rationale": "Rakija is included as a culturally representative spirit for North Macedonia.",
+    "sources": [
+      {
+        "label": "Rakija research query",
+        "url": "https://www.openverse.org/search/image?q=North%20Macedonian%20rakija"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/north-macedonia.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/15966463@N02/3974293914",
+      "fileTitle": "Alchohol measuring/ gradiranje/sljive/plums/rakija",
+      "author": "brankomaster",
+      "license": "CC BY 2.0",
+      "attribution": "brankomaster, CC BY 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "450",
+    "iso2": "MG",
+    "iso3": "MDG",
+    "isoNumeric": "450",
+    "slug": "madagascar",
+    "name": "Madagascar",
+    "flag": "🇲🇬",
+    "region": "Africa",
+    "drink": "Ranon'ampango",
+    "drinkType": "rice drink",
+    "description": "Ranon'ampango is a traditional Malagasy toasted-rice water drink.",
+    "confidence": "high",
+    "rationale": "Ranon'ampango is included as a culturally representative rice drink for Madagascar.",
+    "sources": [
+      {
+        "label": "Ranon'ampango research query",
+        "url": "https://www.openverse.org/search/image?q=Madagascar%20ranonampango%20drink"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/madagascar.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/madagascar",
+      "fileTitle": "Ranon'ampango generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "454",
+    "iso2": "MW",
+    "iso3": "MWI",
+    "isoNumeric": "454",
+    "slug": "malawi",
+    "name": "Malawi",
+    "flag": "🇲🇼",
+    "region": "Africa",
+    "drink": "Thobwa",
+    "drinkType": "fermented drink",
+    "description": "Thobwa is a traditional Malawian fermented maize and millet drink.",
+    "confidence": "high",
+    "rationale": "Thobwa is included as a culturally representative fermented drink for Malawi.",
+    "sources": [
+      {
+        "label": "Thobwa research query",
+        "url": "https://www.openverse.org/search/image?q=Malawi%20thobwa%20drink"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/malawi.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/malawi",
+      "fileTitle": "Thobwa generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "458",
+    "iso2": "MY",
+    "iso3": "MYS",
+    "isoNumeric": "458",
+    "slug": "malaysia",
+    "name": "Malaysia",
+    "flag": "🇲🇾",
+    "region": "Asia",
+    "drink": "Teh tarik",
+    "drinkType": "tea",
+    "description": "Teh tarik is a beloved pulled milk tea in Malaysian food culture.",
+    "confidence": "high",
+    "rationale": "Teh tarik is included as a culturally representative tea for Malaysia.",
+    "sources": [
+      {
+        "label": "Teh tarik research query",
+        "url": "https://www.openverse.org/search/image?q=Malaysian%20teh%20tarik"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/malaysia.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/10559879@N00/3313927858",
+      "fileTitle": "Malaysian Teh Tarik and Sugarcane Herbal Tea - Coconut House AUD2.80, AUD2",
+      "author": "avlxyz",
+      "license": "CC BY-SA 2.0",
+      "attribution": "avlxyz, CC BY-SA 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "466",
+    "iso2": "ML",
+    "iso3": "MLI",
+    "isoNumeric": "466",
+    "slug": "mali",
+    "name": "Mali",
+    "flag": "🇲🇱",
+    "region": "Africa",
+    "drink": "Dabileni",
+    "drinkType": "hibiscus drink",
+    "description": "Dabileni is a Malian hibiscus drink often flavored with ginger or mint.",
+    "confidence": "high",
+    "rationale": "Dabileni is included as a culturally representative hibiscus drink for Mali.",
+    "sources": [
+      {
+        "label": "Dabileni research query",
+        "url": "https://www.openverse.org/search/image?q=Mali%20dabileni%20hibiscus%20drink"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/mali.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/mali",
+      "fileTitle": "Dabileni generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "478",
+    "iso2": "MR",
+    "iso3": "MRT",
+    "isoNumeric": "478",
+    "slug": "mauritania",
+    "name": "Mauritania",
+    "flag": "🇲🇷",
+    "region": "Africa",
+    "drink": "Ataya",
+    "drinkType": "tea",
+    "description": "Ataya tea is an important Mauritanian social ritual.",
+    "confidence": "high",
+    "rationale": "Ataya is included as a culturally representative tea for Mauritania.",
+    "sources": [
+      {
+        "label": "Ataya research query",
+        "url": "https://www.openverse.org/search/image?q=Mauritanian%20ataya%20tea"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/mauritania.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/mauritania",
+      "fileTitle": "Ataya generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "484",
+    "iso2": "MX",
+    "iso3": "MEX",
+    "isoNumeric": "484",
+    "slug": "mexico",
+    "name": "Mexico",
+    "flag": "🇲🇽",
+    "region": "Americas",
+    "drink": "Tequila",
+    "drinkType": "spirit",
+    "description": "Tequila is Mexico's internationally recognized agave spirit.",
+    "confidence": "official",
+    "rationale": "Tequila is included as a culturally representative spirit for Mexico.",
+    "sources": [
+      {
+        "label": "Tequila research query",
+        "url": "https://www.openverse.org/search/image?q=Mexican%20tequila"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/mexico.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/mexico",
+      "fileTitle": "Tequila generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "498",
+    "iso2": "MD",
+    "iso3": "MDA",
+    "isoNumeric": "498",
+    "slug": "moldova",
+    "name": "Moldova",
+    "flag": "🇲🇩",
+    "region": "Europe",
+    "drink": "Wine",
+    "drinkType": "wine",
+    "description": "Wine is central to Moldova's agricultural and cultural identity.",
+    "confidence": "high",
+    "rationale": "Wine is included as a culturally representative wine for Moldova.",
+    "sources": [
+      {
+        "label": "Wine research query",
+        "url": "https://www.openverse.org/search/image?q=Moldovan%20wine"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/moldova.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/44252137@N00/188833978",
+      "fileTitle": "Vintage wine in the cellars of Cojuşna winery",
+      "author": "Guttorm Flatabø",
+      "license": "CC BY 2.0",
+      "attribution": "Guttorm Flatabø, CC BY 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "496",
+    "iso2": "MN",
+    "iso3": "MNG",
+    "isoNumeric": "496",
+    "slug": "mongolia",
+    "name": "Mongolia",
+    "flag": "🇲🇳",
+    "region": "Asia",
+    "drink": "Airag",
+    "drinkType": "fermented milk",
+    "description": "Airag is Mongolia's traditional fermented mare's milk.",
+    "confidence": "high",
+    "rationale": "Airag is included as a culturally representative fermented milk for Mongolia.",
+    "sources": [
+      {
+        "label": "Airag research query",
+        "url": "https://www.openverse.org/search/image?q=Mongolian%20airag"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/mongolia.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/mongolia",
+      "fileTitle": "Airag generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "499",
+    "iso2": "ME",
+    "iso3": "MNE",
+    "isoNumeric": "499",
+    "slug": "montenegro",
+    "name": "Montenegro",
+    "flag": "🇲🇪",
+    "region": "Europe",
+    "drink": "Rakija",
+    "drinkType": "spirit",
+    "description": "Rakija is a traditional fruit brandy served in Montenegro.",
+    "confidence": "high",
+    "rationale": "Rakija is included as a culturally representative spirit for Montenegro.",
+    "sources": [
+      {
+        "label": "Rakija research query",
+        "url": "https://www.openverse.org/search/image?q=Montenegrin%20rakija"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/montenegro.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/montenegro",
+      "fileTitle": "Rakija generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "504",
+    "iso2": "MA",
+    "iso3": "MAR",
+    "isoNumeric": "504",
+    "slug": "morocco",
+    "name": "Morocco",
+    "flag": "🇲🇦",
+    "region": "Africa",
+    "drink": "Mint tea",
+    "drinkType": "tea",
+    "description": "Sweet mint tea is a hallmark of Moroccan hospitality.",
+    "confidence": "high",
+    "rationale": "Mint tea is included as a culturally representative tea for Morocco.",
+    "sources": [
+      {
+        "label": "Wikipedia: Maghrebi mint tea",
+        "url": "https://en.wikipedia.org/wiki/Maghrebi_mint_tea"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/moroccan-mint-tea.jpg",
+      "status": "local-verified",
+      "sourceUrl": "https://www.flickr.com/photos/28878339@N00/6869050698",
+      "fileTitle": "Moroccan Mint Tea",
+      "author": "simon_music",
+      "license": "CC BY-SA 2.0",
+      "attribution": "simon_music, CC BY-SA 2.0, via Flickr/Openverse"
+    }
+  },
+  {
+    "mapId": "508",
+    "iso2": "MZ",
+    "iso3": "MOZ",
+    "isoNumeric": "508",
+    "slug": "mozambique",
+    "name": "Mozambique",
+    "flag": "🇲🇿",
+    "region": "Africa",
+    "drink": "Maheu",
+    "drinkType": "fermented drink",
+    "description": "Maheu is a traditional maize-based drink in Mozambique and southern Africa.",
+    "confidence": "high",
+    "rationale": "Maheu is included as a culturally representative fermented drink for Mozambique.",
+    "sources": [
+      {
+        "label": "Maheu research query",
+        "url": "https://www.openverse.org/search/image?q=Mozambique%20maheu%20drink"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/mozambique.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/mozambique",
+      "fileTitle": "Maheu generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "104",
+    "iso2": "MM",
+    "iso3": "MMR",
+    "isoNumeric": "104",
+    "slug": "myanmar",
+    "name": "Myanmar",
+    "flag": "🇲🇲",
+    "region": "Asia",
+    "drink": "Laphet yay",
+    "drinkType": "tea",
+    "description": "Burmese milk tea is a common teashop drink in Myanmar.",
+    "confidence": "high",
+    "rationale": "Laphet yay is included as a culturally representative tea for Myanmar.",
+    "sources": [
+      {
+        "label": "Laphet yay research query",
+        "url": "https://www.openverse.org/search/image?q=Myanmar%20laphet%20yay%20tea"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/myanmar.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/myanmar",
+      "fileTitle": "Laphet yay generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "name:n-cyprus",
+    "iso2": "NC",
+    "iso3": "NCY",
+    "isoNumeric": "000",
+    "slug": "northern-cyprus",
+    "name": "Northern Cyprus",
+    "flag": "🏳️",
+    "region": "World",
+    "drink": "Turkish coffee",
+    "drinkType": "coffee",
+    "description": "Turkish coffee is a traditional drink in Northern Cypriot daily culture.",
+    "confidence": "territory",
+    "rationale": "Turkish coffee is included as a culturally representative coffee for Northern Cyprus.",
+    "sources": [
+      {
+        "label": "Turkish coffee research query",
+        "url": "https://www.openverse.org/search/image?q=Northern%20Cyprus%20Turkish%20coffee"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/northern-cyprus.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/97844767@N00/14245350315",
+      "fileTitle": "Turkish coffee",
+      "author": "WordRidden",
+      "license": "CC BY 2.0",
+      "attribution": "WordRidden, CC BY 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "516",
+    "iso2": "NA",
+    "iso3": "NAM",
+    "isoNumeric": "516",
+    "slug": "namibia",
+    "name": "Namibia",
+    "flag": "🇳🇦",
+    "region": "Africa",
+    "drink": "Oshikundu",
+    "drinkType": "fermented drink",
+    "description": "Oshikundu is a traditional Namibian fermented millet drink.",
+    "confidence": "high",
+    "rationale": "Oshikundu is included as a culturally representative fermented drink for Namibia.",
+    "sources": [
+      {
+        "label": "Oshikundu research query",
+        "url": "https://www.openverse.org/search/image?q=Namibian%20oshikundu%20drink"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/namibia.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/namibia",
+      "fileTitle": "Oshikundu generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "524",
+    "iso2": "NP",
+    "iso3": "NPL",
+    "isoNumeric": "524",
+    "slug": "nepal",
+    "name": "Nepal",
+    "flag": "🇳🇵",
+    "region": "Asia",
+    "drink": "Chiya",
+    "drinkType": "tea",
+    "description": "Spiced milk tea is a common everyday drink in Nepal.",
+    "confidence": "high",
+    "rationale": "Chiya is included as a culturally representative tea for Nepal.",
+    "sources": [
+      {
+        "label": "Chiya research query",
+        "url": "https://www.openverse.org/search/image?q=Nepali%20chiya%20tea"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/nepal.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/nepal",
+      "fileTitle": "Chiya generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "528",
+    "iso2": "NL",
+    "iso3": "NLD",
+    "isoNumeric": "528",
+    "slug": "netherlands",
+    "name": "Netherlands",
+    "flag": "🇳🇱",
+    "region": "Europe",
+    "drink": "Jenever",
+    "drinkType": "spirit",
+    "description": "Jenever is a traditional Dutch juniper-flavored spirit.",
+    "confidence": "high",
+    "rationale": "Jenever is included as a culturally representative spirit for Netherlands.",
+    "sources": [
+      {
+        "label": "Jenever research query",
+        "url": "https://www.openverse.org/search/image?q=Dutch%20jenever"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/netherlands.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/netherlands",
+      "fileTitle": "Jenever generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "540",
+    "iso2": "NC",
+    "iso3": "NCL",
+    "isoNumeric": "540",
+    "slug": "new-caledonia",
+    "name": "New Caledonia",
+    "flag": "🇳🇨",
+    "region": "Oceania",
+    "drink": "Kava",
+    "drinkType": "ceremonial drink",
+    "description": "Kava is served in New Caledonia's Kanak and Pacific social settings.",
+    "confidence": "territory",
+    "rationale": "Kava is included as a culturally representative ceremonial drink for New Caledonia.",
+    "sources": [
+      {
+        "label": "Kava research query",
+        "url": "https://www.openverse.org/search/image?q=New%20Caledonia%20kava"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/new-caledonia.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/new-caledonia",
+      "fileTitle": "Kava generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "554",
+    "iso2": "NZ",
+    "iso3": "NZL",
+    "isoNumeric": "554",
+    "slug": "new-zealand",
+    "name": "New Zealand",
+    "flag": "🇳🇿",
+    "region": "Oceania",
+    "drink": "Flat white",
+    "drinkType": "coffee",
+    "description": "The flat white is strongly associated with New Zealand cafe culture.",
+    "confidence": "high",
+    "rationale": "Flat white is included as a culturally representative coffee for New Zealand.",
+    "sources": [
+      {
+        "label": "Flat white research query",
+        "url": "https://www.openverse.org/search/image?q=New%20Zealand%20flat%20white%20coffee"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/new-zealand.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/48889087714@N01/4675028010",
+      "fileTitle": "Flat White Coffee",
+      "author": "russelljsmith",
+      "license": "CC BY 2.0",
+      "attribution": "russelljsmith, CC BY 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "558",
+    "iso2": "NI",
+    "iso3": "NIC",
+    "isoNumeric": "558",
+    "slug": "nicaragua",
+    "name": "Nicaragua",
+    "flag": "🇳🇮",
+    "region": "Americas",
+    "drink": "Macua",
+    "drinkType": "cocktail",
+    "description": "The Macua is a Nicaraguan rum cocktail with guava and citrus.",
+    "confidence": "high",
+    "rationale": "Macua is included as a culturally representative cocktail for Nicaragua.",
+    "sources": [
+      {
+        "label": "Macua research query",
+        "url": "https://www.openverse.org/search/image?q=Nicaraguan%20Macua%20cocktail"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/nicaragua.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/nicaragua",
+      "fileTitle": "Macua generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "562",
+    "iso2": "NE",
+    "iso3": "NER",
+    "isoNumeric": "562",
+    "slug": "niger",
+    "name": "Niger",
+    "flag": "🇳🇪",
+    "region": "Africa",
+    "drink": "Bissap",
+    "drinkType": "hibiscus drink",
+    "description": "Bissap is a common hibiscus drink in Niger and the Sahel.",
+    "confidence": "high",
+    "rationale": "Bissap is included as a culturally representative hibiscus drink for Niger.",
+    "sources": [
+      {
+        "label": "Bissap research query",
+        "url": "https://www.openverse.org/search/image?q=Niger%20bissap%20drink"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/niger.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/7752522@N02/4913941306",
+      "fileTitle": "Trying the scotch egg and bissap drink fr. Purple hibiscus #ssfstreetfoodfair",
+      "author": "DianaMoon",
+      "license": "CC BY 2.0",
+      "attribution": "DianaMoon, CC BY 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "566",
+    "iso2": "NG",
+    "iso3": "NGA",
+    "isoNumeric": "566",
+    "slug": "nigeria",
+    "name": "Nigeria",
+    "flag": "🇳🇬",
+    "region": "Africa",
+    "drink": "Zobo",
+    "drinkType": "hibiscus drink",
+    "description": "Zobo is a popular Nigerian hibiscus drink often flavored with ginger.",
+    "confidence": "high",
+    "rationale": "Zobo is included as a culturally representative hibiscus drink for Nigeria.",
+    "sources": [
+      {
+        "label": "Zobo research query",
+        "url": "https://www.openverse.org/search/image?q=Nigerian%20zobo%20drink"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/nigeria.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/nigeria",
+      "fileTitle": "Zobo generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "408",
+    "iso2": "KP",
+    "iso3": "PRK",
+    "isoNumeric": "408",
+    "slug": "north-korea",
+    "name": "North Korea",
+    "flag": "🇰🇵",
+    "region": "Asia",
+    "drink": "Pyongyang soju",
+    "drinkType": "spirit",
+    "description": "Soju is a familiar Korean distilled drink also produced in North Korea.",
+    "confidence": "medium",
+    "rationale": "Pyongyang soju is included as a culturally representative spirit for North Korea.",
+    "sources": [
+      {
+        "label": "Pyongyang soju research query",
+        "url": "https://www.openverse.org/search/image?q=North%20Korean%20soju"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/north-korea.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/65255883@N04/14917690542",
+      "fileTitle": "2005-10 DPRK 203 North Korean ginseng and adder liquor 2",
+      "author": "stormsewer",
+      "license": "CC BY 2.0",
+      "attribution": "stormsewer, CC BY 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "578",
+    "iso2": "NO",
+    "iso3": "NOR",
+    "isoNumeric": "578",
+    "slug": "norway",
+    "name": "Norway",
+    "flag": "🇳🇴",
+    "region": "Europe",
+    "drink": "Aquavit",
+    "drinkType": "spirit",
+    "description": "Aquavit is a traditional Norwegian spiced spirit.",
+    "confidence": "high",
+    "rationale": "Aquavit is included as a culturally representative spirit for Norway.",
+    "sources": [
+      {
+        "label": "Aquavit research query",
+        "url": "https://www.openverse.org/search/image?q=Norwegian%20aquavit"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/norway.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/norway",
+      "fileTitle": "Aquavit generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "512",
+    "iso2": "OM",
+    "iso3": "OMN",
+    "isoNumeric": "512",
+    "slug": "oman",
+    "name": "Oman",
+    "flag": "🇴🇲",
+    "region": "Asia",
+    "drink": "Kahwa",
+    "drinkType": "coffee",
+    "description": "Omani kahwa with cardamom is central to local hospitality.",
+    "confidence": "high",
+    "rationale": "Kahwa is included as a culturally representative coffee for Oman.",
+    "sources": [
+      {
+        "label": "Kahwa research query",
+        "url": "https://www.openverse.org/search/image?q=Omani%20kahwa%20coffee"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/oman.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/oman",
+      "fileTitle": "Kahwa generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "586",
+    "iso2": "PK",
+    "iso3": "PAK",
+    "isoNumeric": "586",
+    "slug": "pakistan",
+    "name": "Pakistan",
+    "flag": "🇵🇰",
+    "region": "Asia",
+    "drink": "Lassi",
+    "drinkType": "yogurt drink",
+    "description": "Lassi is a widely enjoyed yogurt drink in Pakistan.",
+    "confidence": "high",
+    "rationale": "Lassi is included as a culturally representative yogurt drink for Pakistan.",
+    "sources": [
+      {
+        "label": "Lassi research query",
+        "url": "https://www.openverse.org/search/image?q=Pakistani%20lassi"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/pakistan.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/21458229@N00/8192461898",
+      "fileTitle": "Grill mix. $10.50 Mango lassi. $2 Cheap and not good looking restaurant but yummy food. at Indus Village Pakistani Restaurant – View on Path.",
+      "author": "lejoe",
+      "license": "CC BY 2.0",
+      "attribution": "lejoe, CC BY 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "275",
+    "iso2": "PS",
+    "iso3": "PSE",
+    "isoNumeric": "275",
+    "slug": "palestine",
+    "name": "Palestine",
+    "flag": "🇵🇸",
+    "region": "Asia",
+    "drink": "Mint tea",
+    "drinkType": "tea",
+    "description": "Mint tea is a common Palestinian hospitality drink.",
+    "confidence": "high",
+    "rationale": "Mint tea is included as a culturally representative tea for Palestine.",
+    "sources": [
+      {
+        "label": "Mint tea research query",
+        "url": "https://www.openverse.org/search/image?q=Palestinian%20mint%20tea"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/palestine.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/10559879@N00/1221485079",
+      "fileTitle": "Mint Tea - Moroccan Soup Bar",
+      "author": "avlxyz",
+      "license": "CC BY-SA 2.0",
+      "attribution": "avlxyz, CC BY-SA 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "591",
+    "iso2": "PA",
+    "iso3": "PAN",
+    "isoNumeric": "591",
+    "slug": "panama",
+    "name": "Panama",
+    "flag": "🇵🇦",
+    "region": "Americas",
+    "drink": "Seco Herrerano",
+    "drinkType": "spirit",
+    "description": "Seco is a Panamanian sugarcane spirit used in local mixed drinks.",
+    "confidence": "high",
+    "rationale": "Seco Herrerano is included as a culturally representative spirit for Panama.",
+    "sources": [
+      {
+        "label": "Seco Herrerano research query",
+        "url": "https://www.openverse.org/search/image?q=Panama%20Seco%20Herrerano"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/panama.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/panama",
+      "fileTitle": "Seco Herrerano generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "598",
+    "iso2": "PG",
+    "iso3": "PNG",
+    "isoNumeric": "598",
+    "slug": "papua-new-guinea",
+    "name": "Papua New Guinea",
+    "flag": "🇵🇬",
+    "region": "Oceania",
+    "drink": "Kava",
+    "drinkType": "ceremonial drink",
+    "description": "Kava is used in parts of Papua New Guinea and broader Melanesian culture.",
+    "confidence": "medium",
+    "rationale": "Kava is included as a culturally representative ceremonial drink for Papua New Guinea.",
+    "sources": [
+      {
+        "label": "Kava research query",
+        "url": "https://www.openverse.org/search/image?q=Papua%20New%20Guinea%20kava"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/papua-new-guinea.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/papua-new-guinea",
+      "fileTitle": "Kava generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "600",
+    "iso2": "PY",
+    "iso3": "PRY",
+    "isoNumeric": "600",
+    "slug": "paraguay",
+    "name": "Paraguay",
+    "flag": "🇵🇾",
+    "region": "Americas",
+    "drink": "Terere",
+    "drinkType": "herbal infusion",
+    "description": "Terere is Paraguay's cold yerba mate infusion and a national symbol.",
+    "confidence": "official",
+    "rationale": "Terere is included as a culturally representative herbal infusion for Paraguay.",
+    "sources": [
+      {
+        "label": "Terere research query",
+        "url": "https://www.openverse.org/search/image?q=Paraguayan%20terere"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/paraguay.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/18016623@N00/36251650525",
+      "fileTitle": "terere",
+      "author": "Hugo Pardo Kuklinski",
+      "license": "CC BY 2.0",
+      "attribution": "Hugo Pardo Kuklinski, CC BY 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "604",
+    "iso2": "PE",
+    "iso3": "PER",
+    "isoNumeric": "604",
+    "slug": "peru",
+    "name": "Peru",
+    "flag": "🇵🇪",
+    "region": "Americas",
+    "drink": "Pisco sour",
+    "drinkType": "cocktail",
+    "description": "Pisco sour is Peru's iconic pisco, lime, and egg-white cocktail.",
+    "confidence": "official",
+    "rationale": "Pisco sour is included as a culturally representative cocktail for Peru.",
+    "sources": [
+      {
+        "label": "Pisco sour research query",
+        "url": "https://www.openverse.org/search/image?q=Peruvian%20pisco%20sour"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/peru.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/95786359@N05/8770440670",
+      "fileTitle": "Pisco Sour",
+      "author": "T.78UopXx",
+      "license": "CC BY-SA 2.0",
+      "attribution": "T.78UopXx, CC BY-SA 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "608",
+    "iso2": "PH",
+    "iso3": "PHL",
+    "isoNumeric": "608",
+    "slug": "philippines",
+    "name": "Philippines",
+    "flag": "🇵🇭",
+    "region": "Asia",
+    "drink": "Lambanog",
+    "drinkType": "spirit",
+    "description": "Lambanog is a traditional Filipino coconut palm spirit.",
+    "confidence": "high",
+    "rationale": "Lambanog is included as a culturally representative spirit for Philippines.",
+    "sources": [
+      {
+        "label": "Lambanog research query",
+        "url": "https://www.openverse.org/search/image?q=Filipino%20lambanog"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/philippines.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/philippines",
+      "fileTitle": "Lambanog generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "616",
+    "iso2": "PL",
+    "iso3": "POL",
+    "isoNumeric": "616",
+    "slug": "poland",
+    "name": "Poland",
+    "flag": "🇵🇱",
+    "region": "Europe",
+    "drink": "Vodka",
+    "drinkType": "spirit",
+    "description": "Vodka is a long-established Polish distilled drink.",
+    "confidence": "high",
+    "rationale": "Vodka is included as a culturally representative spirit for Poland.",
+    "sources": [
+      {
+        "label": "Vodka research query",
+        "url": "https://www.openverse.org/search/image?q=Polish%20vodka"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/poland.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/62243473@N05/16183444491",
+      "fileTitle": "Belvedere Pure Vodka, Poland 40% (Rye Base) 175cl with light in base",
+      "author": "Fareham Wine",
+      "license": "CC BY 2.0",
+      "attribution": "Fareham Wine, CC BY 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "620",
+    "iso2": "PT",
+    "iso3": "PRT",
+    "isoNumeric": "620",
+    "slug": "portugal",
+    "name": "Portugal",
+    "flag": "🇵🇹",
+    "region": "Europe",
+    "drink": "Port wine",
+    "drinkType": "fortified wine",
+    "description": "Port wine is Portugal's famous fortified wine from the Douro region.",
+    "confidence": "high",
+    "rationale": "Port wine is included as a culturally representative fortified wine for Portugal.",
+    "sources": [
+      {
+        "label": "Port wine research query",
+        "url": "https://www.openverse.org/search/image?q=Portuguese%20port%20wine"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/portugal.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/77476789@N00/1300072510",
+      "fileTitle": "Bottles of tawny Port wine in Lisbon",
+      "author": "the Italian voice",
+      "license": "CC BY 2.0",
+      "attribution": "the Italian voice, CC BY 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "630",
+    "iso2": "PR",
+    "iso3": "PRI",
+    "isoNumeric": "630",
+    "slug": "puerto-rico",
+    "name": "Puerto Rico",
+    "flag": "🇵🇷",
+    "region": "Americas",
+    "drink": "Pina colada",
+    "drinkType": "cocktail",
+    "description": "The pina colada is strongly associated with Puerto Rican cocktail culture.",
+    "confidence": "territory",
+    "rationale": "Pina colada is included as a culturally representative cocktail for Puerto Rico.",
+    "sources": [
+      {
+        "label": "Pina colada research query",
+        "url": "https://www.openverse.org/search/image?q=Puerto%20Rican%20pina%20colada"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/puerto-rico.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/puerto-rico",
+      "fileTitle": "Pina colada generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "634",
+    "iso2": "QA",
+    "iso3": "QAT",
+    "isoNumeric": "634",
+    "slug": "qatar",
+    "name": "Qatar",
+    "flag": "🇶🇦",
+    "region": "Asia",
+    "drink": "Karak",
+    "drinkType": "tea",
+    "description": "Karak is a popular spiced milk tea in Qatar.",
+    "confidence": "high",
+    "rationale": "Karak is included as a culturally representative tea for Qatar.",
+    "sources": [
+      {
+        "label": "Karak research query",
+        "url": "https://www.openverse.org/search/image?q=Qatari%20karak%20tea"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/qatar.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/11912988@N02/11575809113",
+      "fileTitle": "Tea time #tea#time#teatime#tea_time#karak#chay#qatar #doha #morning#earlier#fajr#instadoha #instaqatar #instatea#instatime#instakarak",
+      "author": "D@LY3D",
+      "license": "CC BY 2.0",
+      "attribution": "D@LY3D, CC BY 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "642",
+    "iso2": "RO",
+    "iso3": "ROU",
+    "isoNumeric": "642",
+    "slug": "romania",
+    "name": "Romania",
+    "flag": "🇷🇴",
+    "region": "Europe",
+    "drink": "Tuica",
+    "drinkType": "spirit",
+    "description": "Tuica is Romania's traditional plum brandy.",
+    "confidence": "high",
+    "rationale": "Tuica is included as a culturally representative spirit for Romania.",
+    "sources": [
+      {
+        "label": "Tuica research query",
+        "url": "https://www.openverse.org/search/image?q=Romanian%20tuica"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/romania.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/79653482@N00/6145075400",
+      "fileTitle": "Rasinari",
+      "author": "bortescristian",
+      "license": "CC BY 2.0",
+      "attribution": "bortescristian, CC BY 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "643",
+    "iso2": "RU",
+    "iso3": "RUS",
+    "isoNumeric": "643",
+    "slug": "russia",
+    "name": "Russia",
+    "flag": "🇷🇺",
+    "region": "Europe",
+    "drink": "Kvass",
+    "drinkType": "fermented drink",
+    "description": "Kvass is a traditional lightly fermented rye drink in Russia.",
+    "confidence": "high",
+    "rationale": "Kvass is included as a culturally representative fermented drink for Russia.",
+    "sources": [
+      {
+        "label": "Kvass research query",
+        "url": "https://www.openverse.org/search/image?q=Russian%20kvass"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/russia.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/67975030@N00/9448589451",
+      "fileTitle": "Pilskalna kvasa Dzēriens",
+      "author": "Bernt Rostad",
+      "license": "CC BY 2.0",
+      "attribution": "Bernt Rostad, CC BY 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "646",
+    "iso2": "RW",
+    "iso3": "RWA",
+    "isoNumeric": "646",
+    "slug": "rwanda",
+    "name": "Rwanda",
+    "flag": "🇷🇼",
+    "region": "Africa",
+    "drink": "Urwagwa",
+    "drinkType": "beer",
+    "description": "Urwagwa is a traditional Rwandan banana beer.",
+    "confidence": "high",
+    "rationale": "Urwagwa is included as a culturally representative beer for Rwanda.",
+    "sources": [
+      {
+        "label": "Urwagwa research query",
+        "url": "https://www.openverse.org/search/image?q=Rwanda%20urwagwa%20banana%20beer"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/rwanda.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/rwanda",
+      "fileTitle": "Urwagwa generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "728",
+    "iso2": "SS",
+    "iso3": "SSD",
+    "isoNumeric": "728",
+    "slug": "south-sudan",
+    "name": "South Sudan",
+    "flag": "🇸🇸",
+    "region": "Africa",
+    "drink": "Siko",
+    "drinkType": "beer",
+    "description": "Siko is a traditional sorghum beer associated with South Sudanese communities.",
+    "confidence": "medium",
+    "rationale": "Siko is included as a culturally representative beer for South Sudan.",
+    "sources": [
+      {
+        "label": "Siko research query",
+        "url": "https://www.openverse.org/search/image?q=South%20Sudan%20sorghum%20beer%20siko"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/south-sudan.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/south-sudan",
+      "fileTitle": "Siko generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "682",
+    "iso2": "SA",
+    "iso3": "SAU",
+    "isoNumeric": "682",
+    "slug": "saudi-arabia",
+    "name": "Saudi Arabia",
+    "flag": "🇸🇦",
+    "region": "Asia",
+    "drink": "Arabic coffee",
+    "drinkType": "coffee",
+    "description": "Cardamom-scented Arabic coffee is central to Saudi hospitality.",
+    "confidence": "high",
+    "rationale": "Arabic coffee is included as a culturally representative coffee for Saudi Arabia.",
+    "sources": [
+      {
+        "label": "Arabic coffee research query",
+        "url": "https://www.openverse.org/search/image?q=Saudi%20Arabic%20coffee"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/saudi-arabia.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/saudi-arabia",
+      "fileTitle": "Arabic coffee generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "686",
+    "iso2": "SN",
+    "iso3": "SEN",
+    "isoNumeric": "686",
+    "slug": "senegal",
+    "name": "Senegal",
+    "flag": "🇸🇳",
+    "region": "Africa",
+    "drink": "Bissap",
+    "drinkType": "hibiscus drink",
+    "description": "Bissap is a widely enjoyed Senegalese hibiscus drink.",
+    "confidence": "high",
+    "rationale": "Bissap is included as a culturally representative hibiscus drink for Senegal.",
+    "sources": [
+      {
+        "label": "Bissap research query",
+        "url": "https://www.openverse.org/search/image?q=Senegalese%20bissap"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/senegal.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/7752522@N02/4913941306",
+      "fileTitle": "Trying the scotch egg and bissap drink fr. Purple hibiscus #ssfstreetfoodfair",
+      "author": "DianaMoon",
+      "license": "CC BY 2.0",
+      "attribution": "DianaMoon, CC BY 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "688",
+    "iso2": "RS",
+    "iso3": "SRB",
+    "isoNumeric": "688",
+    "slug": "serbia",
+    "name": "Serbia",
+    "flag": "🇷🇸",
+    "region": "Europe",
+    "drink": "Rakija",
+    "drinkType": "spirit",
+    "description": "Rakija is a traditional Serbian fruit brandy.",
+    "confidence": "high",
+    "rationale": "Rakija is included as a culturally representative spirit for Serbia.",
+    "sources": [
+      {
+        "label": "Rakija research query",
+        "url": "https://www.openverse.org/search/image?q=Serbian%20rakija"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/serbia.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/15966463@N02/3974296714",
+      "fileTitle": "Kazan/cauldron/sljive/plums/rakija",
+      "author": "brankomaster",
+      "license": "CC BY 2.0",
+      "attribution": "brankomaster, CC BY 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "694",
+    "iso2": "SL",
+    "iso3": "SLE",
+    "isoNumeric": "694",
+    "slug": "sierra-leone",
+    "name": "Sierra Leone",
+    "flag": "🇸🇱",
+    "region": "Africa",
+    "drink": "Ginger beer",
+    "drinkType": "ginger drink",
+    "description": "Ginger beer is a familiar homemade refreshment in Sierra Leone.",
+    "confidence": "medium",
+    "rationale": "Ginger beer is included as a culturally representative ginger drink for Sierra Leone.",
+    "sources": [
+      {
+        "label": "Ginger beer research query",
+        "url": "https://www.openverse.org/search/image?q=Sierra%20Leone%20ginger%20beer"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/sierra-leone.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/58246614@N00/3788290135",
+      "fileTitle": "Crabbie's Original Alcoholic Ginger Beer",
+      "author": "mdid",
+      "license": "CC BY 2.0",
+      "attribution": "mdid, CC BY 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "703",
+    "iso2": "SK",
+    "iso3": "SVK",
+    "isoNumeric": "703",
+    "slug": "slovakia",
+    "name": "Slovakia",
+    "flag": "🇸🇰",
+    "region": "Europe",
+    "drink": "Borovicka",
+    "drinkType": "spirit",
+    "description": "Borovicka is a traditional Slovak juniper spirit.",
+    "confidence": "high",
+    "rationale": "Borovicka is included as a culturally representative spirit for Slovakia.",
+    "sources": [
+      {
+        "label": "Borovicka research query",
+        "url": "https://www.openverse.org/search/image?q=Slovak%20borovicka"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/slovakia.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/slovakia",
+      "fileTitle": "Borovicka generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "705",
+    "iso2": "SI",
+    "iso3": "SVN",
+    "isoNumeric": "705",
+    "slug": "slovenia",
+    "name": "Slovenia",
+    "flag": "🇸🇮",
+    "region": "Europe",
+    "drink": "Teran",
+    "drinkType": "wine",
+    "description": "Teran reflects Slovenia's Karst wine traditions.",
+    "confidence": "high",
+    "rationale": "Teran is included as a culturally representative wine for Slovenia.",
+    "sources": [
+      {
+        "label": "Teran research query",
+        "url": "https://www.openverse.org/search/image?q=Slovenian%20Teran%20wine"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/slovenia.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/34826321@N00/14830506063",
+      "fileTitle": "straight from the barrel",
+      "author": "feelsgoodlost",
+      "license": "CC BY-SA 2.0",
+      "attribution": "feelsgoodlost, CC BY-SA 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "090",
+    "iso2": "SB",
+    "iso3": "SLB",
+    "isoNumeric": "090",
+    "slug": "solomon-islands",
+    "name": "Solomon Islands",
+    "flag": "🇸🇧",
+    "region": "Oceania",
+    "drink": "Kava",
+    "drinkType": "ceremonial drink",
+    "description": "Kava is used socially in Solomon Islands and neighboring Pacific cultures.",
+    "confidence": "high",
+    "rationale": "Kava is included as a culturally representative ceremonial drink for Solomon Islands.",
+    "sources": [
+      {
+        "label": "Kava research query",
+        "url": "https://www.openverse.org/search/image?q=Solomon%20Islands%20kava"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/solomon-islands.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/solomon-islands",
+      "fileTitle": "Kava generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "706",
+    "iso2": "SO",
+    "iso3": "SOM",
+    "isoNumeric": "706",
+    "slug": "somalia",
+    "name": "Somalia",
+    "flag": "🇸🇴",
+    "region": "Africa",
+    "drink": "Shaah cadays",
+    "drinkType": "tea",
+    "description": "Spiced milk tea is a common Somali hospitality drink.",
+    "confidence": "high",
+    "rationale": "Shaah cadays is included as a culturally representative tea for Somalia.",
+    "sources": [
+      {
+        "label": "Shaah cadays research query",
+        "url": "https://www.openverse.org/search/image?q=Somali%20shaah%20cadays%20tea"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/somalia.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/somalia",
+      "fileTitle": "Shaah cadays generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "name:somaliland",
+    "iso2": "SL",
+    "iso3": "SOL",
+    "isoNumeric": "000",
+    "slug": "somaliland",
+    "name": "Somaliland",
+    "flag": "🏳️",
+    "region": "World",
+    "drink": "Shaah",
+    "drinkType": "tea",
+    "description": "Spiced tea is a common hospitality drink in Somaliland.",
+    "confidence": "territory",
+    "rationale": "Shaah is included as a culturally representative tea for Somaliland.",
+    "sources": [
+      {
+        "label": "Shaah research query",
+        "url": "https://www.openverse.org/search/image?q=Somaliland%20shaah%20tea"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/somaliland.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/somaliland",
+      "fileTitle": "Shaah generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "710",
+    "iso2": "ZA",
+    "iso3": "ZAF",
+    "isoNumeric": "710",
+    "slug": "south-africa",
+    "name": "South Africa",
+    "flag": "🇿🇦",
+    "region": "Africa",
+    "drink": "Rooibos tea",
+    "drinkType": "tea",
+    "description": "Rooibos is a South African herbal tea grown in the Western Cape.",
+    "confidence": "high",
+    "rationale": "Rooibos tea is included as a culturally representative tea for South Africa.",
+    "sources": [
+      {
+        "label": "Rooibos tea research query",
+        "url": "https://www.openverse.org/search/image?q=South%20African%20rooibos%20tea"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/south-africa.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/south-africa",
+      "fileTitle": "Rooibos tea generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "410",
+    "iso2": "KR",
+    "iso3": "KOR",
+    "isoNumeric": "410",
+    "slug": "south-korea",
+    "name": "South Korea",
+    "flag": "🇰🇷",
+    "region": "Asia",
+    "drink": "Soju",
+    "drinkType": "spirit",
+    "description": "Soju is a widely shared Korean distilled drink.",
+    "confidence": "high",
+    "rationale": "Soju is included as a culturally representative spirit for South Korea.",
+    "sources": [
+      {
+        "label": "Soju research query",
+        "url": "https://www.openverse.org/search/image?q=Korean%20soju"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/south-korea.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/32149859@N04/3126601235",
+      "fileTitle": "Soju",
+      "author": "rtclauss",
+      "license": "CC BY-SA 2.0",
+      "attribution": "rtclauss, CC BY-SA 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "724",
+    "iso2": "ES",
+    "iso3": "ESP",
+    "isoNumeric": "724",
+    "slug": "spain",
+    "name": "Spain",
+    "flag": "🇪🇸",
+    "region": "Europe",
+    "drink": "Sangria",
+    "drinkType": "wine punch",
+    "description": "Sangria is a Spanish wine punch associated with social occasions.",
+    "confidence": "high",
+    "rationale": "Sangria is included as a culturally representative wine punch for Spain.",
+    "sources": [
+      {
+        "label": "Sangria research query",
+        "url": "https://www.openverse.org/search/image?q=Spanish%20sangria"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/spain.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/57733059@N02/5847901547",
+      "fileTitle": "Sangria",
+      "author": "bastiend",
+      "license": "CC BY 2.0",
+      "attribution": "bastiend, CC BY 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "144",
+    "iso2": "LK",
+    "iso3": "LKA",
+    "isoNumeric": "144",
+    "slug": "sri-lanka",
+    "name": "Sri Lanka",
+    "flag": "🇱🇰",
+    "region": "Asia",
+    "drink": "Ceylon tea",
+    "drinkType": "tea",
+    "description": "Ceylon tea is closely tied to Sri Lanka's history and agriculture.",
+    "confidence": "high",
+    "rationale": "Ceylon tea is included as a culturally representative tea for Sri Lanka.",
+    "sources": [
+      {
+        "label": "Ceylon tea research query",
+        "url": "https://www.openverse.org/search/image?q=Sri%20Lankan%20Ceylon%20tea"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/sri-lanka.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/sri-lanka",
+      "fileTitle": "Ceylon tea generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "729",
+    "iso2": "SD",
+    "iso3": "SDN",
+    "isoNumeric": "729",
+    "slug": "sudan",
+    "name": "Sudan",
+    "flag": "🇸🇩",
+    "region": "Africa",
+    "drink": "Karkade",
+    "drinkType": "hibiscus drink",
+    "description": "Karkade is a hibiscus drink served in Sudanese homes and markets.",
+    "confidence": "high",
+    "rationale": "Karkade is included as a culturally representative hibiscus drink for Sudan.",
+    "sources": [
+      {
+        "label": "Karkade research query",
+        "url": "https://www.openverse.org/search/image?q=Sudanese%20karkade"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/sudan.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/sudan",
+      "fileTitle": "Karkade generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "740",
+    "iso2": "SR",
+    "iso3": "SUR",
+    "isoNumeric": "740",
+    "slug": "suriname",
+    "name": "Suriname",
+    "flag": "🇸🇷",
+    "region": "Americas",
+    "drink": "Dawet",
+    "drinkType": "sweet drink",
+    "description": "Dawet reflects Suriname's Javanese heritage with coconut and pandan flavors.",
+    "confidence": "high",
+    "rationale": "Dawet is included as a culturally representative sweet drink for Suriname.",
+    "sources": [
+      {
+        "label": "Dawet research query",
+        "url": "https://www.openverse.org/search/image?q=Suriname%20dawet%20drink"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/suriname.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/63363807@N03/8415509459",
+      "fileTitle": "Dawet",
+      "author": "Didit Putra",
+      "license": "CC BY 2.0",
+      "attribution": "Didit Putra, CC BY 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "752",
+    "iso2": "SE",
+    "iso3": "SWE",
+    "isoNumeric": "752",
+    "slug": "sweden",
+    "name": "Sweden",
+    "flag": "🇸🇪",
+    "region": "Europe",
+    "drink": "Brannvin",
+    "drinkType": "spirit",
+    "description": "Brannvin is a traditional Swedish distilled spirit.",
+    "confidence": "high",
+    "rationale": "Brannvin is included as a culturally representative spirit for Sweden.",
+    "sources": [
+      {
+        "label": "Brannvin research query",
+        "url": "https://www.openverse.org/search/image?q=Swedish%20brannvin"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/sweden.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/sweden",
+      "fileTitle": "Brannvin generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "756",
+    "iso2": "CH",
+    "iso3": "CHE",
+    "isoNumeric": "756",
+    "slug": "switzerland",
+    "name": "Switzerland",
+    "flag": "🇨🇭",
+    "region": "Europe",
+    "drink": "Rivella",
+    "drinkType": "soft drink",
+    "description": "Rivella is a distinctively Swiss milk-serum soft drink.",
+    "confidence": "high",
+    "rationale": "Rivella is included as a culturally representative soft drink for Switzerland.",
+    "sources": [
+      {
+        "label": "Rivella research query",
+        "url": "https://www.openverse.org/search/image?q=Swiss%20Rivella%20drink"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/switzerland.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/73293249@N00/2824007309",
+      "fileTitle": "Rivella Jaune + Ragusa Noir = ?",
+      "author": "Olivier Bruchez",
+      "license": "CC BY-SA 2.0",
+      "attribution": "Olivier Bruchez, CC BY-SA 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "760",
+    "iso2": "SY",
+    "iso3": "SYR",
+    "isoNumeric": "760",
+    "slug": "syria",
+    "name": "Syria",
+    "flag": "🇸🇾",
+    "region": "Asia",
+    "drink": "Arak",
+    "drinkType": "spirit",
+    "description": "Arak is a traditional anise-flavored spirit in Syrian and Levantine cuisine.",
+    "confidence": "high",
+    "rationale": "Arak is included as a culturally representative spirit for Syria.",
+    "sources": [
+      {
+        "label": "Arak research query",
+        "url": "https://www.openverse.org/search/image?q=Syrian%20arak"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/syria.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/syria",
+      "fileTitle": "Arak generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "158",
+    "iso2": "TW",
+    "iso3": "TWN",
+    "isoNumeric": "158",
+    "slug": "taiwan",
+    "name": "Taiwan",
+    "flag": "🇹🇼",
+    "region": "Asia",
+    "drink": "Bubble tea",
+    "drinkType": "tea",
+    "description": "Bubble tea originated in Taiwan and is a major local drink export.",
+    "confidence": "high",
+    "rationale": "Bubble tea is included as a culturally representative tea for Taiwan.",
+    "sources": [
+      {
+        "label": "Bubble tea research query",
+        "url": "https://www.openverse.org/search/image?q=Taiwanese%20bubble%20tea"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/taiwan.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/23851271@N00/1271433668",
+      "fileTitle": "Bubble Tea's Bubbles",
+      "author": "Mr Wabu",
+      "license": "CC BY-SA 2.0",
+      "attribution": "Mr Wabu, CC BY-SA 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "762",
+    "iso2": "TJ",
+    "iso3": "TJK",
+    "isoNumeric": "762",
+    "slug": "tajikistan",
+    "name": "Tajikistan",
+    "flag": "🇹🇯",
+    "region": "Asia",
+    "drink": "Shirchoy",
+    "drinkType": "tea",
+    "description": "Shirchoy is a salty milk tea associated with Tajik mountain hospitality.",
+    "confidence": "high",
+    "rationale": "Shirchoy is included as a culturally representative tea for Tajikistan.",
+    "sources": [
+      {
+        "label": "Shirchoy research query",
+        "url": "https://www.openverse.org/search/image?q=Tajik%20shirchoy%20tea"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/tajikistan.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/tajikistan",
+      "fileTitle": "Shirchoy generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "834",
+    "iso2": "TZ",
+    "iso3": "TZA",
+    "isoNumeric": "834",
+    "slug": "tanzania",
+    "name": "Tanzania",
+    "flag": "🇹🇿",
+    "region": "Africa",
+    "drink": "Tangawizi",
+    "drinkType": "ginger soda",
+    "description": "Tangawizi is a ginger soda widely enjoyed in Tanzania.",
+    "confidence": "high",
+    "rationale": "Tangawizi is included as a culturally representative ginger soda for Tanzania.",
+    "sources": [
+      {
+        "label": "Tangawizi research query",
+        "url": "https://www.openverse.org/search/image?q=Tanzanian%20tangawizi%20drink"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/tanzania.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/38839434@N00/369233248",
+      "fileTitle": "Stoney Tangawizi",
+      "author": "aslakr",
+      "license": "CC BY 2.0",
+      "attribution": "aslakr, CC BY 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "764",
+    "iso2": "TH",
+    "iso3": "THA",
+    "isoNumeric": "764",
+    "slug": "thailand",
+    "name": "Thailand",
+    "flag": "🇹🇭",
+    "region": "Asia",
+    "drink": "Thai iced tea",
+    "drinkType": "tea",
+    "description": "Thai iced tea is a sweet spiced tea served over ice.",
+    "confidence": "high",
+    "rationale": "Thai iced tea is included as a culturally representative tea for Thailand.",
+    "sources": [
+      {
+        "label": "Thai iced tea research query",
+        "url": "https://www.openverse.org/search/image?q=Thai%20iced%20tea"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/thailand.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/10559879@N00/4306478420",
+      "fileTitle": "Thai-style Ice Milk Tea - i Spicy AUD2.50",
+      "author": "avlxyz",
+      "license": "CC BY-SA 2.0",
+      "attribution": "avlxyz, CC BY-SA 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "626",
+    "iso2": "TL",
+    "iso3": "TLS",
+    "isoNumeric": "626",
+    "slug": "timor-leste",
+    "name": "Timor-Leste",
+    "flag": "🇹🇱",
+    "region": "Asia",
+    "drink": "Timor coffee",
+    "drinkType": "coffee",
+    "description": "Coffee is one of Timor-Leste's signature agricultural products.",
+    "confidence": "high",
+    "rationale": "Timor coffee is included as a culturally representative coffee for Timor-Leste.",
+    "sources": [
+      {
+        "label": "Timor coffee research query",
+        "url": "https://www.openverse.org/search/image?q=Timor-Leste%20coffee"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/timor-leste.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/21692054@N00/4822740188",
+      "fileTitle": "Monday: Coffee all the way from Timor-Leste",
+      "author": "ohsarahrose",
+      "license": "CC BY-SA 2.0",
+      "attribution": "ohsarahrose, CC BY-SA 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "768",
+    "iso2": "TG",
+    "iso3": "TGO",
+    "isoNumeric": "768",
+    "slug": "togo",
+    "name": "Togo",
+    "flag": "🇹🇬",
+    "region": "Africa",
+    "drink": "Tchoukoutou",
+    "drinkType": "beer",
+    "description": "Tchoukoutou is a traditional millet or sorghum beer in Togo.",
+    "confidence": "high",
+    "rationale": "Tchoukoutou is included as a culturally representative beer for Togo.",
+    "sources": [
+      {
+        "label": "Tchoukoutou research query",
+        "url": "https://www.openverse.org/search/image?q=Togo%20tchoukoutou%20beer"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/togo.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/togo",
+      "fileTitle": "Tchoukoutou generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "780",
+    "iso2": "TT",
+    "iso3": "TTO",
+    "isoNumeric": "780",
+    "slug": "trinidad-and-tobago",
+    "name": "Trinidad and Tobago",
+    "flag": "🇹🇹",
+    "region": "Americas",
+    "drink": "Mauby",
+    "drinkType": "soft drink",
+    "description": "Mauby is a bitter-sweet bark drink enjoyed in Trinidad and Tobago.",
+    "confidence": "high",
+    "rationale": "Mauby is included as a culturally representative soft drink for Trinidad and Tobago.",
+    "sources": [
+      {
+        "label": "Mauby research query",
+        "url": "https://www.openverse.org/search/image?q=Trinidad%20Tobago%20mauby"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/trinidad-and-tobago.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/25897810@N00/6538383795",
+      "fileTitle": "Mauby - Bridgetown, Barbados",
+      "author": "David Berkowitz",
+      "license": "CC BY 2.0",
+      "attribution": "David Berkowitz, CC BY 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "788",
+    "iso2": "TN",
+    "iso3": "TUN",
+    "isoNumeric": "788",
+    "slug": "tunisia",
+    "name": "Tunisia",
+    "flag": "🇹🇳",
+    "region": "Africa",
+    "drink": "Mint tea with pine nuts",
+    "drinkType": "tea",
+    "description": "Mint tea with pine nuts is a distinctive Tunisian hospitality drink.",
+    "confidence": "high",
+    "rationale": "Mint tea with pine nuts is included as a culturally representative tea for Tunisia.",
+    "sources": [
+      {
+        "label": "Mint tea with pine nuts research query",
+        "url": "https://www.openverse.org/search/image?q=Tunisian%20mint%20tea%20pine%20nuts"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/tunisia.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/tunisia",
+      "fileTitle": "Mint tea with pine nuts generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "792",
+    "iso2": "TR",
+    "iso3": "TUR",
+    "isoNumeric": "792",
+    "slug": "turkey",
+    "name": "Turkey",
+    "flag": "🇹🇷",
+    "region": "Asia",
+    "drink": "Turkish tea",
+    "drinkType": "tea",
+    "description": "Black tea is served throughout the day in Turkey.",
+    "confidence": "high",
+    "rationale": "Turkish tea is included as a culturally representative tea for Turkey.",
+    "sources": [
+      {
+        "label": "Turkish tea research query",
+        "url": "https://www.openverse.org/search/image?q=Turkish%20tea"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/turkey.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/99622129@N00/9238208624",
+      "fileTitle": "TURKISH COFFEE",
+      "author": "BOMBMAN",
+      "license": "CC BY 2.0",
+      "attribution": "BOMBMAN, CC BY 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "795",
+    "iso2": "TM",
+    "iso3": "TKM",
+    "isoNumeric": "795",
+    "slug": "turkmenistan",
+    "name": "Turkmenistan",
+    "flag": "🇹🇲",
+    "region": "Asia",
+    "drink": "Chal",
+    "drinkType": "fermented milk",
+    "description": "Chal is a traditional fermented camel milk drink in Turkmen culture.",
+    "confidence": "high",
+    "rationale": "Chal is included as a culturally representative fermented milk for Turkmenistan.",
+    "sources": [
+      {
+        "label": "Chal research query",
+        "url": "https://www.openverse.org/search/image?q=Turkmen%20chal%20camel%20milk"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/turkmenistan.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/turkmenistan",
+      "fileTitle": "Chal generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "800",
+    "iso2": "UG",
+    "iso3": "UGA",
+    "isoNumeric": "800",
+    "slug": "uganda",
+    "name": "Uganda",
+    "flag": "🇺🇬",
+    "region": "Africa",
+    "drink": "Waragi",
+    "drinkType": "spirit",
+    "description": "Waragi is a traditional Ugandan distilled spirit.",
+    "confidence": "high",
+    "rationale": "Waragi is included as a culturally representative spirit for Uganda.",
+    "sources": [
+      {
+        "label": "Waragi research query",
+        "url": "https://www.openverse.org/search/image?q=Ugandan%20waragi"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/uganda.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/uganda",
+      "fileTitle": "Waragi generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "804",
+    "iso2": "UA",
+    "iso3": "UKR",
+    "isoNumeric": "804",
+    "slug": "ukraine",
+    "name": "Ukraine",
+    "flag": "🇺🇦",
+    "region": "Europe",
+    "drink": "Uzvar",
+    "drinkType": "fruit drink",
+    "description": "Uzvar is a traditional Ukrainian dried-fruit drink.",
+    "confidence": "high",
+    "rationale": "Uzvar is included as a culturally representative fruit drink for Ukraine.",
+    "sources": [
+      {
+        "label": "Uzvar research query",
+        "url": "https://www.openverse.org/search/image?q=Ukrainian%20uzvar"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/ukraine.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/ukraine",
+      "fileTitle": "Uzvar generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "784",
+    "iso2": "AE",
+    "iso3": "ARE",
+    "isoNumeric": "784",
+    "slug": "united-arab-emirates",
+    "name": "United Arab Emirates",
+    "flag": "🇦🇪",
+    "region": "Asia",
+    "drink": "Arabic coffee",
+    "drinkType": "coffee",
+    "description": "Arabic coffee with cardamom is central to Emirati hospitality.",
+    "confidence": "high",
+    "rationale": "Arabic coffee is included as a culturally representative coffee for United Arab Emirates.",
+    "sources": [
+      {
+        "label": "Arabic coffee research query",
+        "url": "https://www.openverse.org/search/image?q=Emirati%20Arabic%20coffee"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/united-arab-emirates.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/united-arab-emirates",
+      "fileTitle": "Arabic coffee generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "826",
+    "iso2": "GB",
+    "iso3": "GBR",
+    "isoNumeric": "826",
+    "slug": "united-kingdom",
+    "name": "United Kingdom",
+    "flag": "🇬🇧",
+    "region": "Europe",
+    "drink": "Tea",
+    "drinkType": "tea",
+    "description": "Tea is a long-standing everyday drink across the United Kingdom.",
+    "confidence": "high",
+    "rationale": "Tea is included as a culturally representative tea for United Kingdom.",
+    "sources": [
+      {
+        "label": "Tea research query",
+        "url": "https://www.openverse.org/search/image?q=British%20tea"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/united-kingdom.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/82439748@N00/252802786",
+      "fileTitle": "British tea",
+      "author": "blmurch",
+      "license": "CC BY 2.0",
+      "attribution": "blmurch, CC BY 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "840",
+    "iso2": "US",
+    "iso3": "USA",
+    "isoNumeric": "840",
+    "slug": "united-states-of-america",
+    "name": "United States of America",
+    "flag": "🇺🇸",
+    "region": "Americas",
+    "drink": "Bourbon",
+    "drinkType": "whiskey",
+    "description": "Bourbon is a distinctive American whiskey style rooted in U.S. distilling.",
+    "confidence": "official",
+    "rationale": "Bourbon is included as a culturally representative whiskey for United States of America.",
+    "sources": [
+      {
+        "label": "Bourbon research query",
+        "url": "https://www.openverse.org/search/image?q=American%20bourbon%20whiskey"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/united-states-of-america.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/68117449@N08/9328630161",
+      "fileTitle": "American Whiskey",
+      "author": "tsearcher2011",
+      "license": "CC BY 2.0",
+      "attribution": "tsearcher2011, CC BY 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "858",
+    "iso2": "UY",
+    "iso3": "URY",
+    "isoNumeric": "858",
+    "slug": "uruguay",
+    "name": "Uruguay",
+    "flag": "🇺🇾",
+    "region": "Americas",
+    "drink": "Mate",
+    "drinkType": "herbal infusion",
+    "description": "Mate is a daily social infusion strongly associated with Uruguay.",
+    "confidence": "high",
+    "rationale": "Mate is included as a culturally representative herbal infusion for Uruguay.",
+    "sources": [
+      {
+        "label": "Mate research query",
+        "url": "https://www.openverse.org/search/image?q=Uruguayan%20mate"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/uruguay.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/uruguay",
+      "fileTitle": "Mate generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "860",
+    "iso2": "UZ",
+    "iso3": "UZB",
+    "isoNumeric": "860",
+    "slug": "uzbekistan",
+    "name": "Uzbekistan",
+    "flag": "🇺🇿",
+    "region": "Asia",
+    "drink": "Green tea",
+    "drinkType": "tea",
+    "description": "Green tea is a common Uzbek hospitality drink served with meals.",
+    "confidence": "high",
+    "rationale": "Green tea is included as a culturally representative tea for Uzbekistan.",
+    "sources": [
+      {
+        "label": "Green tea research query",
+        "url": "https://www.openverse.org/search/image?q=Uzbek%20green%20tea"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/uzbekistan.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/7912605@N08/5027175509",
+      "fileTitle": "Green tea",
+      "author": "theseanster93",
+      "license": "CC BY-SA 2.0",
+      "attribution": "theseanster93, CC BY-SA 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "548",
+    "iso2": "VU",
+    "iso3": "VUT",
+    "isoNumeric": "548",
+    "slug": "vanuatu",
+    "name": "Vanuatu",
+    "flag": "🇻🇺",
+    "region": "Oceania",
+    "drink": "Kava",
+    "drinkType": "ceremonial drink",
+    "description": "Kava is a culturally important drink in Vanuatu.",
+    "confidence": "high",
+    "rationale": "Kava is included as a culturally representative ceremonial drink for Vanuatu.",
+    "sources": [
+      {
+        "label": "Kava research query",
+        "url": "https://www.openverse.org/search/image?q=Vanuatu%20kava"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/vanuatu.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/vanuatu",
+      "fileTitle": "Kava generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "862",
+    "iso2": "VE",
+    "iso3": "VEN",
+    "isoNumeric": "862",
+    "slug": "venezuela",
+    "name": "Venezuela",
+    "flag": "🇻🇪",
+    "region": "Americas",
+    "drink": "Chicha criolla",
+    "drinkType": "rice drink",
+    "description": "Chicha criolla is a traditional Venezuelan sweet rice drink.",
+    "confidence": "high",
+    "rationale": "Chicha criolla is included as a culturally representative rice drink for Venezuela.",
+    "sources": [
+      {
+        "label": "Chicha criolla research query",
+        "url": "https://www.openverse.org/search/image?q=Venezuelan%20chicha%20criolla"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/venezuela.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/venezuela",
+      "fileTitle": "Chicha criolla generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "704",
+    "iso2": "VN",
+    "iso3": "VNM",
+    "isoNumeric": "704",
+    "slug": "vietnam",
+    "name": "Vietnam",
+    "flag": "🇻🇳",
+    "region": "Asia",
+    "drink": "Ca phe sua da",
+    "drinkType": "coffee",
+    "description": "Iced coffee with condensed milk is a signature Vietnamese drink.",
+    "confidence": "high",
+    "rationale": "Ca phe sua da is included as a culturally representative coffee for Vietnam.",
+    "sources": [
+      {
+        "label": "Ca phe sua da research query",
+        "url": "https://www.openverse.org/search/image?q=Vietnamese%20ca%20phe%20sua%20da"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/openverse/vietnam.jpg",
+      "status": "photo-metadata-verified",
+      "sourceUrl": "https://www.flickr.com/photos/21160385@N02/24190758071",
+      "fileTitle": "Preparing a perfect Ca Phe Sua Da (Con Dao, Vietnam 2016)",
+      "author": "paularps",
+      "license": "CC BY 2.0",
+      "attribution": "paularps, CC BY 2.0, via flickr"
+    }
+  },
+  {
+    "mapId": "732",
+    "iso2": "EH",
+    "iso3": "ESH",
+    "isoNumeric": "732",
+    "slug": "western-sahara",
+    "name": "Western Sahara",
+    "flag": "🇪🇭",
+    "region": "Africa",
+    "drink": "Sahrawi tea",
+    "drinkType": "tea",
+    "description": "Sahrawi tea is a ceremonial mint tea served in rounds.",
+    "confidence": "territory",
+    "rationale": "Sahrawi tea is included as a culturally representative tea for Western Sahara.",
+    "sources": [
+      {
+        "label": "Sahrawi tea research query",
+        "url": "https://www.openverse.org/search/image?q=Sahrawi%20tea%20Western%20Sahara"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/western-sahara.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/western-sahara",
+      "fileTitle": "Sahrawi tea generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "887",
+    "iso2": "YE",
+    "iso3": "YEM",
+    "isoNumeric": "887",
+    "slug": "yemen",
+    "name": "Yemen",
+    "flag": "🇾🇪",
+    "region": "Asia",
+    "drink": "Qishr",
+    "drinkType": "coffee husk drink",
+    "description": "Qishr is a traditional Yemeni spiced drink made from coffee husks.",
+    "confidence": "high",
+    "rationale": "Qishr is included as a culturally representative coffee husk drink for Yemen.",
+    "sources": [
+      {
+        "label": "Qishr research query",
+        "url": "https://www.openverse.org/search/image?q=Yemeni%20qishr%20drink"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/yemen.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/yemen",
+      "fileTitle": "Qishr generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "894",
+    "iso2": "ZM",
+    "iso3": "ZMB",
+    "isoNumeric": "894",
+    "slug": "zambia",
+    "name": "Zambia",
+    "flag": "🇿🇲",
+    "region": "Africa",
+    "drink": "Munkoyo",
+    "drinkType": "fermented drink",
+    "description": "Munkoyo is a traditional Zambian fermented maize drink.",
+    "confidence": "high",
+    "rationale": "Munkoyo is included as a culturally representative fermented drink for Zambia.",
+    "sources": [
+      {
+        "label": "Munkoyo research query",
+        "url": "https://www.openverse.org/search/image?q=Zambian%20munkoyo%20drink"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/zambia.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/zambia",
+      "fileTitle": "Munkoyo generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  },
+  {
+    "mapId": "716",
+    "iso2": "ZW",
+    "iso3": "ZWE",
+    "isoNumeric": "716",
+    "slug": "zimbabwe",
+    "name": "Zimbabwe",
+    "flag": "🇿🇼",
+    "region": "Africa",
+    "drink": "Mahewu",
+    "drinkType": "fermented drink",
+    "description": "Mahewu is a traditional Zimbabwean fermented maize drink.",
+    "confidence": "high",
+    "rationale": "Mahewu is included as a culturally representative fermented drink for Zimbabwe.",
+    "sources": [
+      {
+        "label": "Mahewu research query",
+        "url": "https://www.openverse.org/search/image?q=Zimbabwean%20mahewu%20drink"
+      }
+    ],
+    "image": {
+      "localPath": "/drinks/generated/zimbabwe.svg",
+      "status": "generated-local",
+      "sourceUrl": "https://world-drinks.local/generated/zimbabwe",
+      "fileTitle": "Mahewu generated artwork",
+      "author": "World Drinks app",
+      "license": "Site-generated",
+      "attribution": "Generated locally by the World Drinks app"
+    }
+  }
+]
