@@ -30,6 +30,7 @@ const countrySchema = z.object({
   drink: z.string().min(2),
   drinkType: z.string().min(2),
   description: z.string().min(40),
+  madeOf: z.string().min(40),
   confidence: z.enum(['official', 'high', 'medium', 'territory']),
   rationale: z.string().min(24),
   sources: z.array(sourceSchema).min(1),
@@ -46,6 +47,9 @@ for (const country of countries) {
     if (seen.has(key)) errors.push(`Duplicate key detected: ${key}`);
     seen.add(key);
   }
+
+  const flagFile = join(root, 'public', 'flags', `${country.iso2.toLowerCase()}.png`);
+  if (!existsSync(flagFile)) errors.push(`${country.name} local flag is missing: /flags/${country.iso2.toLowerCase()}.png`);
 
   if (country.image.status === 'local-verified' || country.image.status === 'photo-metadata-verified' || country.image.status === 'generated-local') {
     if (!country.image.localPath) {

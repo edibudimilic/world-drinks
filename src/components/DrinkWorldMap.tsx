@@ -1,10 +1,11 @@
 import { useEffect, useMemo, useRef, useState } from 'react';
-import { ArrowUpRight, Search } from 'lucide-react';
+import { Search } from 'lucide-react';
 import * as THREE from 'three';
+import { geoEquirectangular, geoPath } from 'd3-geo';
 import { feature } from 'topojson-client';
 import type { DrinkCountry } from '../data/schema';
 
-export type MapDrinkCountry = Pick<DrinkCountry, 'mapId' | 'name' | 'region' | 'flag' | 'drink' | 'slug' | 'description' | 'drinkType'> & {
+export type MapDrinkCountry = Pick<DrinkCountry, 'mapId' | 'iso2' | 'name' | 'region' | 'drink' | 'description' | 'drinkType' | 'madeOf'> & {
   image: Pick<DrinkCountry['image'], 'localPath'>;
 };
 
@@ -40,6 +41,10 @@ interface WorldTopology {
 const geoUrl = '/maps/countries-110m.json';
 const textureWidth = 2048;
 const textureHeight = 1024;
+const textureProjection = geoEquirectangular()
+  .scale(textureWidth / (2 * Math.PI))
+  .translate([textureWidth / 2, textureHeight / 2])
+  .precision(0.1);
 
 function slugify(value: string) {
   return value
@@ -70,28 +75,10 @@ function latToY(latitude: number) {
   return ((90 - latitude) / 180) * textureHeight;
 }
 
-function drawRing(context: CanvasRenderingContext2D, ring: LinearRing) {
-  let previousLongitude: number | undefined;
-  let hasPoint = false;
-
-  for (const [longitude, latitude] of ring) {
-    if (!Number.isFinite(longitude) || !Number.isFinite(latitude)) continue;
-    const x = lonToX(longitude);
-    const y = latToY(latitude);
-
-    if (!hasPoint || (previousLongitude !== undefined && Math.abs(longitude - previousLongitude) > 180)) {
-      context.moveTo(x, y);
-    } else {
-      context.lineTo(x, y);
-    }
-
-    hasPoint = true;
-    previousLongitude = longitude;
-  }
-}
-
-function drawPolygon(context: CanvasRenderingContext2D, polygon: PolygonCoordinates) {
-  for (const ring of polygon) drawRing(context, ring);
+function drawFeaturePath(context: CanvasRenderingContext2D, item: GeoFeature) {
+  const path = geoPath(textureProjection, context);
+  context.beginPath();
+  path(item as never);
 }
 
 function drawWorldTexture(context: CanvasRenderingContext2D, features: GeoFeature[], countryById: Map<string, MapDrinkCountry>, selectedId: string, hoverId?: string) {
@@ -128,12 +115,7 @@ function drawWorldTexture(context: CanvasRenderingContext2D, features: GeoFeatur
       if (pass === 'hover' && !isHovered) continue;
       if (pass === 'selected' && !isSelected) continue;
 
-      context.beginPath();
-      if (item.geometry.type === 'Polygon') {
-        drawPolygon(context, item.geometry.coordinates as PolygonCoordinates);
-      } else {
-        for (const polygon of item.geometry.coordinates as MultiPolygonCoordinates) drawPolygon(context, polygon);
-      }
+      drawFeaturePath(context, item);
 
       context.fillStyle = isSelected ? '#b85c38' : isHovered ? '#d8a23a' : country ? '#5f9b76' : 'rgba(20, 52, 43, 0.2)';
       context.strokeStyle = isSelected || isHovered ? '#fffaf0' : 'rgba(255, 250, 240, 0.7)';
@@ -164,12 +146,7 @@ function drawHitTexture(context: CanvasRenderingContext2D, features: GeoFeature[
     const blue = colorIndex & 255;
     colorToMapId.set(colorKey(red, green, blue), mapId);
 
-    context.beginPath();
-    if (item.geometry.type === 'Polygon') {
-      drawPolygon(context, item.geometry.coordinates as PolygonCoordinates);
-    } else {
-      for (const polygon of item.geometry.coordinates as MultiPolygonCoordinates) drawPolygon(context, polygon);
-    }
+    drawFeaturePath(context, item);
     context.fillStyle = `rgb(${red}, ${green}, ${blue})`;
     context.fill('evenodd');
     colorIndex += 1;
@@ -239,23 +216,33 @@ function DrinkImage({ country }: { country: MapDrinkCountry }) {
   );
 }
 
+function FlagImage({ country, compact = false }: { country: MapDrinkCountry; compact?: boolean }) {
+  const flagCode = country.iso2.toLowerCase();
+
+  return (
+    <img
+      key={country.iso2}
+      className={compact ? 'flag-image is-compact' : 'flag-image'}
+      src={`/flags/${flagCode}.png`}
+      alt={`${country.name} flag`}
+      loading={compact ? 'lazy' : 'eager'}
+      decoding="async"
+    />
+  );
+}
+
 function DrinkCard({ country, panelRef }: { country: MapDrinkCountry; panelRef?: React.RefObject<HTMLElement | null> }) {
   return (
     <aside ref={panelRef} className="detail-panel" aria-live="polite">
       <div className="drink-image-wrap"><DrinkImage country={country} /></div>
       <div className="detail-body">
         <div className="country-kicker">
-          <span className="flag" aria-hidden="true">{country.flag}</span>
+          <FlagImage country={country} />
           <span>{country.name} · {country.region}</span>
         </div>
         <h2 className="drink-title">{country.drink}</h2>
         <p className="description">{country.description}</p>
-        <dl className="meta-grid">
-          <div><dt>Type</dt><dd>{country.drinkType}</dd></div>
-        </dl>
-        <div className="actions">
-          <a className="primary-link" href={`/countries/${country.slug}/`}>Country notes <ArrowUpRight aria-hidden="true" size={17} /></a>
-        </div>
+        <p className="made-of">{country.madeOf}</p>
       </div>
     </aside>
   );
@@ -263,13 +250,23 @@ function DrinkCard({ country, panelRef }: { country: MapDrinkCountry; panelRef?:
 
 function GlobeCanvas({ countryById, selectedId, onSelect }: { countryById: Map<string, MapDrinkCountry>; selectedId: string; onSelect: (id: string, source?: 'globe-tap') => void }) {
   const mountRef = useRef<HTMLDivElement | null>(null);
+  const canvasRef = useRef<HTMLCanvasElement | null>(null);
   const featuresRef = useRef<GeoFeature[]>([]);
   const textureRef = useRef<THREE.CanvasTexture | null>(null);
   const selectedIdRef = useRef(selectedId);
   const hoverIdRef = useRef<string | undefined>(undefined);
   const onSelectRef = useRef(onSelect);
   const countryByIdRef = useRef(countryById);
-  const hitMapRef = useRef<{ context: CanvasRenderingContext2D; colorToMapId: Map<number, string> } | null>(null);
+  const pickingRef = useRef<{
+    scene: THREE.Scene;
+    group: THREE.Group;
+    globe: THREE.Mesh;
+    texture: THREE.CanvasTexture;
+    material: THREE.MeshBasicMaterial;
+    renderTarget: THREE.WebGLRenderTarget;
+    pixel: Uint8Array;
+    colorToMapId: Map<number, string>;
+  } | null>(null);
 
   const redrawTexture = () => {
     const texture = textureRef.current;
@@ -282,6 +279,7 @@ function GlobeCanvas({ countryById, selectedId, onSelect }: { countryById: Map<s
 
   useEffect(() => {
     selectedIdRef.current = selectedId;
+    if (canvasRef.current) canvasRef.current.dataset.selectedId = selectedId;
     redrawTexture();
   }, [selectedId]);
 
@@ -299,11 +297,13 @@ function GlobeCanvas({ countryById, selectedId, onSelect }: { countryById: Map<s
     const camera = new THREE.PerspectiveCamera(38, 1, 0.1, 100);
     camera.position.set(0, 0, 3.15);
 
-    const renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true });
+    const renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true, preserveDrawingBuffer: true });
     renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
     renderer.outputColorSpace = THREE.SRGBColorSpace;
     renderer.domElement.className = 'globe-canvas';
     renderer.domElement.setAttribute('aria-label', 'Interactive 3D world globe');
+    renderer.domElement.dataset.selectedId = selectedIdRef.current;
+    canvasRef.current = renderer.domElement;
     mount.appendChild(renderer.domElement);
 
     const textureCanvas = document.createElement('canvas');
@@ -316,7 +316,6 @@ function GlobeCanvas({ countryById, selectedId, onSelect }: { countryById: Map<s
     hitCanvas.width = textureWidth;
     hitCanvas.height = textureHeight;
     const hitContext = hitCanvas.getContext('2d', { willReadFrequently: true });
-    if (hitContext) hitMapRef.current = { context: hitContext, colorToMapId: new Map() };
 
     const texture = new THREE.CanvasTexture(textureCanvas);
     texture.colorSpace = THREE.SRGBColorSpace;
@@ -332,6 +331,33 @@ function GlobeCanvas({ countryById, selectedId, onSelect }: { countryById: Map<s
       new THREE.MeshStandardMaterial({ map: texture, roughness: 0.78, metalness: 0.02 })
     );
     group.add(globe);
+
+    const hitTexture = new THREE.CanvasTexture(hitCanvas);
+    hitTexture.magFilter = THREE.NearestFilter;
+    hitTexture.minFilter = THREE.NearestFilter;
+    hitTexture.generateMipmaps = false;
+    const pickingScene = new THREE.Scene();
+    const pickingGroup = new THREE.Group();
+    const pickingMaterial = new THREE.MeshBasicMaterial({ map: hitTexture, toneMapped: false });
+    const pickingGlobe = new THREE.Mesh(globe.geometry, pickingMaterial);
+    const pickingRenderTarget = new THREE.WebGLRenderTarget(1, 1, {
+      depthBuffer: true,
+      stencilBuffer: false
+    });
+    pickingRenderTarget.texture.magFilter = THREE.NearestFilter;
+    pickingRenderTarget.texture.minFilter = THREE.NearestFilter;
+    pickingGroup.add(pickingGlobe);
+    pickingScene.add(pickingGroup);
+    pickingRef.current = {
+      scene: pickingScene,
+      group: pickingGroup,
+      globe: pickingGlobe,
+      texture: hitTexture,
+      material: pickingMaterial,
+      renderTarget: pickingRenderTarget,
+      pixel: new Uint8Array(4),
+      colorToMapId: new Map()
+    };
 
     const atmosphere = new THREE.Mesh(
       new THREE.SphereGeometry(1.035, 128, 64),
@@ -368,31 +394,34 @@ function GlobeCanvas({ countryById, selectedId, onSelect }: { countryById: Map<s
 
     const pickCountry = (clientX: number, clientY: number) => {
       const rect = renderer.domElement.getBoundingClientRect();
+      if (rect.width <= 0 || rect.height <= 0) return undefined;
+
       pointer.x = ((clientX - rect.left) / rect.width) * 2 - 1;
       pointer.y = -((clientY - rect.top) / rect.height) * 2 + 1;
       raycaster.setFromCamera(pointer, camera);
-      const [hit] = raycaster.intersectObject(globe);
-      if (!hit?.uv) return undefined;
-      const hitMap = hitMapRef.current;
-      if (!hitMap) return undefined;
+      if (raycaster.intersectObject(globe).length === 0) return undefined;
 
-      const centerX = THREE.MathUtils.clamp(Math.floor(hit.uv.x * textureWidth), 0, textureWidth - 1);
-      const centerY = THREE.MathUtils.clamp(Math.floor(hit.uv.y * textureHeight), 0, textureHeight - 1);
-      const offsets = [
-        [0, 0], [-1, 0], [1, 0], [0, -1], [0, 1],
-        [-2, 0], [2, 0], [0, -2], [0, 2]
-      ];
+      const picking = pickingRef.current;
+      if (!picking) return undefined;
+      picking.group.rotation.copy(group.rotation);
 
-      for (const [offsetX, offsetY] of offsets) {
-        const sampleX = THREE.MathUtils.clamp(centerX + offsetX, 0, textureWidth - 1);
-        const sampleY = THREE.MathUtils.clamp(centerY + offsetY, 0, textureHeight - 1);
-        const [red, green, blue, alpha] = hitMap.context.getImageData(sampleX, sampleY, 1, 1).data;
-        if (alpha === 0) continue;
-        const mapId = hitMap.colorToMapId.get(colorKey(red, green, blue));
-        if (mapId) return mapId;
-      }
+      const bufferSize = new THREE.Vector2();
+      renderer.getDrawingBufferSize(bufferSize);
+      const pixelX = THREE.MathUtils.clamp(Math.floor(((clientX - rect.left) / rect.width) * bufferSize.x), 0, bufferSize.x - 1);
+      const pixelY = THREE.MathUtils.clamp(Math.floor(((clientY - rect.top) / rect.height) * bufferSize.y), 0, bufferSize.y - 1);
+      const previousRenderTarget = renderer.getRenderTarget();
 
-      return undefined;
+      camera.setViewOffset(bufferSize.x, bufferSize.y, pixelX, pixelY, 1, 1);
+      renderer.setRenderTarget(picking.renderTarget);
+      renderer.clear();
+      renderer.render(picking.scene, camera);
+      camera.clearViewOffset();
+      renderer.readRenderTargetPixels(picking.renderTarget, 0, 0, 1, 1, picking.pixel);
+      renderer.setRenderTarget(previousRenderTarget);
+
+      const [red, green, blue, alpha] = picking.pixel;
+      if (alpha === 0) return undefined;
+      return picking.colorToMapId.get(colorKey(red, green, blue));
     };
 
     const setHover = (mapId: string | undefined) => {
@@ -544,8 +573,11 @@ function GlobeCanvas({ countryById, selectedId, onSelect }: { countryById: Map<s
         if (isDisposed) return;
         const collection = feature(topology, topology.objects.countries) as GeoCollection;
         featuresRef.current = collection.features;
-        const hitMap = hitMapRef.current;
-        if (hitMap) hitMap.colorToMapId = drawHitTexture(hitMap.context, collection.features, countryByIdRef.current);
+        const picking = pickingRef.current;
+        if (picking && hitContext) {
+          picking.colorToMapId = drawHitTexture(hitContext, collection.features, countryByIdRef.current);
+          picking.texture.needsUpdate = true;
+        }
         if (textureContext) {
           drawWorldTexture(textureContext, collection.features, countryByIdRef.current, selectedIdRef.current, hoverIdRef.current);
           texture.needsUpdate = true;
@@ -564,14 +596,21 @@ function GlobeCanvas({ countryById, selectedId, onSelect }: { countryById: Map<s
       renderer.domElement.removeEventListener('pointerleave', onPointerLeave);
       renderer.domElement.removeEventListener('wheel', onWheel);
       texture.dispose();
+      const picking = pickingRef.current;
+      if (picking) {
+        picking.texture.dispose();
+        picking.material.dispose();
+        picking.renderTarget.dispose();
+      }
       globe.geometry.dispose();
       atmosphere.geometry.dispose();
       (globe.material as THREE.Material).dispose();
       (atmosphere.material as THREE.Material).dispose();
       renderer.dispose();
       renderer.domElement.remove();
+      canvasRef.current = null;
       textureRef.current = null;
-      hitMapRef.current = null;
+      pickingRef.current = null;
     };
   }, []);
 
@@ -579,23 +618,27 @@ function GlobeCanvas({ countryById, selectedId, onSelect }: { countryById: Map<s
 }
 
 export default function DrinkWorldMap({ countries }: Props) {
-  const [selectedId, setSelectedId] = useState(() => {
-    if (countries.length === 0) return '032';
-    return countries[Math.floor(Math.random() * countries.length)]?.mapId ?? '032';
-  });
+  const [selectedId, setSelectedId] = useState(countries[0]?.mapId ?? '032');
   const [query, setQuery] = useState('');
   const detailPanelRef = useRef<HTMLElement | null>(null);
   const shouldScrollToDetailRef = useRef(false);
+  const hasRandomizedInitialCountryRef = useRef(false);
 
   const countryById = useMemo(() => new Map(countries.map((country) => [country.mapId, country])), [countries]);
 
   const filteredCountries = useMemo(() => {
     const normalizedQuery = normalizeSearch(query.trim());
     return countries.filter((country) => {
-      const searchText = normalizeSearch(`${country.name} ${country.drink} ${country.drinkType} ${country.region}`);
+      const searchText = normalizeSearch(`${country.name} ${country.drink} ${country.drinkType} ${country.region} ${country.madeOf}`);
       return normalizedQuery.length === 0 || searchText.includes(normalizedQuery);
     });
   }, [countries, query]);
+
+  useEffect(() => {
+    if (hasRandomizedInitialCountryRef.current || countries.length === 0) return;
+    hasRandomizedInitialCountryRef.current = true;
+    setSelectedId(countries[Math.floor(Math.random() * countries.length)]?.mapId ?? countries[0].mapId);
+  }, [countries]);
 
   useEffect(() => {
     if (filteredCountries.length > 0 && !filteredCountries.some((country) => country.mapId === selectedId)) {
@@ -612,14 +655,14 @@ export default function DrinkWorldMap({ countries }: Props) {
 
   const selected = countryById.get(selectedId) ?? filteredCountries[0] ?? countries[0];
 
-  const handleSelect = (mapId: string, source?: 'globe-tap') => {
-    shouldScrollToDetailRef.current = source === 'globe-tap';
+  const handleSelect = (mapId: string, source?: 'globe-tap' | 'list-click') => {
+    shouldScrollToDetailRef.current = source === 'globe-tap' || source === 'list-click';
     setSelectedId(mapId);
   };
 
   return (
     <section className="app-frame" aria-label="Interactive world drinks map">
-      <div className="map-panel">
+      <aside className="sidebar-panel">
         <div className="map-toolbar">
           <label className="field">
             <span className="sr-only">Search countries or drinks</span>
@@ -628,26 +671,29 @@ export default function DrinkWorldMap({ countries }: Props) {
           </label>
         </div>
 
-        <div className="map-canvas">
-          <GlobeCanvas countryById={countryById} selectedId={selected?.mapId ?? selectedId} onSelect={handleSelect} />
-
-        </div>
-
         <div className="country-results" aria-live="polite">
-          <p className="result-count">{filteredCountries.length} {filteredCountries.length === 1 ? 'country' : 'countries'}</p>
           <div className="country-list" aria-label="Countries matching search">
             {filteredCountries.map((country) => (
-              <button key={country.mapId} type="button" className={country.mapId === selected?.mapId ? 'is-active' : ''} onClick={() => handleSelect(country.mapId)}>
-                <span className="country-list-name"><span aria-hidden="true">{country.flag}</span> {country.name}</span>
-                <span className="country-list-drink">{country.drink}</span>
+              <button key={country.mapId} type="button" className={country.mapId === selected?.mapId ? 'is-active' : ''} onClick={() => handleSelect(country.mapId, 'list-click')}>
+                <FlagImage country={country} compact />
+                <span className="country-list-copy">
+                  <span className="country-list-name">{country.name}</span>
+                  <span className="country-list-drink">{country.drink}</span>
+                </span>
               </button>
             ))}
             {filteredCountries.length === 0 && <p className="empty-results">No countries match that search.</p>}
           </div>
         </div>
+      </aside>
+
+      <div className="map-panel">
+        <div className="map-canvas">
+          <GlobeCanvas countryById={countryById} selectedId={selected?.mapId ?? selectedId} onSelect={handleSelect} />
+        </div>
       </div>
 
-      {selected && <DrinkCard country={selected} panelRef={detailPanelRef} />}
+      {selected && <DrinkCard key={selected.mapId} country={selected} panelRef={detailPanelRef} />}
     </section>
   );
 }

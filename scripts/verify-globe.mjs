@@ -132,6 +132,11 @@ async function verifyViewport(browser, name, viewport) {
   }
   await page.waitForTimeout(120);
   selectedDrink = await page.locator('.drink-title').innerText();
+  const selectedId = await page.locator('.globe-canvas').evaluate((canvas) => canvas.dataset.selectedId ?? '');
+
+  if (selectedId !== selectionPoint.hoverId) {
+    throw new Error(`${name}: clicked hovered country ${selectionPoint.hoverId}, but selected ${selectedId}`);
+  }
 
   if (selectedDrink === initialDrink) {
     throw new Error(`${name}: globe pointer probes did not select a different country`);

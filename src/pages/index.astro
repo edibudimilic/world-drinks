@@ -5,13 +5,13 @@ import { drinkCountries } from '../data/drinks';
 
 const mapCountries = drinkCountries.map((country): MapDrinkCountry => ({
 	mapId: country.mapId,
+	iso2: country.iso2,
 	name: country.name,
 	region: country.region,
-	flag: country.flag,
 	drink: country.drink,
-	slug: country.slug,
 	description: country.description,
 	drinkType: country.drinkType,
+	madeOf: country.madeOf,
 	image: {
 		localPath: country.image.localPath
 	}
@@ -27,10 +27,6 @@ const mapCountries = drinkCountries.map((country): MapDrinkCountry => ({
 			<div>
 				<p class="eyebrow">Interactive atlas</p>
 				<h1 id="page-title">World Drinks</h1>
-				<p class="lede">
-					Hover, tap, or search the map to discover a featured drink by country, with images,
-					image credits, and a mobile-ready PWA experience.
-				</p>
 			</div>
 		</section>
 

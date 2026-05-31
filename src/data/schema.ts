@@ -27,6 +27,7 @@ export const drinkCountrySchema = z.object({
   drink: z.string().min(2),
   drinkType: z.string().min(2),
   description: z.string().min(40),
+  madeOf: z.string().min(40),
   confidence: z.enum(['official', 'high', 'medium', 'territory']),
   rationale: z.string().min(24),
   sources: z.array(sourceSchema).min(1),

@@ -2,6 +2,7 @@ import { mkdirSync, readFileSync, writeFileSync } from 'node:fs';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { feature } from 'topojson-client';
+import { artSvg } from './lib/generated-art.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const root = join(__dirname, '..');
@@ -43,38 +44,6 @@ function fallbackIso3(name, mapId) {
 function flagFromIso2(iso2) {
   if (!/^[A-Z]{2}$/.test(iso2) || ['NC', 'SL'].includes(iso2)) return '🏳️';
   return [...iso2].map((char) => String.fromCodePoint(char.charCodeAt(0) + 127397)).join('');
-}
-
-function escapeXml(value) {
-  return String(value)
-    .replace(/&/g, '&amp;')
-    .replace(/</g, '&lt;')
-    .replace(/>/g, '&gt;')
-    .replace(/"/g, '&quot;');
-}
-
-function artSvg(country) {
-  const colors = {
-    tea: ['#14342b', '#d8a23a'],
-    coffee: ['#3b2417', '#d8a23a'],
-    spirit: ['#4f2f67', '#f0b45b'],
-    beer: ['#8b5a1f', '#f0c45b'],
-    cocktail: ['#2f6657', '#b85c38'],
-    wine: ['#61223f', '#d8a23a']
-  };
-  const key = Object.keys(colors).find((item) => country.drinkType.includes(item)) ?? 'tea';
-  const [primary, accent] = colors[key];
-  return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="${escapeXml(country.drink)} artwork for ${escapeXml(country.name)}">
-  <rect width="1200" height="900" fill="#fff7ea"/>
-  <circle cx="270" cy="190" r="170" fill="${primary}" opacity="0.12"/>
-  <circle cx="935" cy="710" r="230" fill="${accent}" opacity="0.18"/>
-  <path d="M330 250h410l-58 420H388Z" fill="${primary}"/>
-  <path d="M388 308h294l-42 300H430Z" fill="${accent}" opacity="0.84"/>
-  <path d="M736 334c120 14 178 72 168 166-10 96-78 149-204 160l15-86c61-8 94-36 98-80 4-42-25-68-87-77Z" fill="${primary}"/>
-  <path d="M374 696h340l-42 78H414Z" fill="#17211d" opacity="0.88"/>
-  <text x="90" y="130" fill="#17211d" font-family="Arial, sans-serif" font-size="44" font-weight="700">${escapeXml(country.name)}</text>
-  <text x="90" y="815" fill="#17211d" font-family="Arial, sans-serif" font-size="72" font-weight="800">${escapeXml(country.drink)}</text>
-</svg>`;
 }
 
 const topo = JSON.parse(readFileSync(join(root, 'public', 'maps', 'countries-110m.json'), 'utf8'));

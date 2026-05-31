@@ -5,8 +5,6 @@ export const drinkCountries = drinkCountryCollectionSchema.parse(rawCountries).s
   a.name.localeCompare(b.name)
 );
 
-export const countryBySlug = new Map(drinkCountries.map((country) => [country.slug, country]));
-
 export const countryByMapId = new Map(drinkCountries.map((country) => [country.mapId, country]));
 
 export const coverageSummary = {

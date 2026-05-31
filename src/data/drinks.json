@@ -27,7 +27,8 @@
       "author": "jasonlam",
       "license": "CC BY-SA 2.0",
       "attribution": "jasonlam, CC BY-SA 2.0, via flickr"
-    }
+    },
+    "madeOf": "Doogh is typically made by mixing yogurt with water and salt, and it is often flavored with dried mint or other herbs for a cooling tang."
   },
   {
     "mapId": "008",
@@ -57,7 +58,8 @@
       "author": "oezguerc",
       "license": "CC BY 2.0",
       "attribution": "oezguerc, CC BY 2.0, via flickr"
-    }
+    },
+    "madeOf": "Raki is typically made by redistilling grape-based spirit with aniseed, producing a strong clear liquor that turns milky when mixed with water."
   },
   {
     "mapId": "012",
@@ -80,14 +82,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/algeria.svg",
+      "localPath": "/drinks/generated/algeria.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/algeria",
-      "fileTitle": "Mint tea generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/algeria.png",
+      "fileTitle": "algeria.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Mint tea usually combines tea, often green tea, with fresh mint and sugar, creating a sweet, aromatic infusion where the mint is central."
   },
   {
     "mapId": "024",
@@ -110,14 +113,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/angola.svg",
+      "localPath": "/drinks/generated/angola.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/angola",
-      "fileTitle": "Kissangua generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/angola.png",
+      "fileTitle": "angola.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Kissangua is typically made from fermented maize meal mixed with water, creating a lightly sour, low-alcohol drink with a soft cereal character."
   },
   {
     "mapId": "010",
@@ -140,14 +144,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/antarctica.svg",
+      "localPath": "/drinks/generated/antarctica.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/antarctica",
-      "fileTitle": "Hot chocolate generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/antarctica.png",
+      "fileTitle": "antarctica.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Hot chocolate is typically made by heating milk or water with cocoa or melted chocolate and sugar, creating a rich drink that ranges from light to thick."
   },
   {
     "mapId": "032",
@@ -181,7 +186,8 @@
       "author": "Ponaksom",
       "license": "CC BY-SA 4.0",
       "attribution": "Ponaksom, CC BY-SA 4.0, via Wikimedia Commons"
-    }
+    },
+    "madeOf": "Mate is typically made by steeping dried yerba mate leaves and stems in hot water, producing an herbal, earthy, slightly bitter caffeinated infusion."
   },
   {
     "mapId": "051",
@@ -204,14 +210,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/armenia.svg",
+      "localPath": "/drinks/generated/armenia.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/armenia",
-      "fileTitle": "Tan generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/armenia.png",
+      "fileTitle": "armenia.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Tan is typically made by mixing yogurt with cold water and salt until smooth, sometimes with herbs added for a fresher, more savory flavor."
   },
   {
     "mapId": "036",
@@ -241,7 +248,8 @@
       "author": "ultrakml",
       "license": "CC BY 2.0",
       "attribution": "ultrakml, CC BY 2.0, via flickr"
-    }
+    },
+    "madeOf": "A flat white usually combines espresso with steamed milk and a thin layer of microfoam, creating a coffee-forward drink with a smooth, velvety texture."
   },
   {
     "mapId": "040",
@@ -264,14 +272,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/austria.svg",
+      "localPath": "/drinks/generated/austria.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/austria",
-      "fileTitle": "Almdudler generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/austria.png",
+      "fileTitle": "austria.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Almdudler is typically made from carbonated water, sugar, and a blend of herbal extracts, creating a sweet, lightly spiced soft drink with a distinct alpine-herb profile."
   },
   {
     "mapId": "031",
@@ -294,14 +303,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/azerbaijan.svg",
+      "localPath": "/drinks/generated/azerbaijan.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/azerbaijan",
-      "fileTitle": "Cay generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/azerbaijan.png",
+      "fileTitle": "azerbaijan.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Cay is typically made by brewing black tea leaves with hot water into a strong infusion, sometimes taken plain and sometimes lightly sweetened."
   },
   {
     "mapId": "044",
@@ -331,7 +341,8 @@
       "author": "anaxmedia",
       "license": "CC BY-SA 2.0",
       "attribution": "anaxmedia, CC BY-SA 2.0, via flickr"
-    }
+    },
+    "madeOf": "Sky Juice usually combines gin with coconut water and sweetened condensed milk, creating a lightly creamy cocktail with tropical sweetness and spirit."
   },
   {
     "mapId": "050",
@@ -354,14 +365,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/bangladesh.svg",
+      "localPath": "/drinks/generated/bangladesh.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/bangladesh",
-      "fileTitle": "Cha generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/bangladesh.png",
+      "fileTitle": "bangladesh.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Cha is typically made by steeping processed tea leaves in hot water; depending on preference, it may be served plain or mixed with sugar, milk, or lemon."
   },
   {
     "mapId": "112",
@@ -391,7 +403,8 @@
       "author": "Isabel Sommerfeld",
       "license": "CC BY 2.0",
       "attribution": "Isabel Sommerfeld, CC BY 2.0, via flickr"
-    }
+    },
+    "madeOf": "Kvass is typically made by fermenting rye bread or grain malt with water and sugar, creating a lightly alcoholic, mildly sour, breadlike drink."
   },
   {
     "mapId": "056",
@@ -421,7 +434,8 @@
       "author": "Smabs Sputzer (1956-2017)",
       "license": "CC BY 2.0",
       "attribution": "Smabs Sputzer (1956-2017), CC BY 2.0, via flickr"
-    }
+    },
+    "madeOf": "Belgian beer is typically made from malted barley, water, hops, and yeast, but many versions also use sugar, spices, or specialty yeasts for added complexity."
   },
   {
     "mapId": "084",
@@ -451,7 +465,8 @@
       "author": "rharrison",
       "license": "CC BY-SA 2.0",
       "attribution": "rharrison, CC BY-SA 2.0, via flickr"
-    }
+    },
+    "madeOf": "Belikin is typically made as a lager from malted barley, water, hops, and yeast, producing a clean, crisp beer with a light malt backbone."
   },
   {
     "mapId": "204",
@@ -474,14 +489,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/benin.svg",
+      "localPath": "/drinks/generated/benin.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/benin",
-      "fileTitle": "Tchoukoutou generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/benin.png",
+      "fileTitle": "benin.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Tchoukoutou is typically made from sorghum or millet that is malted, brewed, and fermented, creating a cloudy traditional beer with gentle sourness."
   },
   {
     "mapId": "064",
@@ -511,7 +527,8 @@
       "author": "ankurdotb",
       "license": "CC BY-SA 2.0",
       "attribution": "ankurdotb, CC BY-SA 2.0, via flickr"
-    }
+    },
+    "madeOf": "Suja is typically made by brewing tea leaves with water, then churning the tea with salt and butter, sometimes with milk added for body."
   },
   {
     "mapId": "068",
@@ -534,14 +551,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/bolivia.svg",
+      "localPath": "/drinks/generated/bolivia.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/bolivia",
-      "fileTitle": "Mocochinchi generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/bolivia.png",
+      "fileTitle": "bolivia.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Mocochinchi is typically made by simmering dried peaches in water with sugar and often cinnamon, creating a sweet fruit drink with deep peach flavor."
   },
   {
     "mapId": "070",
@@ -571,7 +589,8 @@
       "author": "Justin W Flory",
       "license": "CC BY-SA 3.0",
       "attribution": "Justin W Flory, CC BY-SA 3.0, via wikimedia"
-    }
+    },
+    "madeOf": "Bosnian coffee is typically made from very finely ground coffee simmered with water in a small pot, sometimes lightly sweetened, producing a dense and concentrated brew."
   },
   {
     "mapId": "072",
@@ -594,14 +613,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/botswana.svg",
+      "localPath": "/drinks/generated/botswana.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/botswana",
-      "fileTitle": "Bojalwa jwa Setswana generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/botswana.png",
+      "fileTitle": "botswana.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Bojalwa jwa Setswana is typically made from sorghum, water, and natural fermentation, creating a cloudy traditional beer with a grainy body and mild sourness."
   },
   {
     "mapId": "076",
@@ -631,7 +651,8 @@
       "author": "markhillary",
       "license": "CC BY 2.0",
       "attribution": "markhillary, CC BY 2.0, via Flickr/Openverse"
-    }
+    },
+    "madeOf": "A caipirinha usually combines cachaca with fresh lime and sugar, muddled together so the drink gets its sweetness, citrus oils, and sugarcane-spirit backbone."
   },
   {
     "mapId": "096",
@@ -661,7 +682,8 @@
       "author": "septembermess",
       "license": "CC BY 2.0",
       "attribution": "septembermess, CC BY 2.0, via flickr"
-    }
+    },
+    "madeOf": "Teh tarik usually combines strong black tea with sweetened condensed milk and often evaporated milk, producing a rich, creamy, caramelized milk tea."
   },
   {
     "mapId": "100",
@@ -684,14 +706,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/bulgaria.svg",
+      "localPath": "/drinks/generated/bulgaria.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/bulgaria",
-      "fileTitle": "Rakia generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/bulgaria.png",
+      "fileTitle": "bulgaria.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Rakia is typically made by fermenting fruit, especially plums, grapes, apricots, or pears, and then distilling it into a clear, strong fruit brandy."
   },
   {
     "mapId": "854",
@@ -721,7 +744,8 @@
       "author": "warrenski",
       "license": "CC BY-SA 2.0",
       "attribution": "warrenski, CC BY-SA 2.0, via flickr"
-    }
+    },
+    "madeOf": "Dolo is typically made from malted sorghum or millet fermented with water, producing a cloudy traditional beer with earthy grain flavor and light acidity."
   },
   {
     "mapId": "108",
@@ -744,14 +768,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/burundi.svg",
+      "localPath": "/drinks/generated/burundi.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/burundi",
-      "fileTitle": "Urwarwa generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/burundi.png",
+      "fileTitle": "burundi.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Urwarwa is typically made from bananas that are crushed, mixed with water, and fermented, often with grain flour added to help fermentation."
   },
   {
     "mapId": "116",
@@ -774,14 +799,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/cambodia.svg",
+      "localPath": "/drinks/generated/cambodia.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/cambodia",
-      "fileTitle": "Teuk tnaot generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/cambodia.png",
+      "fileTitle": "cambodia.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Teuk tnaot is typically made from fresh sugar palm sap, which may be consumed as a sweet juice or allowed to ferment lightly."
   },
   {
     "mapId": "120",
@@ -804,14 +830,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/cameroon.svg",
+      "localPath": "/drinks/generated/cameroon.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/cameroon",
-      "fileTitle": "Bil-bil generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/cameroon.png",
+      "fileTitle": "cameroon.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Bil-bil is typically made from fermented millet or sorghum malt mixed with water, producing a cloudy, mildly sour traditional beer with grainy flavor."
   },
   {
     "mapId": "124",
@@ -834,14 +861,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/canada.svg",
+      "localPath": "/drinks/generated/canada.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/canada",
-      "fileTitle": "Caesar generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/canada.png",
+      "fileTitle": "canada.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "A Caesar usually combines vodka with Clamato, hot sauce, Worcestershire sauce, and celery salt, creating a savory cocktail with briny, spicy, tomato-clam character."
   },
   {
     "mapId": "140",
@@ -864,14 +892,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/central-african-republic.svg",
+      "localPath": "/drinks/generated/central-african-republic.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/central-african-republic",
-      "fileTitle": "Palm wine generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/central-african-republic.png",
+      "fileTitle": "central-african-republic.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Palm wine is typically made from fresh palm sap that ferments naturally soon after tapping, creating a sweet, cloudy drink that becomes tangier over time."
   },
   {
     "mapId": "148",
@@ -894,14 +923,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/chad.svg",
+      "localPath": "/drinks/generated/chad.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/chad",
-      "fileTitle": "Karkanji generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/chad.png",
+      "fileTitle": "chad.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Karkanji is typically made from hibiscus infused in water and sweetened, often with ginger and warming spices that give the drink extra heat and fragrance."
   },
   {
     "mapId": "152",
@@ -931,7 +961,8 @@
       "author": "morrissey",
       "license": "CC BY 2.0",
       "attribution": "morrissey, CC BY 2.0, via flickr"
-    }
+    },
+    "madeOf": "A pisco sour usually combines pisco with lime or lemon juice, sugar syrup, and egg white, creating a tart cocktail with a silky foam."
   },
   {
     "mapId": "156",
@@ -961,7 +992,8 @@
       "author": "mckaysavage",
       "license": "CC BY 2.0",
       "attribution": "mckaysavage, CC BY 2.0, via flickr"
-    }
+    },
+    "madeOf": "Green tea is typically made by steeping minimally oxidized tea leaves in hot water, yielding a lighter-bodied infusion with grassy, vegetal, or lightly nutty notes."
   },
   {
     "mapId": "170",
@@ -984,14 +1016,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/colombia.svg",
+      "localPath": "/drinks/generated/colombia.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/colombia",
-      "fileTitle": "Aguardiente generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/colombia.png",
+      "fileTitle": "colombia.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Aguardiente is typically made by distilling fermented sugarcane juice or molasses, though some versions use fruit, resulting in a clear, strong spirit that may be plain or lightly anise flavored."
   },
   {
     "mapId": "178",
@@ -1014,14 +1047,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/republic-of-the-congo.svg",
+      "localPath": "/drinks/generated/republic-of-the-congo.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/republic-of-the-congo",
-      "fileTitle": "Palm wine generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/republic-of-the-congo.png",
+      "fileTitle": "republic-of-the-congo.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Palm wine is typically made from fresh palm sap that ferments naturally soon after tapping, creating a sweet, cloudy drink that becomes tangier over time."
   },
   {
     "mapId": "188",
@@ -1051,7 +1085,8 @@
       "author": "David Berkowitz",
       "license": "CC BY 2.0",
       "attribution": "David Berkowitz, CC BY 2.0, via wikimedia"
-    }
+    },
+    "madeOf": "A guaro sour usually combines guaro with lime or lemon juice and sugar syrup, creating a tart, lightly sweet cocktail centered on clear sugarcane spirit."
   },
   {
     "mapId": "384",
@@ -1081,7 +1116,8 @@
       "author": "DianaMoon",
       "license": "CC BY 2.0",
       "attribution": "DianaMoon, CC BY 2.0, via flickr"
-    }
+    },
+    "madeOf": "Bissap is typically made by steeping dried hibiscus petals in water and sweetening the infusion, often with added mint, ginger, or citrus depending on the recipe."
   },
   {
     "mapId": "191",
@@ -1111,7 +1147,8 @@
       "author": "Rimodalv Krutt",
       "license": "CC BY-SA 4.0",
       "attribution": "Rimodalv Krutt, CC BY-SA 4.0, via wikimedia"
-    }
+    },
+    "madeOf": "Rakija is typically made by fermenting fruit, especially plums, grapes, apricots, or quince, and distilling it into a potent fruit brandy."
   },
   {
     "mapId": "192",
@@ -1141,7 +1178,8 @@
       "author": "vxla",
       "license": "CC BY 2.0",
       "attribution": "vxla, CC BY 2.0, via flickr"
-    }
+    },
+    "madeOf": "A mojito usually combines white rum with lime juice, sugar, fresh mint, and soda water, creating a bright, lightly sweet citrus-herb cocktail."
   },
   {
     "mapId": "196",
@@ -1171,7 +1209,8 @@
       "author": "Paul Lowry",
       "license": "CC BY 2.0",
       "attribution": "Paul Lowry, CC BY 2.0, via flickr"
-    }
+    },
+    "madeOf": "Brandy sour usually combines brandy with fresh lemon juice, bitters, and a little soda or water, often with a touch of syrup or cordial for sweetness."
   },
   {
     "mapId": "203",
@@ -1201,7 +1240,8 @@
       "author": "Govisity / Tip na Trip / kosice.guide",
       "license": "CC BY 2.0",
       "attribution": "Govisity / Tip na Trip / kosice.guide, CC BY 2.0, via flickr"
-    }
+    },
+    "madeOf": "Pilsner is typically made from pale barley malt, water, hops, and yeast, producing a crisp lager with a clean malt body and noticeable hop bitterness."
   },
   {
     "mapId": "180",
@@ -1224,14 +1264,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/democratic-republic-of-the-congo.svg",
+      "localPath": "/drinks/generated/democratic-republic-of-the-congo.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/democratic-republic-of-the-congo",
-      "fileTitle": "Lotoko generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/democratic-republic-of-the-congo.png",
+      "fileTitle": "democratic-republic-of-the-congo.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Lotoko is typically made by distilling fermented sugarcane juice, maize, or cassava mash, resulting in a strong, rough homemade spirit."
   },
   {
     "mapId": "208",
@@ -1261,7 +1302,8 @@
       "author": "Marcus Hansson",
       "license": "CC BY 2.0",
       "attribution": "Marcus Hansson, CC BY 2.0, via flickr"
-    }
+    },
+    "madeOf": "Akvavit is typically made from distilled grain or potato spirit flavored mainly with caraway or dill, often alongside botanicals such as fennel, coriander, or citrus peel."
   },
   {
     "mapId": "262",
@@ -1284,14 +1326,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/djibouti.svg",
+      "localPath": "/drinks/generated/djibouti.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/djibouti",
-      "fileTitle": "Shaah generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/djibouti.png",
+      "fileTitle": "djibouti.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Shaah usually combines black tea with water, milk, and sugar, and some versions add cardamom or other spices for extra warmth and fragrance."
   },
   {
     "mapId": "214",
@@ -1321,7 +1364,8 @@
       "author": "Sonnett",
       "license": "CC BY-SA 2.0",
       "attribution": "Sonnett, CC BY-SA 2.0, via flickr"
-    }
+    },
+    "madeOf": "Mamajuana usually combines rum, red wine, and honey infused with tree bark, herbs, and spices, creating a sweet, herbal, spiced alcoholic drink."
   },
   {
     "mapId": "218",
@@ -1344,14 +1388,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/ecuador.svg",
+      "localPath": "/drinks/generated/ecuador.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/ecuador",
-      "fileTitle": "Canelazo generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/ecuador.png",
+      "fileTitle": "ecuador.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Canelazo usually combines sugarcane liquor or aguardiente with water, cinnamon, sugar or panela, and citrus, producing a warmly spiced, sweet alcoholic drink."
   },
   {
     "mapId": "818",
@@ -1374,14 +1419,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/egypt.svg",
+      "localPath": "/drinks/generated/egypt.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/egypt",
-      "fileTitle": "Karkade generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/egypt.png",
+      "fileTitle": "egypt.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Karkade is typically made by steeping dried hibiscus flowers in water, then serving the tart infusion sweetened and sometimes lightly scented with citrus or mint."
   },
   {
     "mapId": "222",
@@ -1404,14 +1450,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/el-salvador.svg",
+      "localPath": "/drinks/generated/el-salvador.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/el-salvador",
-      "fileTitle": "Kolashampan generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/el-salvador.png",
+      "fileTitle": "el-salvador.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Kolashampan is typically made from carbonated water, sugar, and kola-style flavorings such as vanilla and caramel, creating a sweet, creamy soft drink."
   },
   {
     "mapId": "226",
@@ -1434,14 +1481,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/equatorial-guinea.svg",
+      "localPath": "/drinks/generated/equatorial-guinea.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/equatorial-guinea",
-      "fileTitle": "Malamba generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/equatorial-guinea.png",
+      "fileTitle": "equatorial-guinea.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Malamba is typically made from fermented palm sap or sugarcane juice, producing a mildly alcoholic drink that can range from fresh and sweet to tangy."
   },
   {
     "mapId": "232",
@@ -1471,7 +1519,8 @@
       "author": "Rod Waddington",
       "license": "CC BY-SA 2.0",
       "attribution": "Rod Waddington, CC BY-SA 2.0, via flickr"
-    }
+    },
+    "madeOf": "Suwa is typically made from fermented grains such as sorghum or barley with water, producing a traditional beer that is cloudy, grainy, and lightly sour."
   },
   {
     "mapId": "233",
@@ -1494,14 +1543,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/estonia.svg",
+      "localPath": "/drinks/generated/estonia.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/estonia",
-      "fileTitle": "Kali generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/estonia.png",
+      "fileTitle": "estonia.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Kali is typically made from rye bread or rye malt fermented with water, sugar, and yeast, creating a dark, mildly sweet drink with gentle carbonation."
   },
   {
     "mapId": "748",
@@ -1524,14 +1574,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/eswatini.svg",
+      "localPath": "/drinks/generated/eswatini.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/eswatini",
-      "fileTitle": "Umcombotsi generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/eswatini.png",
+      "fileTitle": "eswatini.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Umcombotsi is typically made from maize meal and sorghum malt fermented with water, producing a thick, sour, traditional opaque beer."
   },
   {
     "mapId": "231",
@@ -1561,7 +1612,8 @@
       "author": "Rod Waddington",
       "license": "CC BY-SA 2.0",
       "attribution": "Rod Waddington, CC BY-SA 2.0, via flickr"
-    }
+    },
+    "madeOf": "Buna is typically made from freshly roasted coffee beans that are ground and brewed with water, creating a strong black coffee that is often lightly sweetened."
   },
   {
     "mapId": "238",
@@ -1591,7 +1643,8 @@
       "author": "markhillary",
       "license": "CC BY 2.0",
       "attribution": "markhillary, CC BY 2.0, via flickr"
-    }
+    },
+    "madeOf": "Tea is typically made by steeping processed tea leaves in hot water, with the final drink left plain or combined with sugar, milk, lemon, or herbs."
   },
   {
     "mapId": "242",
@@ -1621,7 +1674,8 @@
       "author": "bdearth",
       "license": "CC BY 2.0",
       "attribution": "bdearth, CC BY 2.0, via flickr"
-    }
+    },
+    "madeOf": "Kava is typically made by crushing or grinding kava root and mixing it with water, producing an earthy, peppery drink valued for its calming effects."
   },
   {
     "mapId": "246",
@@ -1644,14 +1698,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/finland.svg",
+      "localPath": "/drinks/generated/finland.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/finland",
-      "fileTitle": "Lonkero generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/finland.png",
+      "fileTitle": "finland.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Lonkero usually combines gin with grapefruit soda or another citrus soft drink, producing a simple long drink with bright bitterness and sweetness."
   },
   {
     "mapId": "260",
@@ -1681,7 +1736,8 @@
       "author": "John Beans",
       "license": "CC BY 2.0",
       "attribution": "John Beans, CC BY 2.0, via flickr"
-    }
+    },
+    "madeOf": "Coffee is typically made by brewing roasted, ground coffee beans with hot water, producing a drink whose strength and body vary with the roast and method."
   },
   {
     "mapId": "250",
@@ -1711,7 +1767,8 @@
       "author": "docoverachiever",
       "license": "CC BY 2.0",
       "attribution": "docoverachiever, CC BY 2.0, via flickr"
-    }
+    },
+    "madeOf": "Wine is typically made by fermenting grape juice, though other fruits can be used, producing an alcoholic drink whose sweetness and body vary by style."
   },
   {
     "mapId": "266",
@@ -1734,14 +1791,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/gabon.svg",
+      "localPath": "/drinks/generated/gabon.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/gabon",
-      "fileTitle": "Palm wine generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/gabon.png",
+      "fileTitle": "gabon.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Palm wine is typically made from fresh palm sap that ferments naturally soon after tapping, creating a sweet, cloudy drink that becomes tangier over time."
   },
   {
     "mapId": "270",
@@ -1771,7 +1829,8 @@
       "author": "Atamari",
       "license": "CC BY-SA 3.0",
       "attribution": "Atamari, CC BY-SA 3.0, via wikimedia"
-    }
+    },
+    "madeOf": "Wonjo is typically made by steeping dried hibiscus in water and sweetening it, often with ginger or mint to brighten the tart floral base."
   },
   {
     "mapId": "268",
@@ -1801,7 +1860,8 @@
       "author": "Luciana Braz - WineTalkGroup",
       "license": "CC BY-SA 2.0",
       "attribution": "Luciana Braz - WineTalkGroup, CC BY-SA 2.0, via flickr"
-    }
+    },
+    "madeOf": "Wine is typically made by fermenting grape juice, though other fruits can be used, producing an alcoholic drink whose sweetness and body vary by style."
   },
   {
     "mapId": "276",
@@ -1831,7 +1891,8 @@
       "author": "pepsiline",
       "license": "Public domain",
       "attribution": "pepsiline, Public domain, via flickr"
-    }
+    },
+    "madeOf": "Beer is typically made from malted grain, usually barley, brewed with water, hops, and yeast, then fermented to produce alcohol, carbonation, and a range of malty or bitter flavors."
   },
   {
     "mapId": "288",
@@ -1854,14 +1915,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/ghana.svg",
+      "localPath": "/drinks/generated/ghana.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/ghana",
-      "fileTitle": "Sobolo generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/ghana.png",
+      "fileTitle": "ghana.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Sobolo is typically made by steeping dried hibiscus in water and sweetening it, often with ginger, cloves, or other spices for added depth."
   },
   {
     "mapId": "300",
@@ -1884,14 +1946,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/greece.svg",
+      "localPath": "/drinks/generated/greece.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/greece",
-      "fileTitle": "Ouzo generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/greece.png",
+      "fileTitle": "greece.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Ouzo is typically made from distilled grape spirit or neutral alcohol flavored strongly with anise and sometimes fennel or other botanicals."
   },
   {
     "mapId": "304",
@@ -1914,14 +1977,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/greenland.svg",
+      "localPath": "/drinks/generated/greenland.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/greenland",
-      "fileTitle": "Greenlandic coffee generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/greenland.png",
+      "fileTitle": "greenland.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Greenlandic coffee usually combines hot coffee with whiskey, coffee liqueur, and orange liqueur, often topped with lightly sweetened cream for richness."
   },
   {
     "mapId": "320",
@@ -1951,7 +2015,8 @@
       "author": "Luisfi",
       "license": "CC BY-SA 3.0",
       "attribution": "Luisfi, CC BY-SA 3.0, via wikimedia"
-    }
+    },
+    "madeOf": "Atol de elote is typically made from fresh ground corn blended with milk or water, then cooked with sugar and often cinnamon into a thick, sweet corn drink."
   },
   {
     "mapId": "324",
@@ -1981,7 +2046,8 @@
       "author": "hepp",
       "license": "CC BY 2.0",
       "attribution": "hepp, CC BY 2.0, via flickr"
-    }
+    },
+    "madeOf": "Ginger juice is typically made by extracting or blending fresh ginger with water, then usually balancing the heat with sugar, honey, or citrus."
   },
   {
     "mapId": "624",
@@ -2004,14 +2070,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/guinea-bissau.svg",
+      "localPath": "/drinks/generated/guinea-bissau.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/guinea-bissau",
-      "fileTitle": "Cana de cajeu generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/guinea-bissau.png",
+      "fileTitle": "guinea-bissau.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Cana de cajeu is typically made from fermented cashew apple juice, often distilled into a strong spirit, though some local versions may be less refined."
   },
   {
     "mapId": "328",
@@ -2041,7 +2108,8 @@
       "author": "David Berkowitz",
       "license": "CC BY 2.0",
       "attribution": "David Berkowitz, CC BY 2.0, via flickr"
-    }
+    },
+    "madeOf": "Mauby is typically made by boiling mauby bark with water and then sweetening it, often with spices, creating a slightly bitter, aromatic drink."
   },
   {
     "mapId": "332",
@@ -2064,14 +2132,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/haiti.svg",
+      "localPath": "/drinks/generated/haiti.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/haiti",
-      "fileTitle": "Kremas generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/haiti.png",
+      "fileTitle": "haiti.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Kremas usually combines rum with sweetened condensed or evaporated milk, coconut, vanilla, and warm spices, creating a thick, sweet cream liqueur."
   },
   {
     "mapId": "340",
@@ -2101,7 +2170,8 @@
       "author": "El Gran Dee",
       "license": "CC BY 2.0",
       "attribution": "El Gran Dee, CC BY 2.0, via flickr"
-    }
+    },
+    "madeOf": "Horchata is typically made from soaked rice, nuts, or tiger nuts blended with water, then sweetened and often flavored with cinnamon or vanilla."
   },
   {
     "mapId": "348",
@@ -2131,7 +2201,8 @@
       "author": "savagecat",
       "license": "CC BY 2.0",
       "attribution": "savagecat, CC BY 2.0, via flickr"
-    }
+    },
+    "madeOf": "Palinka is typically made by fermenting fruit such as plums, apricots, pears, or cherries and then distilling it into a clear fruit brandy."
   },
   {
     "mapId": "352",
@@ -2154,14 +2225,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/iceland.svg",
+      "localPath": "/drinks/generated/iceland.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/iceland",
-      "fileTitle": "Brennivin generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/iceland.png",
+      "fileTitle": "iceland.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Brennivin is typically made from distilled grain or potato spirit flavored with caraway and sometimes other botanicals, producing a dry, robust, lightly savory schnapps."
   },
   {
     "mapId": "356",
@@ -2191,7 +2263,8 @@
       "author": "elsie.hui",
       "license": "CC BY 2.0",
       "attribution": "elsie.hui, CC BY 2.0, via Flickr/Openverse"
-    }
+    },
+    "madeOf": "Masala chai usually combines black tea with milk, sugar, and spices such as cardamom, ginger, cinnamon, cloves, and black pepper."
   },
   {
     "mapId": "360",
@@ -2221,7 +2294,8 @@
       "author": "zimujova",
       "license": "CC BY 2.0",
       "attribution": "zimujova, CC BY 2.0, via flickr"
-    }
+    },
+    "madeOf": "Es cendol usually combines coconut milk, palm sugar syrup, and green rice-flour jelly, often with shaved ice, forming a sweet, creamy drink-dessert."
   },
   {
     "mapId": "364",
@@ -2244,14 +2318,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/iran.svg",
+      "localPath": "/drinks/generated/iran.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/iran",
-      "fileTitle": "Doogh generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/iran.png",
+      "fileTitle": "iran.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Doogh is typically made by mixing yogurt with water and salt, and it is often flavored with dried mint or other herbs for a cooling tang."
   },
   {
     "mapId": "368",
@@ -2274,14 +2349,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/iraq.svg",
+      "localPath": "/drinks/generated/iraq.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/iraq",
-      "fileTitle": "Chai generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/iraq.png",
+      "fileTitle": "iraq.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Chai is typically made by brewing tea with water and often milk, then sweetening it, with many versions also using cardamom, ginger, or other warm spices."
   },
   {
     "mapId": "372",
@@ -2311,7 +2387,8 @@
       "author": "insidious_plots",
       "license": "CC BY 2.0",
       "attribution": "insidious_plots, CC BY 2.0, via flickr"
-    }
+    },
+    "madeOf": "Irish whiskey is typically made from a fermented mash of barley and other grains, distilled and then aged in wooden casks until smooth and mellow."
   },
   {
     "mapId": "376",
@@ -2341,7 +2418,8 @@
       "author": "Tjeerd",
       "license": "CC BY 2.0",
       "attribution": "Tjeerd, CC BY 2.0, via flickr"
-    }
+    },
+    "madeOf": "Arak is typically made by distilling fermented grape juice or other fruit bases and then redistilling with aniseed, creating a clear spirit that turns cloudy when diluted."
   },
   {
     "mapId": "380",
@@ -2371,7 +2449,8 @@
       "author": "Pen Waggener",
       "license": "CC BY 2.0",
       "attribution": "Pen Waggener, CC BY 2.0, via Flickr/Openverse"
-    }
+    },
+    "madeOf": "Espresso is typically made by forcing hot water under pressure through finely ground coffee, producing a small, concentrated drink with crema and strong flavor."
   },
   {
     "mapId": "388",
@@ -2401,7 +2480,8 @@
       "author": "seishin17",
       "license": "CC BY-SA 2.0",
       "attribution": "seishin17, CC BY-SA 2.0, via flickr"
-    }
+    },
+    "madeOf": "Rum punch usually combines rum with citrus juice, sweetener, and often fruit juices or spices, creating a balanced cocktail that is fruity and spirited."
   },
   {
     "mapId": "392",
@@ -2424,14 +2504,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/japan.svg",
+      "localPath": "/drinks/generated/japan.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/japan",
-      "fileTitle": "Sake generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/japan.png",
+      "fileTitle": "japan.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Sake is typically made from polished rice fermented with water, koji mold, and yeast, producing a brewed alcoholic drink with smooth grain and umami notes."
   },
   {
     "mapId": "400",
@@ -2461,7 +2542,8 @@
       "author": "avlxyz",
       "license": "CC BY-SA 2.0",
       "attribution": "avlxyz, CC BY-SA 2.0, via flickr"
-    }
+    },
+    "madeOf": "Mint tea usually combines tea, often green tea, with fresh mint and sugar, creating a sweet, aromatic infusion where the mint is central."
   },
   {
     "mapId": "398",
@@ -2491,7 +2573,8 @@
       "author": "upyernoz",
       "license": "CC BY 2.0",
       "attribution": "upyernoz, CC BY 2.0, via flickr"
-    }
+    },
+    "madeOf": "Kumis is typically made from mare's milk fermented by bacteria and yeast, resulting in a tangy, lightly alcoholic dairy drink with soft natural fizz."
   },
   {
     "mapId": "404",
@@ -2521,7 +2604,8 @@
       "author": "klndonnelly",
       "license": "CC BY 2.0",
       "attribution": "klndonnelly, CC BY 2.0, via flickr"
-    }
+    },
+    "madeOf": "Chai is typically made by brewing tea with water and often milk, then sweetening it, with many versions also using cardamom, ginger, or other warm spices."
   },
   {
     "mapId": "name:kosovo",
@@ -2544,14 +2628,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/kosovo.svg",
+      "localPath": "/drinks/generated/kosovo.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/kosovo",
-      "fileTitle": "Rakia generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/kosovo.png",
+      "fileTitle": "kosovo.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Rakia is typically made by fermenting fruit, especially plums, grapes, apricots, or pears, and then distilling it into a clear, strong fruit brandy."
   },
   {
     "mapId": "414",
@@ -2581,7 +2666,8 @@
       "author": "فيصل",
       "license": "CC BY-SA 4.0",
       "attribution": "فيصل, CC BY-SA 4.0, via wikimedia"
-    }
+    },
+    "madeOf": "Arabic coffee is typically made from lightly roasted coffee beans brewed with water and usually flavored with cardamom, while some versions also include saffron, cloves, or rosewater."
   },
   {
     "mapId": "417",
@@ -2611,7 +2697,8 @@
       "author": "upyernoz",
       "license": "CC BY 2.0",
       "attribution": "upyernoz, CC BY 2.0, via flickr"
-    }
+    },
+    "madeOf": "Kumis is typically made from mare's milk fermented by bacteria and yeast, resulting in a tangy, lightly alcoholic dairy drink with soft natural fizz."
   },
   {
     "mapId": "418",
@@ -2634,14 +2721,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/laos.svg",
+      "localPath": "/drinks/generated/laos.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/laos",
-      "fileTitle": "Lao-Lao generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/laos.png",
+      "fileTitle": "laos.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Lao-Lao is typically made by fermenting sticky rice and then distilling it, producing a clear rice spirit with a strong, clean alcoholic profile."
   },
   {
     "mapId": "428",
@@ -2664,14 +2752,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/latvia.svg",
+      "localPath": "/drinks/generated/latvia.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/latvia",
-      "fileTitle": "Riga Black Balsam generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/latvia.png",
+      "fileTitle": "latvia.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Riga Black Balsam is typically made from spirit infused with bitter herbs, roots, spices, and berries, then lightly sweetened into a dark herbal liqueur."
   },
   {
     "mapId": "422",
@@ -2694,14 +2783,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/lebanon.svg",
+      "localPath": "/drinks/generated/lebanon.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/lebanon",
-      "fileTitle": "Arak generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/lebanon.png",
+      "fileTitle": "lebanon.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Arak is typically made by distilling fermented grape juice or other fruit bases and then redistilling with aniseed, creating a clear spirit that turns cloudy when diluted."
   },
   {
     "mapId": "426",
@@ -2724,14 +2814,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/lesotho.svg",
+      "localPath": "/drinks/generated/lesotho.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/lesotho",
-      "fileTitle": "Joala generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/lesotho.png",
+      "fileTitle": "lesotho.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Joala is typically made from fermented sorghum or maize, producing a traditional opaque beer with a soft grain body and a mildly sour finish."
   },
   {
     "mapId": "430",
@@ -2761,7 +2852,8 @@
       "author": "mdid",
       "license": "CC BY 2.0",
       "attribution": "mdid, CC BY 2.0, via flickr"
-    }
+    },
+    "madeOf": "Ginger beer is typically made from ginger, water, and sugar that are brewed or fermented, often with lemon or lime added for brightness."
   },
   {
     "mapId": "434",
@@ -2784,14 +2876,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/libya.svg",
+      "localPath": "/drinks/generated/libya.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/libya",
-      "fileTitle": "Libyan tea generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/libya.png",
+      "fileTitle": "libya.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Libyan tea is typically made from black tea brewed very strong with plenty of sugar, often with fresh mint added for sweetness and aroma."
   },
   {
     "mapId": "440",
@@ -2821,7 +2914,8 @@
       "author": "Bernt Rostad",
       "license": "CC BY 2.0",
       "attribution": "Bernt Rostad, CC BY 2.0, via flickr"
-    }
+    },
+    "madeOf": "Gira is typically made from rye bread or rye malt fermented with water, sugar, and yeast, producing a mildly sweet, lightly fizzy grain drink."
   },
   {
     "mapId": "442",
@@ -2851,7 +2945,8 @@
       "author": "diannepetrov1",
       "license": "CC0",
       "attribution": "diannepetrov1, CC0, via flickr"
-    }
+    },
+    "madeOf": "Riesling is typically made from Riesling grapes fermented into wine, often balancing bright acidity with flavors that range from dry and citrusy to sweet."
   },
   {
     "mapId": "807",
@@ -2881,7 +2976,8 @@
       "author": "brankomaster",
       "license": "CC BY 2.0",
       "attribution": "brankomaster, CC BY 2.0, via flickr"
-    }
+    },
+    "madeOf": "Rakija is typically made by fermenting fruit, especially plums, grapes, apricots, or quince, and distilling it into a potent fruit brandy."
   },
   {
     "mapId": "450",
@@ -2904,14 +3000,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/madagascar.svg",
+      "localPath": "/drinks/generated/madagascar.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/madagascar",
-      "fileTitle": "Ranon'ampango generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/madagascar.png",
+      "fileTitle": "madagascar.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Ranon'ampango is typically made by boiling water with the caramelized, toasted crust left from cooked rice, producing a smoky, lightly bitter rice drink."
   },
   {
     "mapId": "454",
@@ -2934,14 +3031,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/malawi.svg",
+      "localPath": "/drinks/generated/malawi.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/malawi",
-      "fileTitle": "Thobwa generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/malawi.png",
+      "fileTitle": "malawi.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Thobwa is typically made from maize or millet mixed with water and malted grain, then lightly fermented into a thick, slightly sour cereal drink."
   },
   {
     "mapId": "458",
@@ -2971,7 +3069,8 @@
       "author": "avlxyz",
       "license": "CC BY-SA 2.0",
       "attribution": "avlxyz, CC BY-SA 2.0, via flickr"
-    }
+    },
+    "madeOf": "Teh tarik usually combines strong black tea with sweetened condensed milk and often evaporated milk, producing a rich, creamy, caramelized milk tea."
   },
   {
     "mapId": "466",
@@ -2994,14 +3093,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/mali.svg",
+      "localPath": "/drinks/generated/mali.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/mali",
-      "fileTitle": "Dabileni generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/mali.png",
+      "fileTitle": "mali.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Dabileni is typically made by steeping dried hibiscus in water and sweetening it, often with ginger or mint added for extra spice and freshness."
   },
   {
     "mapId": "478",
@@ -3024,14 +3124,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/mauritania.svg",
+      "localPath": "/drinks/generated/mauritania.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/mauritania",
-      "fileTitle": "Ataya generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/mauritania.png",
+      "fileTitle": "mauritania.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Ataya is typically made from strong green tea repeatedly brewed with plenty of sugar, often finished with fresh mint so the drink becomes concentrated, sweet, and aromatic."
   },
   {
     "mapId": "484",
@@ -3054,14 +3155,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/mexico.svg",
+      "localPath": "/drinks/generated/mexico.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/mexico",
-      "fileTitle": "Tequila generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/mexico.png",
+      "fileTitle": "mexico.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Tequila is typically made by cooking, fermenting, and distilling sugars from blue agave, producing a spirit that can range from fresh and peppery to richer styles."
   },
   {
     "mapId": "498",
@@ -3091,7 +3193,8 @@
       "author": "Guttorm Flatabø",
       "license": "CC BY 2.0",
       "attribution": "Guttorm Flatabø, CC BY 2.0, via flickr"
-    }
+    },
+    "madeOf": "Wine is typically made by fermenting grape juice, though other fruits can be used, producing an alcoholic drink whose sweetness and body vary by style."
   },
   {
     "mapId": "496",
@@ -3114,14 +3217,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/mongolia.svg",
+      "localPath": "/drinks/generated/mongolia.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/mongolia",
-      "fileTitle": "Airag generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/mongolia.png",
+      "fileTitle": "mongolia.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Airag is typically made from mare's milk that is fermented with natural lactic bacteria and yeast, producing a lightly alcoholic, tangy dairy drink with gentle effervescence."
   },
   {
     "mapId": "499",
@@ -3144,14 +3248,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/montenegro.svg",
+      "localPath": "/drinks/generated/montenegro.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/montenegro",
-      "fileTitle": "Rakija generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/montenegro.png",
+      "fileTitle": "montenegro.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Rakija is typically made by fermenting fruit, especially plums, grapes, apricots, or quince, and distilling it into a potent fruit brandy."
   },
   {
     "mapId": "504",
@@ -3181,7 +3286,8 @@
       "author": "simon_music",
       "license": "CC BY-SA 2.0",
       "attribution": "simon_music, CC BY-SA 2.0, via Flickr/Openverse"
-    }
+    },
+    "madeOf": "Mint tea usually combines tea, often green tea, with fresh mint and sugar, creating a sweet, aromatic infusion where the mint is central."
   },
   {
     "mapId": "508",
@@ -3204,14 +3310,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/mozambique.svg",
+      "localPath": "/drinks/generated/mozambique.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/mozambique",
-      "fileTitle": "Maheu generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/mozambique.png",
+      "fileTitle": "mozambique.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Maheu is typically made from maize meal mixed with water and allowed to ferment slightly, sometimes with added sugar for a mildly sweet cereal drink."
   },
   {
     "mapId": "104",
@@ -3234,14 +3341,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/myanmar.svg",
+      "localPath": "/drinks/generated/myanmar.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/myanmar",
-      "fileTitle": "Laphet yay generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/myanmar.png",
+      "fileTitle": "myanmar.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Laphet yay usually combines strong black tea with sweetened condensed milk, and sometimes evaporated milk, to create a rich, sweet, creamy tea."
   },
   {
     "mapId": "name:n-cyprus",
@@ -3271,7 +3379,8 @@
       "author": "WordRidden",
       "license": "CC BY 2.0",
       "attribution": "WordRidden, CC BY 2.0, via flickr"
-    }
+    },
+    "madeOf": "Turkish coffee is typically made from very finely ground coffee simmered with water, and often sugar, creating a concentrated brew with suspended grounds."
   },
   {
     "mapId": "516",
@@ -3294,14 +3403,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/namibia.svg",
+      "localPath": "/drinks/generated/namibia.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/namibia",
-      "fileTitle": "Oshikundu generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/namibia.png",
+      "fileTitle": "namibia.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Oshikundu is typically made from millet meal or mahangu mixed with water and sorghum malt, producing a lightly fermented drink with grainy tang."
   },
   {
     "mapId": "524",
@@ -3324,14 +3434,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/nepal.svg",
+      "localPath": "/drinks/generated/nepal.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/nepal",
-      "fileTitle": "Chiya generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/nepal.png",
+      "fileTitle": "nepal.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Chiya usually combines black tea with milk, water, sugar, and often spices such as cardamom, ginger, or cloves for a fragrant, comforting milk tea."
   },
   {
     "mapId": "528",
@@ -3354,14 +3465,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/netherlands.svg",
+      "localPath": "/drinks/generated/netherlands.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/netherlands",
-      "fileTitle": "Jenever generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/netherlands.png",
+      "fileTitle": "netherlands.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Jenever is typically made from malt wine and neutral spirit flavored with juniper and other botanicals, giving it a malty body beneath the herbal profile."
   },
   {
     "mapId": "540",
@@ -3384,14 +3496,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/new-caledonia.svg",
+      "localPath": "/drinks/generated/new-caledonia.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/new-caledonia",
-      "fileTitle": "Kava generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/new-caledonia.png",
+      "fileTitle": "new-caledonia.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Kava is typically made by crushing or grinding kava root and mixing it with water, producing an earthy, peppery drink valued for its calming effects."
   },
   {
     "mapId": "554",
@@ -3421,7 +3534,8 @@
       "author": "russelljsmith",
       "license": "CC BY 2.0",
       "attribution": "russelljsmith, CC BY 2.0, via flickr"
-    }
+    },
+    "madeOf": "A flat white usually combines espresso with steamed milk and a thin layer of microfoam, creating a coffee-forward drink with a smooth, velvety texture."
   },
   {
     "mapId": "558",
@@ -3444,14 +3558,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/nicaragua.svg",
+      "localPath": "/drinks/generated/nicaragua.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/nicaragua",
-      "fileTitle": "Macua generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/nicaragua.png",
+      "fileTitle": "nicaragua.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "A Macua usually combines rum with guava juice and citrus, often orange or lemon, creating a fruity cocktail with tropical sweetness and light tartness."
   },
   {
     "mapId": "562",
@@ -3481,7 +3596,8 @@
       "author": "DianaMoon",
       "license": "CC BY 2.0",
       "attribution": "DianaMoon, CC BY 2.0, via flickr"
-    }
+    },
+    "madeOf": "Bissap is typically made by steeping dried hibiscus petals in water and sweetening the infusion, often with added mint, ginger, or citrus depending on the recipe."
   },
   {
     "mapId": "566",
@@ -3504,14 +3620,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/nigeria.svg",
+      "localPath": "/drinks/generated/nigeria.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/nigeria",
-      "fileTitle": "Zobo generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/nigeria.png",
+      "fileTitle": "nigeria.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Zobo is typically made by steeping dried hibiscus petals in water and sweetening the infusion, often with ginger, pineapple, or cloves for extra flavor."
   },
   {
     "mapId": "408",
@@ -3541,7 +3658,8 @@
       "author": "stormsewer",
       "license": "CC BY 2.0",
       "attribution": "stormsewer, CC BY 2.0, via flickr"
-    }
+    },
+    "madeOf": "Pyongyang soju is typically made from rice or other starches such as barley, wheat, or sweet potato, then distilled and diluted into a clear spirit."
   },
   {
     "mapId": "578",
@@ -3564,14 +3682,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/norway.svg",
+      "localPath": "/drinks/generated/norway.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/norway",
-      "fileTitle": "Aquavit generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/norway.png",
+      "fileTitle": "norway.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Aquavit is typically made from distilled grain or potato spirit flavored mainly with caraway or dill, often alongside botanicals such as fennel, coriander, or citrus peel."
   },
   {
     "mapId": "512",
@@ -3594,14 +3713,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/oman.svg",
+      "localPath": "/drinks/generated/oman.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/oman",
-      "fileTitle": "Kahwa generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/oman.png",
+      "fileTitle": "oman.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Kahwa is typically made by brewing green tea with spices such as cardamom and cinnamon, often with saffron and crushed nuts added for aroma and richness."
   },
   {
     "mapId": "586",
@@ -3631,7 +3751,8 @@
       "author": "lejoe",
       "license": "CC BY 2.0",
       "attribution": "lejoe, CC BY 2.0, via flickr"
-    }
+    },
+    "madeOf": "Lassi is typically made by blending yogurt with water or milk until smooth, then seasoning it sweet or salty, sometimes with fruit or spices."
   },
   {
     "mapId": "275",
@@ -3661,7 +3782,8 @@
       "author": "avlxyz",
       "license": "CC BY-SA 2.0",
       "attribution": "avlxyz, CC BY-SA 2.0, via flickr"
-    }
+    },
+    "madeOf": "Mint tea usually combines tea, often green tea, with fresh mint and sugar, creating a sweet, aromatic infusion where the mint is central."
   },
   {
     "mapId": "591",
@@ -3684,14 +3806,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/panama.svg",
+      "localPath": "/drinks/generated/panama.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/panama",
-      "fileTitle": "Seco Herrerano generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/panama.png",
+      "fileTitle": "panama.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Seco Herrerano is typically made by distilling fermented sugarcane juice into a clear, neutral-leaning spirit that is often used as a cocktail base."
   },
   {
     "mapId": "598",
@@ -3714,14 +3837,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/papua-new-guinea.svg",
+      "localPath": "/drinks/generated/papua-new-guinea.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/papua-new-guinea",
-      "fileTitle": "Kava generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/papua-new-guinea.png",
+      "fileTitle": "papua-new-guinea.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Kava is typically made by crushing or grinding kava root and mixing it with water, producing an earthy, peppery drink valued for its calming effects."
   },
   {
     "mapId": "600",
@@ -3751,7 +3875,8 @@
       "author": "Hugo Pardo Kuklinski",
       "license": "CC BY 2.0",
       "attribution": "Hugo Pardo Kuklinski, CC BY 2.0, via flickr"
-    }
+    },
+    "madeOf": "Terere is typically made by infusing yerba mate with cold water, often with ice and sometimes fresh herbs or citrus for extra flavor."
   },
   {
     "mapId": "604",
@@ -3781,7 +3906,8 @@
       "author": "T.78UopXx",
       "license": "CC BY-SA 2.0",
       "attribution": "T.78UopXx, CC BY-SA 2.0, via flickr"
-    }
+    },
+    "madeOf": "A pisco sour usually combines pisco with lime or lemon juice, sugar syrup, and egg white, creating a tart cocktail with a silky foam."
   },
   {
     "mapId": "608",
@@ -3804,14 +3930,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/philippines.svg",
+      "localPath": "/drinks/generated/philippines.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/philippines",
-      "fileTitle": "Lambanog generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/philippines.png",
+      "fileTitle": "philippines.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Lambanog is typically made by distilling fermented coconut palm sap into a clear, potent spirit that may be kept plain or flavored after distillation."
   },
   {
     "mapId": "616",
@@ -3841,7 +3968,8 @@
       "author": "Fareham Wine",
       "license": "CC BY 2.0",
       "attribution": "Fareham Wine, CC BY 2.0, via flickr"
-    }
+    },
+    "madeOf": "Vodka is typically made by fermenting grain or potatoes and distilling the wash into a neutral spirit, then filtering and diluting it with water."
   },
   {
     "mapId": "620",
@@ -3871,7 +3999,8 @@
       "author": "the Italian voice",
       "license": "CC BY 2.0",
       "attribution": "the Italian voice, CC BY 2.0, via flickr"
-    }
+    },
+    "madeOf": "Port wine is typically made from fermented grapes whose fermentation is stopped early with grape spirit, leaving natural sweetness in a fortified wine."
   },
   {
     "mapId": "630",
@@ -3894,14 +4023,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/puerto-rico.svg",
+      "localPath": "/drinks/generated/puerto-rico.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/puerto-rico",
-      "fileTitle": "Pina colada generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/puerto-rico.png",
+      "fileTitle": "puerto-rico.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "A pina colada usually combines rum with pineapple juice and coconut cream or coconut milk, creating a rich, sweet, fruit-forward cocktail."
   },
   {
     "mapId": "634",
@@ -3931,7 +4061,8 @@
       "author": "D@LY3D",
       "license": "CC BY 2.0",
       "attribution": "D@LY3D, CC BY 2.0, via flickr"
-    }
+    },
+    "madeOf": "Karak usually combines strong black tea with milk and sugar, and it is often simmered with cardamom for a concentrated, creamy, aromatic tea."
   },
   {
     "mapId": "642",
@@ -3961,7 +4092,8 @@
       "author": "bortescristian",
       "license": "CC BY 2.0",
       "attribution": "bortescristian, CC BY 2.0, via flickr"
-    }
+    },
+    "madeOf": "Tuica is typically made by fermenting plums and then distilling them into a clear fruit brandy with concentrated plum aroma and strength."
   },
   {
     "mapId": "643",
@@ -3991,7 +4123,8 @@
       "author": "Bernt Rostad",
       "license": "CC BY 2.0",
       "attribution": "Bernt Rostad, CC BY 2.0, via flickr"
-    }
+    },
+    "madeOf": "Kvass is typically made by fermenting rye bread or grain malt with water and sugar, creating a lightly alcoholic, mildly sour, breadlike drink."
   },
   {
     "mapId": "646",
@@ -4014,14 +4147,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/rwanda.svg",
+      "localPath": "/drinks/generated/rwanda.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/rwanda",
-      "fileTitle": "Urwagwa generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/rwanda.png",
+      "fileTitle": "rwanda.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Urwagwa is typically made from banana juice or mashed bananas fermented with water and often sorghum flour, creating a sweet-sour banana beer."
   },
   {
     "mapId": "728",
@@ -4044,14 +4178,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/south-sudan.svg",
+      "localPath": "/drinks/generated/south-sudan.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/south-sudan",
-      "fileTitle": "Siko generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/south-sudan.png",
+      "fileTitle": "south-sudan.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Siko is typically made from sorghum or other grains fermented with water, creating a cloudy traditional beer with earthy flavor and mild sourness."
   },
   {
     "mapId": "682",
@@ -4074,14 +4209,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/saudi-arabia.svg",
+      "localPath": "/drinks/generated/saudi-arabia.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/saudi-arabia",
-      "fileTitle": "Arabic coffee generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/saudi-arabia.png",
+      "fileTitle": "saudi-arabia.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Arabic coffee is typically made from lightly roasted coffee beans brewed with water and usually flavored with cardamom, while some versions also include saffron, cloves, or rosewater."
   },
   {
     "mapId": "686",
@@ -4111,7 +4247,8 @@
       "author": "DianaMoon",
       "license": "CC BY 2.0",
       "attribution": "DianaMoon, CC BY 2.0, via flickr"
-    }
+    },
+    "madeOf": "Bissap is typically made by steeping dried hibiscus petals in water and sweetening the infusion, often with added mint, ginger, or citrus depending on the recipe."
   },
   {
     "mapId": "688",
@@ -4141,7 +4278,8 @@
       "author": "brankomaster",
       "license": "CC BY 2.0",
       "attribution": "brankomaster, CC BY 2.0, via flickr"
-    }
+    },
+    "madeOf": "Rakija is typically made by fermenting fruit, especially plums, grapes, apricots, or quince, and distilling it into a potent fruit brandy."
   },
   {
     "mapId": "694",
@@ -4171,7 +4309,8 @@
       "author": "mdid",
       "license": "CC BY 2.0",
       "attribution": "mdid, CC BY 2.0, via flickr"
-    }
+    },
+    "madeOf": "Ginger beer is typically made from ginger, water, and sugar that are brewed or fermented, often with lemon or lime added for brightness."
   },
   {
     "mapId": "703",
@@ -4194,14 +4333,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/slovakia.svg",
+      "localPath": "/drinks/generated/slovakia.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/slovakia",
-      "fileTitle": "Borovicka generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/slovakia.png",
+      "fileTitle": "slovakia.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Borovicka is typically made from distilled grain spirit flavored with juniper berries or juniper extract, giving it a crisp, resinous profile somewhat reminiscent of gin."
   },
   {
     "mapId": "705",
@@ -4231,7 +4371,8 @@
       "author": "feelsgoodlost",
       "license": "CC BY-SA 2.0",
       "attribution": "feelsgoodlost, CC BY-SA 2.0, via flickr"
-    }
+    },
+    "madeOf": "Teran is typically made from Teran grapes fermented into a robust red wine, usually marked by high acidity and dark fruit character."
   },
   {
     "mapId": "090",
@@ -4254,14 +4395,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/solomon-islands.svg",
+      "localPath": "/drinks/generated/solomon-islands.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/solomon-islands",
-      "fileTitle": "Kava generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/solomon-islands.png",
+      "fileTitle": "solomon-islands.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Kava is typically made by crushing or grinding kava root and mixing it with water, producing an earthy, peppery drink valued for its calming effects."
   },
   {
     "mapId": "706",
@@ -4284,14 +4426,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/somalia.svg",
+      "localPath": "/drinks/generated/somalia.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/somalia",
-      "fileTitle": "Shaah cadays generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/somalia.png",
+      "fileTitle": "somalia.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Shaah cadays usually combines black tea with milk, sugar, cardamom, and often cinnamon or cloves, creating a sweet, fragrant spiced tea."
   },
   {
     "mapId": "name:somaliland",
@@ -4314,14 +4457,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/somaliland.svg",
+      "localPath": "/drinks/generated/somaliland.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/somaliland",
-      "fileTitle": "Shaah generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/somaliland.png",
+      "fileTitle": "somaliland.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Shaah usually combines black tea with water, milk, and sugar, and some versions add cardamom or other spices for extra warmth and fragrance."
   },
   {
     "mapId": "710",
@@ -4344,14 +4488,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/south-africa.svg",
+      "localPath": "/drinks/generated/south-africa.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/south-africa",
-      "fileTitle": "Rooibos tea generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/south-africa.png",
+      "fileTitle": "south-africa.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Rooibos tea is typically made by steeping rooibos leaves in hot water, producing a naturally caffeine-free infusion with mild sweetness and earthy notes."
   },
   {
     "mapId": "410",
@@ -4381,7 +4526,8 @@
       "author": "rtclauss",
       "license": "CC BY-SA 2.0",
       "attribution": "rtclauss, CC BY-SA 2.0, via flickr"
-    }
+    },
+    "madeOf": "Soju is typically made from rice or other starches such as barley, wheat, tapioca, or sweet potato, then distilled or diluted into a clear spirit."
   },
   {
     "mapId": "724",
@@ -4411,7 +4557,8 @@
       "author": "bastiend",
       "license": "CC BY 2.0",
       "attribution": "bastiend, CC BY 2.0, via flickr"
-    }
+    },
+    "madeOf": "Sangria usually combines wine with chopped fruit, citrus juice, sweetener, and sometimes brandy, creating a fruity mixed drink with fresh acidity."
   },
   {
     "mapId": "144",
@@ -4434,14 +4581,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/sri-lanka.svg",
+      "localPath": "/drinks/generated/sri-lanka.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/sri-lanka",
-      "fileTitle": "Ceylon tea generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/sri-lanka.png",
+      "fileTitle": "sri-lanka.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Ceylon tea is typically made by steeping processed tea leaves in hot water, most often black tea leaves known for brisk flavor and bright aroma."
   },
   {
     "mapId": "729",
@@ -4464,14 +4612,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/sudan.svg",
+      "localPath": "/drinks/generated/sudan.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/sudan",
-      "fileTitle": "Karkade generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/sudan.png",
+      "fileTitle": "sudan.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Karkade is typically made by steeping dried hibiscus flowers in water, then serving the tart infusion sweetened and sometimes lightly scented with citrus or mint."
   },
   {
     "mapId": "740",
@@ -4501,7 +4650,8 @@
       "author": "Didit Putra",
       "license": "CC BY 2.0",
       "attribution": "Didit Putra, CC BY 2.0, via flickr"
-    }
+    },
+    "madeOf": "Dawet usually combines coconut milk and palm sugar syrup with soft rice-flour jelly, creating a sweet drink with a creamy base and chewy texture."
   },
   {
     "mapId": "752",
@@ -4524,14 +4674,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/sweden.svg",
+      "localPath": "/drinks/generated/sweden.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/sweden",
-      "fileTitle": "Brannvin generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/sweden.png",
+      "fileTitle": "sweden.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Brannvin is typically made from distilled grain or potatoes and diluted with water, creating a clear spirit that may be plain or lightly flavored with herbs or caraway."
   },
   {
     "mapId": "756",
@@ -4561,7 +4712,8 @@
       "author": "Olivier Bruchez",
       "license": "CC BY-SA 2.0",
       "attribution": "Olivier Bruchez, CC BY-SA 2.0, via flickr"
-    }
+    },
+    "madeOf": "Rivella is typically made from carbonated water, milk whey, sugar, and flavorings, creating a lightly sweet soft drink with a subtly creamy tang."
   },
   {
     "mapId": "760",
@@ -4584,14 +4736,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/syria.svg",
+      "localPath": "/drinks/generated/syria.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/syria",
-      "fileTitle": "Arak generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/syria.png",
+      "fileTitle": "syria.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Arak is typically made by distilling fermented grape juice or other fruit bases and then redistilling with aniseed, creating a clear spirit that turns cloudy when diluted."
   },
   {
     "mapId": "158",
@@ -4621,7 +4774,8 @@
       "author": "Mr Wabu",
       "license": "CC BY-SA 2.0",
       "attribution": "Mr Wabu, CC BY-SA 2.0, via flickr"
-    }
+    },
+    "madeOf": "Bubble tea usually combines brewed tea with milk or fruit flavoring, sweetener, and chewy tapioca pearls, though some versions use jelly, popping boba, or other add-ins."
   },
   {
     "mapId": "762",
@@ -4644,14 +4798,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/tajikistan.svg",
+      "localPath": "/drinks/generated/tajikistan.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/tajikistan",
-      "fileTitle": "Shirchoy generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/tajikistan.png",
+      "fileTitle": "tajikistan.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Shirchoy usually combines black tea with milk, salt, and often butter, producing a savory, creamy tea with a rich, warming body."
   },
   {
     "mapId": "834",
@@ -4681,7 +4836,8 @@
       "author": "aslakr",
       "license": "CC BY 2.0",
       "attribution": "aslakr, CC BY 2.0, via flickr"
-    }
+    },
+    "madeOf": "Tangawizi is typically made from fresh ginger blended or boiled with water, then sweetened and often sharpened with lemon or lime juice."
   },
   {
     "mapId": "764",
@@ -4711,7 +4867,8 @@
       "author": "avlxyz",
       "license": "CC BY-SA 2.0",
       "attribution": "avlxyz, CC BY-SA 2.0, via flickr"
-    }
+    },
+    "madeOf": "Thai iced tea usually combines strong black tea with sugar and condensed or evaporated milk, often with spices or colorants for deeper flavor."
   },
   {
     "mapId": "626",
@@ -4741,7 +4898,8 @@
       "author": "ohsarahrose",
       "license": "CC BY-SA 2.0",
       "attribution": "ohsarahrose, CC BY-SA 2.0, via flickr"
-    }
+    },
+    "madeOf": "Timor coffee is typically made by brewing roasted coffee beans with hot water, most often using arabica beans that give a clean, aromatic cup."
   },
   {
     "mapId": "768",
@@ -4764,14 +4922,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/togo.svg",
+      "localPath": "/drinks/generated/togo.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/togo",
-      "fileTitle": "Tchoukoutou generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/togo.png",
+      "fileTitle": "togo.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Tchoukoutou is typically made from sorghum or millet that is malted, brewed, and fermented, creating a cloudy traditional beer with gentle sourness."
   },
   {
     "mapId": "780",
@@ -4801,7 +4960,8 @@
       "author": "David Berkowitz",
       "license": "CC BY 2.0",
       "attribution": "David Berkowitz, CC BY 2.0, via flickr"
-    }
+    },
+    "madeOf": "Mauby is typically made by boiling mauby bark with water and then sweetening it, often with spices, creating a slightly bitter, aromatic drink."
   },
   {
     "mapId": "788",
@@ -4824,14 +4984,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/tunisia.svg",
+      "localPath": "/drinks/generated/tunisia.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/tunisia",
-      "fileTitle": "Mint tea with pine nuts generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/tunisia.png",
+      "fileTitle": "tunisia.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Mint tea with pine nuts usually combines sweet mint tea with a handful of pine nuts, adding a mild nutty richness to the herbal infusion."
   },
   {
     "mapId": "792",
@@ -4861,7 +5022,8 @@
       "author": "BOMBMAN",
       "license": "CC BY 2.0",
       "attribution": "BOMBMAN, CC BY 2.0, via flickr"
-    }
+    },
+    "madeOf": "Turkish tea is typically made by strongly brewing black tea and diluting it to taste with hot water, usually served plain or sweetened."
   },
   {
     "mapId": "795",
@@ -4884,14 +5046,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/turkmenistan.svg",
+      "localPath": "/drinks/generated/turkmenistan.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/turkmenistan",
-      "fileTitle": "Chal generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/turkmenistan.png",
+      "fileTitle": "turkmenistan.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Chal is typically made from camel milk that is fermented until tangy and lightly effervescent, producing a refreshing sour dairy drink."
   },
   {
     "mapId": "800",
@@ -4914,14 +5077,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/uganda.svg",
+      "localPath": "/drinks/generated/uganda.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/uganda",
-      "fileTitle": "Waragi generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/uganda.png",
+      "fileTitle": "uganda.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Waragi is typically made by fermenting bananas, cassava, molasses, or grain and then distilling the mash into a clear, strong spirit."
   },
   {
     "mapId": "804",
@@ -4944,14 +5108,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/ukraine.svg",
+      "localPath": "/drinks/generated/ukraine.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/ukraine",
-      "fileTitle": "Uzvar generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/ukraine.png",
+      "fileTitle": "ukraine.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Uzvar is typically made by simmering dried fruits such as apples, pears, prunes, or berries in water, often with honey for sweetness."
   },
   {
     "mapId": "784",
@@ -4974,14 +5139,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/united-arab-emirates.svg",
+      "localPath": "/drinks/generated/united-arab-emirates.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/united-arab-emirates",
-      "fileTitle": "Arabic coffee generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/united-arab-emirates.png",
+      "fileTitle": "united-arab-emirates.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Arabic coffee is typically made from lightly roasted coffee beans brewed with water and usually flavored with cardamom, while some versions also include saffron, cloves, or rosewater."
   },
   {
     "mapId": "826",
@@ -5011,7 +5177,8 @@
       "author": "blmurch",
       "license": "CC BY 2.0",
       "attribution": "blmurch, CC BY 2.0, via flickr"
-    }
+    },
+    "madeOf": "Tea is typically made by steeping processed tea leaves in hot water, with the final drink left plain or combined with sugar, milk, lemon, or herbs."
   },
   {
     "mapId": "840",
@@ -5041,7 +5208,8 @@
       "author": "tsearcher2011",
       "license": "CC BY 2.0",
       "attribution": "tsearcher2011, CC BY 2.0, via flickr"
-    }
+    },
+    "madeOf": "Bourbon is typically made from a grain mash containing at least mostly corn, plus grains like rye, wheat, or barley, then fermented, distilled, and aged in new charred oak."
   },
   {
     "mapId": "858",
@@ -5064,14 +5232,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/uruguay.svg",
+      "localPath": "/drinks/generated/uruguay.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/uruguay",
-      "fileTitle": "Mate generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/uruguay.png",
+      "fileTitle": "uruguay.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Mate is typically made by steeping dried yerba mate leaves and stems in hot water, producing an herbal, earthy, slightly bitter caffeinated infusion."
   },
   {
     "mapId": "860",
@@ -5101,7 +5270,8 @@
       "author": "theseanster93",
       "license": "CC BY-SA 2.0",
       "attribution": "theseanster93, CC BY-SA 2.0, via flickr"
-    }
+    },
+    "madeOf": "Green tea is typically made by steeping minimally oxidized tea leaves in hot water, yielding a lighter-bodied infusion with grassy, vegetal, or lightly nutty notes."
   },
   {
     "mapId": "548",
@@ -5124,14 +5294,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/vanuatu.svg",
+      "localPath": "/drinks/generated/vanuatu.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/vanuatu",
-      "fileTitle": "Kava generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/vanuatu.png",
+      "fileTitle": "vanuatu.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Kava is typically made by crushing or grinding kava root and mixing it with water, producing an earthy, peppery drink valued for its calming effects."
   },
   {
     "mapId": "862",
@@ -5154,14 +5325,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/venezuela.svg",
+      "localPath": "/drinks/generated/venezuela.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/venezuela",
-      "fileTitle": "Chicha criolla generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/venezuela.png",
+      "fileTitle": "venezuela.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Chicha criolla is typically made from rice cooked and blended with milk, sugar, cinnamon, and sometimes vanilla, creating a smooth, sweet spiced drink."
   },
   {
     "mapId": "704",
@@ -5191,7 +5363,8 @@
       "author": "paularps",
       "license": "CC BY 2.0",
       "attribution": "paularps, CC BY 2.0, via flickr"
-    }
+    },
+    "madeOf": "Ca phe sua da usually combines strong dark-roast coffee with sweetened condensed milk, producing a rich, intensely flavored coffee drink with a creamy sweetness."
   },
   {
     "mapId": "732",
@@ -5214,14 +5387,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/western-sahara.svg",
+      "localPath": "/drinks/generated/western-sahara.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/western-sahara",
-      "fileTitle": "Sahrawi tea generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/western-sahara.png",
+      "fileTitle": "western-sahara.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Sahrawi tea usually combines green tea with plenty of sugar and fresh mint, brewed strong into a sweet, intensely aromatic tea."
   },
   {
     "mapId": "887",
@@ -5244,14 +5418,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/yemen.svg",
+      "localPath": "/drinks/generated/yemen.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/yemen",
-      "fileTitle": "Qishr generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/yemen.png",
+      "fileTitle": "yemen.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Qishr is typically made by simmering dried coffee husks with water, sugar, and often ginger or cinnamon, creating a spiced infusion rather than bean coffee."
   },
   {
     "mapId": "894",
@@ -5274,14 +5449,15 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/zambia.svg",
+      "localPath": "/drinks/generated/zambia.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/zambia",
-      "fileTitle": "Munkoyo generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/zambia.png",
+      "fileTitle": "zambia.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Munkoyo is typically made from maize meal fermented with water and munkoyo root, whose natural enzymes help convert starches and create a tangy drink."
   },
   {
     "mapId": "716",
@@ -5304,13 +5480,14 @@
       }
     ],
     "image": {
-      "localPath": "/drinks/generated/zimbabwe.svg",
+      "localPath": "/drinks/generated/zimbabwe.png",
       "status": "generated-local",
-      "sourceUrl": "https://world-drinks.local/generated/zimbabwe",
-      "fileTitle": "Mahewu generated artwork",
-      "author": "World Drinks app",
+      "sourceUrl": "https://world-drinks.local/drinks/generated/zimbabwe.png",
+      "fileTitle": "zimbabwe.png",
+      "author": "User provided",
       "license": "Site-generated",
-      "attribution": "Generated locally by the World Drinks app"
-    }
+      "attribution": "User-provided generated image hosted locally by World Drinks"
+    },
+    "madeOf": "Mahewu is typically made from cooked maize meal or sorghum that is diluted and lightly fermented, producing a smooth, tangy, non-distilled grain drink."
   }
 ]
