@@ -6,12 +6,15 @@ import { VitePWA } from 'vite-plugin-pwa';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://world-drinks.local',
+	site: 'https://worlddrinks.top',
 	devToolbar: {
 		enabled: false
 	},
 	integrations: [react(), sitemap()],
 	vite: {
+		preview: {
+			allowedHosts: ['worlddrinks.top', 'www.worlddrinks.top']
+		},
 		plugins: [
 			VitePWA({
 				registerType: 'autoUpdate',
