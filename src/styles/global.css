@@ -293,12 +293,15 @@ button:focus-visible {
     overflow: visible;
   }
   .intro, .app-frame, .country-hero { grid-template-columns: 1fr; }
+  .map-panel { order: 1; }
+  .detail-panel { order: 2; }
+  .sidebar-panel { order: 3; }
   .sidebar-panel,
   .map-panel,
   .detail-panel { min-height: auto; height: auto; }
   .sidebar-panel { position: static; height: auto; }
-  .map-canvas { min-height: 460px; }
-  .globe-stage { height: 52vh; min-height: 420px; }
+  .map-canvas { min-height: clamp(280px, 56vh, 460px); }
+  .globe-stage { height: clamp(280px, 56vh, 420px); min-height: 280px; }
   .detail-panel { position: static; }
 }
 
@@ -307,9 +310,9 @@ button:focus-visible {
   .intro { gap: 16px; }
   .sidebar-panel,
   .map-panel, .detail-panel { border-radius: 8px; }
-  .map-canvas { min-height: 340px; }
-  .globe-stage { height: 42vh; min-height: 320px; }
-  .country-list { grid-template-columns: 1fr; max-height: 230px; }
+  .map-canvas { min-height: clamp(260px, 48vh, 340px); }
+  .globe-stage { height: clamp(260px, 48vh, 320px); min-height: 260px; }
+  .country-list { grid-template-columns: 1fr; max-height: 180px; }
   .drink-title { overflow-wrap: anywhere; }
 }
 
